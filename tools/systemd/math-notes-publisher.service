@@ -1,0 +1,9 @@
+[Unit]
+Description=Publish allowlisted Obsidian math notes to GitHub
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/monzo/Documents/math-notes
+ExecStart=/usr/bin/python3 tools/publish.py --math-dir /home/monzo/Documents/Obsidian/Documents/Math --images-dir /home/monzo/Documents/Obsidian/Documents/Images

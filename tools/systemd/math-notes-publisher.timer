@@ -1,0 +1,10 @@
+[Unit]
+Description=Publish Obsidian math notes daily at 10 PM CT
+
+[Timer]
+OnCalendar=*-*-* 22:00:00 America/Chicago
+Persistent=true
+Unit=math-notes-publisher.service
+
+[Install]
+WantedBy=timers.target
