@@ -1,6 +1,6 @@
 # Math Notes
 
-Public notes from Algebra II, Precalculus, and Calculus I.
+Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy Calculus I track, synced from Obsidian Vault daily.
 
 ## Algebra II
 
