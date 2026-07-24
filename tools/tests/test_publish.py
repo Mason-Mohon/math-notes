@@ -113,6 +113,17 @@ class PublisherTests(unittest.TestCase):
         self.assertEqual(tuple((self.stage / "assets").iterdir()), ())
         self.assertEqual(len(report.warnings), 3)
 
+    def test_generated_markdown_has_no_trailing_whitespace_or_blank_eof(self):
+        (self.math / "Clean.md").write_text(
+            "[[Calculus I]]  \nBody \n\n\n",
+            encoding="utf-8",
+        )
+
+        build_publication(self.math, self.images, self.stage)
+
+        generated = (self.stage / "Calculus I" / "Clean.md").read_text()
+        self.assertEqual(generated, "Calculus I\nBody\n")
+
     def test_stage_rejects_unexpected_file_and_symlink(self):
         self.stage.mkdir()
         (self.stage / "secret.txt").write_text("no", encoding="utf-8")

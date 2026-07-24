@@ -194,6 +194,8 @@ def build_publication(math_dir: Path, images_dir: Path, stage: Path) -> Report:
             _note_links(notes, note),
             image_links,
         )
+        rendered = "\n".join(line.rstrip() for line in rendered.splitlines()).rstrip()
+        rendered += "\n"
         warnings.extend(f"{note.source.name}: {item}" for item in note_warnings)
         (stage / note.folder / note.source.name).write_text(
             rendered,
