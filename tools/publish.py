@@ -146,7 +146,10 @@ def _readme(notes: list[Note]) -> str:
     lines = [
         "# Math Notes",
         "",
-        "Public notes from Algebra II, Precalculus, and Calculus I.",
+        (
+            "Public notes from Algebra II, Precalculus, and Calculus I. "
+            "On the Math Academy Calculus I track, synced from Obsidian Vault daily."
+        ),
         "",
     ]
     for folder in NOTE_FOLDERS:
@@ -311,6 +314,13 @@ def _git(repository: Path, *arguments: str, capture: bool = False):
     )
 
 
+def fast_forward(repository: Path) -> None:
+    status = _git(repository, "status", "--porcelain", capture=True).stdout
+    if status:
+        raise RuntimeError("Repository has uncommitted changes")
+    _git(repository, "pull", "--ff-only")
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--math-dir", type=Path, required=True)
@@ -319,6 +329,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--no-push", action="store_true")
     args = parser.parse_args(argv)
     repository = Path(__file__).resolve().parents[1]
+    if not args.dry_run:
+        fast_forward(repository)
 
     with tempfile.TemporaryDirectory(prefix="math-notes-publisher-") as temporary:
         stage = Path(temporary) / "stage"
@@ -326,9 +338,6 @@ def main(argv: list[str] | None = None) -> int:
         _print_report(report)
         if args.dry_run:
             return 0
-        status = _git(repository, "status", "--porcelain", capture=True).stdout
-        if status:
-            raise RuntimeError("Repository has uncommitted changes")
         if not sync_owned_output(stage, repository):
             print("\nNo generated changes.")
             return 0

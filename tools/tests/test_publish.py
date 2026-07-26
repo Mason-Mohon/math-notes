@@ -1,10 +1,12 @@
 import tempfile
 import unittest
+import subprocess
 from pathlib import Path
 
 from tools.publish import (
     build_publication,
     classify_note,
+    fast_forward,
     sync_owned_output,
     validate_stage,
 )
@@ -92,7 +94,12 @@ class PublisherTests(unittest.TestCase):
         )
         self.assertFalse((self.stage / "assets" / "private-photo.jpg").exists())
         self.assertIn("Scratch.md", report.skipped)
-        self.assertIn("Derivative", (self.stage / "README.md").read_text())
+        readme = (self.stage / "README.md").read_text()
+        self.assertIn("Derivative", readme)
+        self.assertIn(
+            "On the Math Academy Calculus I track, synced from Obsidian Vault daily.",
+            readme,
+        )
         validate_stage(self.stage)
 
     def test_rejects_unapproved_missing_and_symlinked_images(self):
@@ -177,6 +184,73 @@ class PublisherTests(unittest.TestCase):
         (repository / "assets").symlink_to(self.images)
         with self.assertRaises(ValueError):
             sync_owned_output(self.stage, repository)
+
+
+class GitUpdateTests(unittest.TestCase):
+    def test_fast_forward_pulls_remote_commit(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            remote = root / "remote.git"
+            seed = root / "seed"
+            worker = root / "worker"
+            editor = root / "editor"
+
+            subprocess.run(("git", "init", "--bare", str(remote)), check=True)
+            subprocess.run(("git", "init", "-b", "main", str(seed)), check=True)
+            subprocess.run(
+                ("git", "-C", str(seed), "config", "user.name", "Test"),
+                check=True,
+            )
+            subprocess.run(
+                ("git", "-C", str(seed), "config", "user.email", "test@example.com"),
+                check=True,
+            )
+            (seed / "README.md").write_text("one\n")
+            subprocess.run(("git", "-C", str(seed), "add", "README.md"), check=True)
+            subprocess.run(
+                ("git", "-C", str(seed), "commit", "-m", "initial"),
+                check=True,
+                capture_output=True,
+            )
+            subprocess.run(
+                ("git", "-C", str(seed), "remote", "add", "origin", str(remote)),
+                check=True,
+            )
+            subprocess.run(
+                ("git", "-C", str(seed), "push", "-u", "origin", "main"),
+                check=True,
+                capture_output=True,
+            )
+            subprocess.run(
+                ("git", "-C", str(remote), "symbolic-ref", "HEAD", "refs/heads/main"),
+                check=True,
+            )
+            subprocess.run(("git", "clone", str(remote), str(worker)), check=True)
+            subprocess.run(("git", "clone", str(remote), str(editor)), check=True)
+            subprocess.run(
+                ("git", "-C", str(editor), "config", "user.name", "Test"),
+                check=True,
+            )
+            subprocess.run(
+                ("git", "-C", str(editor), "config", "user.email", "test@example.com"),
+                check=True,
+            )
+            (editor / "README.md").write_text("two\n")
+            subprocess.run(("git", "-C", str(editor), "add", "README.md"), check=True)
+            subprocess.run(
+                ("git", "-C", str(editor), "commit", "-m", "remote edit"),
+                check=True,
+                capture_output=True,
+            )
+            subprocess.run(
+                ("git", "-C", str(editor), "push", "origin", "main"),
+                check=True,
+                capture_output=True,
+            )
+
+            fast_forward(worker)
+
+            self.assertEqual((worker / "README.md").read_text(), "two\n")
 
 
 if __name__ == "__main__":
