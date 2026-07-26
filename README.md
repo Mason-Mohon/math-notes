@@ -122,6 +122,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Limits of Reciprocal Functions](Calculus%20I/Limits%20of%20Reciprocal%20Functions.md)
 - [Limits of Reciprocal Trigonometric Functions](Calculus%20I/Limits%20of%20Reciprocal%20Trigonometric%20Functions.md)
 - [Limits of Trigonometric Functions](Calculus%20I/Limits%20of%20Trigonometric%20Functions.md)
+- [Rates of Change in Applied Contexts](Calculus%20I/Rates%20of%20Change%20in%20Applied%20Contexts.md)
 - [Second and Higher Order Derivatives](Calculus%20I/Second%20and%20Higher%20Order%20Derivatives.md)
 - [Selecting Procedures for Calculating Derivatives](Calculus%20I/Selecting%20Procedures%20for%20Calculating%20Derivatives.md)
 - [The Antiderivative](Calculus%20I/The%20Antiderivative.md)
@@ -142,6 +143,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 ## Quizzes
 
 - [Limits and Continuity Functions From Graphs](Quizzes/Limits%20and%20Continuity%20Functions%20From%20Graphs.md)
+- [Limits of Trigonometric Functions and Instantaneous Rates of Change 1](Quizzes/Limits%20of%20Trigonometric%20Functions%20and%20Instantaneous%20Rates%20of%20Change%201.md)
 - [Limits of Trigonometric Functions and Instantaneous Rates of Change](Quizzes/Limits%20of%20Trigonometric%20Functions%20and%20Instantaneous%20Rates%20of%20Change.md)
 - [Modeling Particle Motion Using Trigonometric Functions](Quizzes/Modeling%20Particle%20Motion%20Using%20Trigonometric%20Functions.md)
 - [Quiz 1](Quizzes/Quiz%201.md)
