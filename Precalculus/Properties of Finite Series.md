@@ -1,4 +1,4 @@
-Math Academy Precalculus
+Math Academy Precalculus Sigma Notation Finite Series
 
 ![](../assets/Pasted%20image%2020260724104942.png)
 

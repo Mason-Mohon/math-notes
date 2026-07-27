@@ -116,6 +116,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Integrating the Reciprocal](Calculus%20I/Integrating%20the%20Reciprocal.md)
 - [Integrating Trigonometric Functions](Calculus%20I/Integrating%20Trigonometric%20Functions.md)
 - [Interpreting the Meaning of the Derivative in Context](Calculus%20I/Interpreting%20the%20Meaning%20of%20the%20Derivative%20in%20Context.md)
+- [Left and Right Riemann Sums in Sigma Notation](Calculus%20I/Left%20and%20Right%20Riemann%20Sums%20in%20Sigma%20Notation.md)
 - [Limits at Infinity and Horizontal Rational Functions](Calculus%20I/Limits%20at%20Infinity%20and%20Horizontal%20Rational%20Functions.md)
 - [Limits at Infinity of Polynomials](Calculus%20I/Limits%20at%20Infinity%20of%20Polynomials.md)
 - [Limits of Logarithmic Functions](Calculus%20I/Limits%20of%20Logarithmic%20Functions.md)
