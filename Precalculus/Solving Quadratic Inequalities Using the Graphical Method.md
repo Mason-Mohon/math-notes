@@ -32,3 +32,11 @@ $$\displaylines{2x^2-4x>-2x^2+35\\ \\ 4x^2-4x-35>0\\ \\ }$$
 ```desmos-graph
 4x^2-4x-35
 ```
+
+# Review
+
+$$x^2 + 2 x - 8 \leq 0.$$
+
+```desmos-graph
+x^2 + 2 x - 8
+```
