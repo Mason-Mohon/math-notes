@@ -54,3 +54,14 @@ $$\displaylines{f(x)=\dfrac{3}{x}-x^4\\ \\ f^{\prime}\left(x\right)=-3x^{-2}-4x^
 
 ## Q6
 $$\displaylines{g(x)=\cos x+\ln x\\ \\ g^{\prime}\left(x\right)=-\sin x+\frac{1}{x}\\ \\ g^{\doubleprime}\left(x\right)=-\cos x-\frac{1}{x^2}\\ \\ g^{\prime\prime\prime}\left(x\right)=\sin x+\frac{2}{x^3}\\ \\ g^{\prime\prime\prime\prime}\left(x\right)=\cos x-\frac{6}{x^4}}$$
+
+# Review
+
+## Q1
+$$\displaylines{y=-3\sin x+5x^3-19\\ \\ y^{\prime}=-3\cos x+15x^2\\ \\ y^{\doubleprime}=3\sin x+30x}$$
+
+## Q2
+$$\displaylines{f(x)=2x^4-\sqrt{x}\\ \\ f^{\prime}\left(x\right)=8x^3-\frac{1}{2\sqrt{x}}\\ \\ f^{\doubleprime}\left(x\right)=24x^2+\frac{1}{4\sqrt{x^3}}\\ \\ f^{\prime\prime\prime}\left(x\right)=48x-\frac{3}{8\sqrt{x^5}}}$$
+
+## Q3
+$$\displaylines{y=\dfrac{2x^3-3x+1}{2x}=x^2-\frac32+\frac{1}{2x}\\ \\ y^{\prime}=2x-\frac{1}{2x^2}\\ \\ y^{\doubleprime}=2+\frac{1}{x^3}}$$

@@ -1,8 +1,8 @@
 Math Academy Sigma Notation Riemann Sum Calculus I
 
-Pasted image 20260726141501.png
+![](../assets/Pasted%20image%2020260726141501.png)
 
-Pasted image 20260726141959.png
+![](../assets/Pasted%20image%2020260726141959.png)
 
 $$\displaylines{\sum_{k=0}^{n-1}f\left(x_{k}\right)\Delta x=\sum_{k=0}^{n-1}f\left(a+k\Delta x\right)\Delta x\\ \\ }$$
 
@@ -12,7 +12,7 @@ $$\displaylines{y=\sqrt[\large3]{x+1},x=0,x=4,8\\ \\ \Delta x=\frac{4-0}{8}=\fra
 ## Q2
 $$\displaylines{y=x^2+1,a=0,b=4,4\\ \\ \Delta x=1\\ \\ {\displaystyle\sum_{k=0}^3\left(k^2+1\right)}}$$
 
-Pasted image 20260726142636.png
+![](../assets/Pasted%20image%2020260726142636.png)
 
 ## Q3
 $$\displaylines{y=e^{x-1},a=1,b=5,8\\ \\ \Delta x=\frac12\\ \\ \frac12\sum_{i=1}^8f\left(1+\frac{i}{2}\right)\\ \\ \frac12\sum_{i=1}^8\sqrt{e^{i}}}$$

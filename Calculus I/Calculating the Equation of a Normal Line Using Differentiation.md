@@ -49,3 +49,14 @@ $$\displaylines{y=\dfrac{1}{x}+3,\left(1,4\right)\\ \\ \frac{\differentialD y}{\
 
 ## Q3
 $$\displaylines{y=\dfrac18x^6-\dfrac74x^3,\left(2,-6\right)\\ \\ \frac{\differentialD y}{\differentialD x}=\frac34x^5-\frac{21}{4}x^2\\ \\ m=24-21=3,m^{\prime}=-\frac13\\ \\ y+6=-\frac13\left(x-2\right)\\ \\ -3y-18=x-2\\ \\ -16=x+3y}$$
+
+# Review
+
+## Q1
+$$\displaylines{y=\dfrac{4}{x^2}-x,\left(1,3\right),x+py=q,p-q=?\\ \\ y^{\prime}=-\frac{8}{x^3}-1\\ \\ m=-9,m^{\prime}=\frac19\\ \\ y-3=\frac19\left(x-1\right)\\ \\ -26=x-9y\\ \\ -9+26=17}$$
+
+## Q2
+$$\displaylines{y=\dfrac{3}{x^3},\left(1,3\right),x+py=q,p-q=?\\ \\ y^{\prime}=-\frac{9}{x^4}\\ \\ m=-9,m^{\prime}=\frac19\\ \\ y-3=\frac19\left(x-1\right)\\ \\ -26=x-9y\\ \\ -9+26=17}$$
+
+## Q3
+$$\displaylines{y=\frac{1}{x^3},\left(1,1\right)\text{ x axis intersection}\\ \\ y^{\prime}=-\frac{3}{x^4}\\ \\ m=-3,m^{\prime}=\frac13\\ \\ 3y-3=x-1\\ \\ \left(-2,0\right)}$$

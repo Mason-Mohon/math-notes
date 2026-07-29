@@ -37,5 +37,19 @@ $$\displaylines{xy=5,\left(-5,-1\right),\text{find x intercept of tangent line}\
 ## Q8
 $$\displaylines{x^2+6x+y^2=16,\left(1,3\right)\\ \\ 2x+6+2y\cdot\frac{\differentialD y}{\differentialD x}=0\\ \\ \frac{\differentialD y}{\differentialD x}=-\frac{2x+6}{2y}\\ \\ m=-\frac86=-\frac43,m^{\prime}=\frac34\\ \\ y-3=\frac34\left(x-1\right)\\ \\ x=-3}$$
 
-## Q9
-$$$$
+# Review
+
+## Q1
+$$\displaylines{xy+x^2=1,\left(1,0\right)\\ \\ x\cdot\frac{\differentialD y}{\differentialD x}+y+2x=0\\ \\ \frac{\differentialD y}{\differentialD x}=-\frac{y}{x}-2\\ \\ m=-2\\ \\ y=2}$$
+
+## Q2
+$$\displaylines{3x^2-2y^2=9,\left(3,3\right)\\ \\ 6x-4y\cdot\frac{\differentialD y}{\differentialD x}=0\\ \\ \frac{\differentialD y}{\differentialD x}=\frac{6x}{4y}\\ \\ m=\frac{18}{12}=\frac32\\ \\ y-3=\frac32\left(x-3\right)\\ \\ y-3=-\frac92\\ \\ y=-\frac32}$$
+
+## Q3
+$$\displaylines{3xy-y^2=x\\ \\ 3x\cdot\frac{\differentialD y}{\differentialD x}+3y-2y\cdot\frac{\differentialD y}{\differentialD x}=1\\ \\ \frac{1-3y}{3x-2y}=\frac{\differentialD y}{\differentialD x}\\ \\ }$$
+
+## Q4
+$$\displaylines{e^{x}y=x+2\\ \\ e^{x}\cdot\frac{\differentialD y}{\differentialD x}+e^{x}y=1\\ \\ \frac{\differentialD y}{\differentialD x}=\frac{1}{e^{x}}-y\\ \\ m=-1}$$
+
+## Q5
+$$\displaylines{x^2+xy=2y,\left(3,-9\right)\\ \\ 2x+x\cdot\frac{\differentialD y}{\differentialD x}+y=2\cdot\frac{\differentialD y}{\differentialD x}\\ \\ \frac{2x+y}{2-x}=\frac{\differentialD y}{\differentialD x}\\ \\ m=\frac{-3}{-1}=3\\ \\ y+9=3\left(x-3\right)\\ \\ y=-18}$$
