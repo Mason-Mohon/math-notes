@@ -17,3 +17,15 @@ $$\displaylines{f(x)=3\tan(2x-1)\\ \\ x=3\tan\left(2y-1\right)\\ \\ \frac{\diffe
 
 ## Q4
 $$\displaylines{f(x)=\sin\left(e^{x}\right)\\ \\ }$$
+
+
+# Review
+
+## Q1
+$$\displaylines{f(x)=12x+5\\ \frac{1}{12}}$$
+
+## Q2
+$$\displaylines{f(x)=2x^2+9\\ \\ \frac{1}{4f^{-1}\left(x\right)}}$$
+
+## Q3
+$$\displaylines{g(x)=\cos(4x+\pi)\\ \\ -4\sin\left(4g+\pi\right)\\ \\ -\dfrac{\csc(4g^{-1}x+\pi)}{4}}$$

@@ -17,5 +17,13 @@ $$\displaylines{-4-e^{3x}>2\\ \\ e^{3x}<-6}$$
 ## Q6
 $$-\left(\dfrac56\right)^{x+3}\leq10^{4x}$$
 
-## Q7
-$$$$
+# Review
+
+## Q1
+$$\displaylines{4-e^{x+1}>6\\ \\ -2>e^{x+1}\\ \\ }$$
+
+## Q2
+$$\displaylines{\left(\dfrac34\right)^{x+6}+1\geq2\\ \\ \left(x+6\right)\left(\ln3-\ln4\right)\ge\ln1\\ \\ x\le\frac{\ln1}{\ln3-\ln4}-6\\ \\ x\le-6}$$
+
+## Q3
+$$2\left(\dfrac13\right)^{2x+7}+1\lt-5$$

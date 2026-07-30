@@ -14,5 +14,10 @@ $$\displaylines{p^4+2p^2-15\\ \\ z^2+2z-15=\left(z+5\right)\left(z-3\right)}$$
 ## Q4
 $$6x^6-11x^3-35=(ax^3-7)(3x^3+b),a+b=7$$
 
-## Q5
-$$$$
+# Review
+
+## Q1
+$$\displaylines{q^4+5q^2-14=u^2+5u-14\\ \\ \left(u+7\right)\left(u-2\right)}$$
+
+## Q2
+$$\displaylines{r^4+r^2-12\\ \\ }$$
