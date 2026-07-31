@@ -18,3 +18,18 @@ $$\displaylines{f(x)=\dfrac{1}{4x}-\dfrac{1}{x+5}\\ \\ =\frac{x+5-4x}{4x\left(x+
 
 ## Q8
 $$\displaylines{f(x)=\dfrac{1}{x^2-4}-\dfrac{1}{x-4}\\ \\ =\frac{x\left(1-x\right)}{\left(x-2\right)\left(x+2\right)\left(x-4\right)}}$$
+
+
+# Review
+
+## Q2
+$$\displaylines{f(x)=\dfrac{1}{x-1}+\dfrac{1}{x+1}\\ \\ \frac{x-1+x+1}{x^2-1}=\frac{x^2}{x^2-1}}$$
+
+## Q3
+$$f(x)=\dfrac{4x-x^2}{4x^2+x}=\frac{x\left(4-x\right)}{x\left(4x+1\right)}$$
+
+## Q4
+$$\displaylines{f(x)=\dfrac{(x+2)(x^4+x^3-6x^2)}{x^3+2x^2}=x^2+x-6\\ \\ }$$
+
+## Q5
+$$\displaylines{f(x)=\dfrac{9}{4x-3}-\dfrac{3}{8x-6}\\ \\ \frac{72x-54+12x-9}{\left(4x-3\right)\left(8x-6\right)}=\frac{21\left(4x-3\right)}{\left(4x-3\right)\left(8x-6\right)}=\frac{21}{8x-6}}$$

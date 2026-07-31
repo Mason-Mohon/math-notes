@@ -18,3 +18,9 @@ $$\dfrac{6x}{2x-3}=\dfrac{3\left(2x-3\right)+3\left(3\right)}{2x-3}=3+\frac{9}{2
 
 ## Q6
 $$\dfrac{9x^5}{3x^4+2}=\dfrac{3x\left(3x^4+2-2\right)}{3x^4+2}=\dfrac{3x\left(3x^4+2\right)+3x\left(-2\right)}{3x^4+2}=3x-\frac{6x}{3x^4+2}$$
+
+
+# Review
+
+## Q3
+$$\dfrac{8x^5}{4x^4-3}=\frac{2x\left(4x^4-3+3\right)}{4x^4-3}=2x+\frac{6x}{4x^4-3}$$

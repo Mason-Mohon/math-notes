@@ -18,3 +18,14 @@ $$\displaylines{s(t)=(t-3)e^{t},\quad t\geq0.\\ \\ v\left(t\right)=e^{t}+e^{t}\l
 
 ## Q6
 $$\displaylines{s(t)=4te^{-t},\quad t\geq0.\\ \\ v\left(t\right)=4e^{-t}-4te^{-t}\\ \\ a\left(t\right)=4te^{-t}-8e^{-t}\\ \\ 0=4t-8,t=22\\ \\ v\left(2\right)=\frac{4}{e^2}-\frac{8}{e^2}=-\frac{4}{e^2}}$$
+
+# Review
+
+## Q1
+$$\displaylines{s(t)=\sqrt{t}\,\ln{t},v\left(t\right)<0,t=?\\ \\ v\left(t\right)=\frac{\ln t}{2\sqrt{t}}+\frac{\sqrt{t}}{t}<0\\ \\ \frac{\sqrt{t}\ln t+2\sqrt{t}}{2t}<0\\ \\ \ln t+2<0\\ \\ \ln t<-2\\ \\ t<e^{-2}}$$
+
+## Q2
+$$\displaylines{s(t)=\dfrac{t^3}{2}-6t^2+30t+4,\quad t\geq0,a\left(t\right)=0,t=?\\ \\ v\left(t\right)=\frac32t^2-12t+30\\ \\ a\left(t\right)=3t-12\\ \\ t=4\\ \\ v\left(4\right)=24-48+30=6}$$
+
+## Q3
+$$\displaylines{s(t)=6t^2-2t^3,\quad t\geq0.\\ \\ v\left(t\right)=12t-6t^2\\ \\ a\left(t\right)=12-12t\\ \\ t=1\\ \\ v\left(1\right)=6}$$
