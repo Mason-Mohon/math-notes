@@ -15,3 +15,11 @@ $$\displaylines{f(x)=7x^3-7x^2+x-1,\left(x-1\right)\\ \\ \begin{array}{c|rrrr} &
 
 ## Q3
 $$\displaylines{f(x)=-5x^3-x^2+2x-2,\left(x+1\right)\\ \\ -\left(x+1\right)\left(5x^2-4x+2\right)}$$
+
+# Review
+
+## Q2
+$$\displaylines{f(x)=-x^3-6x^2-16x-16,\left(x+2\right)\\ \\ \begin{array}{c|rrrr} & x^3 & x^2 & x^1 & x^0\\ -2 & -1 & -6 & -16 & -16\\  &  & 2 & 8 & 16\\  & -1 & -4 & -8 & 0\end{array}\\ \\ \left(x+2\right)\left(-x^2-4x-8\right)}$$
+
+## Q3
+$$\displaylines{f(x)=x^3+x^2+3x+3,\left(x+1\right)\\ \\ \begin{array}{c|rrrr} & x^3 & x^2 & x^1 & x^0\\ -1 & 1 & 1 & 3 & 3\\  &  & -1 & 0 & -3\\  & 1 & 0 & 3 & 0\end{array}\\ \\ \left(x+1\right)\left(x^2+3\right)}$$

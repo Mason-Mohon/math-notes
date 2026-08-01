@@ -53,3 +53,16 @@ $$\displaylines{e^{x}y=x+2\\ \\ e^{x}\cdot\frac{\differentialD y}{\differentialD
 
 ## Q5
 $$\displaylines{x^2+xy=2y,\left(3,-9\right)\\ \\ 2x+x\cdot\frac{\differentialD y}{\differentialD x}+y=2\cdot\frac{\differentialD y}{\differentialD x}\\ \\ \frac{2x+y}{2-x}=\frac{\differentialD y}{\differentialD x}\\ \\ m=\frac{-3}{-1}=3\\ \\ y+9=3\left(x-3\right)\\ \\ y=-18}$$
+
+
+
+# Review
+
+## Q1
+$$\displaylines{x^2+4y^2=6,\left(\sqrt2,1\right)\\ \\ 2x+8y\cdot y^{\prime}=0\\ \\ y^{\prime}=-\frac{x}{4y}\\ \\ m=-\frac{\sqrt2}{4},m^{\prime}=\frac{4\sqrt2}{2}\\ \\ 2y-2=4\sqrt2x-8\\ \\ y=-3}$$
+
+## Q2
+$$\displaylines{3x^2+y^3=2,\left(1,-1\right)\\ \\ 6x+3y^2y^{\prime}=0\\ \\ y^{\prime}=-\frac{2x}{y^2}\\ \\ m=-2}$$
+
+## Q3
+$$\displaylines{2xy+4y^3=x^2-1\\ \\ 2xy^{\prime}+2y+12y^2y^{\prime}=2x\\ \\ y^{\prime}=\frac{2x-2y}{2x+12y^2}}$$

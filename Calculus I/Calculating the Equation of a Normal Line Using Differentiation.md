@@ -60,3 +60,14 @@ $$\displaylines{y=\dfrac{3}{x^3},\left(1,3\right),x+py=q,p-q=?\\ \\ y^{\prime}=-
 
 ## Q3
 $$\displaylines{y=\frac{1}{x^3},\left(1,1\right)\text{ x axis intersection}\\ \\ y^{\prime}=-\frac{3}{x^4}\\ \\ m=-3,m^{\prime}=\frac13\\ \\ 3y-3=x-1\\ \\ \left(-2,0\right)}$$
+
+# Review
+
+## Q1
+$$\displaylines{y=x^2,\left(3,9\right),\text{x axis intersection}\\ \\ y^{\prime}=2x\\ \\ m=6,m^{\prime}=-\frac16\\ \\ y-9=-\frac16\left(x-3\right)\\ \\ 54=x-3\\ \\ x=57}$$
+
+## Q2
+$$\displaylines{y=3x^2+4x,\left(1,7\right),x+py=q,p+q=?\\ \\ y^{\prime}=6x+4\\ \\ m=10,m^{\prime}=-\frac{1}{10}\\ \\ -10y+70=x-1\\ \\ x+10y=71\\ \\ }$$
+
+## Q3
+$$\displaylines{f(x)=2\sqrt{x^3},\left(1,2\right),\text{x axis intersection}\\ \\ y^{\prime}=3\sqrt{x}\\ \\ m=3,m^{\prime}=-\frac13\\ \\ y-2=-\frac13\left(x-1\right)\\ \\ 6=x-1}$$

@@ -49,4 +49,4 @@ $$$$
 $$$$
 
 ## Q3
-$$$$
+$$\displaylines{(-4p,3p)\\ \\ r=\sqrt{25p^2}=5p\\ \\ \theta=\arctan\left(-\frac34\right)=\pi-0.6535=2.5}$$
