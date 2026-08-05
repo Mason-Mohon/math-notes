@@ -104,6 +104,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 
 ## Calculus I
 
+- [Applying the Fundamental Theorem of Calculus to Exponential and Trigonometric Functions](Calculus%20I/Applying%20the%20Fundamental%20Theorem%20of%20Calculus%20to%20Exponential%20and%20Trigonometric%20Functions.md)
 - [Calc I - Placement Scratch](Calculus%20I/Calc%20I%20-%20Placement%20Scratch.md)
 - [Calculating Acceleration for Straight-Line Motion Using Differentiation](Calculus%20I/Calculating%20Acceleration%20for%20Straight-Line%20Motion%20Using%20Differentiation.md)
 - [Calculating Derivatives from Data and Tables](Calculus%20I/Calculating%20Derivatives%20from%20Data%20and%20Tables.md)
@@ -130,6 +131,8 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Differentiating Trigonometric Functions](Calculus%20I/Differentiating%20Trigonometric%20Functions.md)
 - [Discontinuities Due to Vertical Asymptotes](Calculus%20I/Discontinuities%20Due%20to%20Vertical%20Asymptotes.md)
 - [Evaluating Limits at Infinity by Comparing Relative Magnitudes of Functions](Calculus%20I/Evaluating%20Limits%20at%20Infinity%20by%20Comparing%20Relative%20Magnitudes%20of%20Functions.md)
+- [Further Continuity of Piecewise Functions](Calculus%20I/Further%20Continuity%20of%20Piecewise%20Functions.md)
+- [Global vs. Local Extrema and Critical Points](Calculus%20I/Global%20vs.%20Local%20Extrema%20and%20Critical%20Points.md)
 - [Implicit Differentiation](Calculus%20I/Implicit%20Differentiation.md)
 - [Integrating Exponential Functions](Calculus%20I/Integrating%20Exponential%20Functions.md)
 - [Integrating the Reciprocal](Calculus%20I/Integrating%20the%20Reciprocal.md)
@@ -166,6 +169,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [The Power Rule for Differentiation](Calculus%20I/The%20Power%20Rule%20for%20Differentiation.md)
 - [The Product Rule for Differentiation](Calculus%20I/The%20Product%20Rule%20for%20Differentiation.md)
 - [The Quotient Rule for Differentiation](Calculus%20I/The%20Quotient%20Rule%20for%20Differentiation.md)
+- [The Sum and Constant Multiple Rule for Definite Integrals](Calculus%20I/The%20Sum%20and%20Constant%20Multiple%20Rule%20for%20Definite%20Integrals.md)
 - [The Sum and Constant Multiple Rules for Differentiation](Calculus%20I/The%20Sum%20and%20Constant%20Multiple%20Rules%20for%20Differentiation.md)
 - [The Sum Rule for Indefinite Integrals](Calculus%20I/The%20Sum%20Rule%20for%20Indefinite%20Integrals.md)
 - [Vertical Asymptotes of Rational Functions (Calc)](Calculus%20I/Vertical%20Asymptotes%20of%20Rational%20Functions%20%28Calc%29.md)
@@ -186,6 +190,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Quiz 13](Quizzes/Quiz%2013.md)
 - [Quiz 15](Quizzes/Quiz%2015.md)
 - [Quiz 16](Quizzes/Quiz%2016.md)
+- [Quiz 17](Quizzes/Quiz%2017.md)
 - [Quiz 2](Quizzes/Quiz%202.md)
 - [Quiz 3](Quizzes/Quiz%203.md)
 - [Quiz 4](Quizzes/Quiz%204.md)

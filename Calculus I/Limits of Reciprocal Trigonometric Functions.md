@@ -23,5 +23,18 @@ $$\lim_{x\to0^{-}}\Bigl(\sin(x)+4\cot(x)\Bigr)=-\infty$$
 ```desmos-graph
 y=\sin(x)+4\cot(x)
 ```
-## Q
-$$$$
+
+# Review
+
+## Q1
+$$\displaylines{\lim_{x\to0}2\csc\left(x+\dfrac{\pi}{2}\right)\\ \\ 2\csc\frac{\pi}{2}=2}$$
+
+## Q2
+$$\lim_{x\to\frac{\pi}{4}}\cot\left(\dfrac{2x}{3}\right)=\cot\frac{\pi}{6}=\sqrt3$$
+
+## Q3
+$$\lim_{x\to\frac{\pi}{2}^{-}}\csc\left(x-\dfrac{\pi}{2}\right)=\csc0$$
+
+```desmos-graph
+\csc\left(x-\frac{\pi}{2}\right)
+```

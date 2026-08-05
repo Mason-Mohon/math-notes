@@ -28,3 +28,14 @@ $$\displaylines{v(t)=t^3-3t^2-24t+8,m=5,F=0\\ \\ a\left(t\right)=3t^2-6t-24\\ \\
 
 ## Q8
 $$\displaylines{s(t)=\dfrac{1}{12}t^4+\dfrac16t^3-3t^2+6t+12\\ \\ m=2,F=0\\ \\ a\left(t\right)=t^2+t-6=\left(t+3\right)\left(t-2\right)\\ \\ t=2}$$
+
+# Review
+
+## Q1
+$$\displaylines{s(t)=8t-t^4,m=0.5,t=3\\ \\ v\left(t\right)=8-4t^3\\ \\ a\left(t\right)=-12t^2\\ \\ a\left(3\right)=-108\\ \\ F=05.\cdot108=54N}$$
+
+## Q2
+$$\displaylines{s(t)=t\sin{t},m=1\\ \\ v\left(t\right)=\sin t+t\cos t\\ \\ a\left(t\right)=2\cos t-t\sin\left(t\right)}$$
+
+## Q3
+$$\displaylines{s(t)=\dfrac13t^3+\dfrac12t^2-t,m=7\\ \\ v\left(t\right)=t^2+t-1\\ \\ a\left(t\right)=2t+1\\ \\ F\left(t\right)=14t+7}$$

@@ -25,3 +25,14 @@ $$\displaylines{\csc\left(\dfrac{x}{3}-\dfrac{\pi}{12}\right)=-\dfrac{2}{\sqrt3}
 
 ## Q11
 $$\displaylines{\csc\left(\dfrac{x}{3}+\dfrac{\pi}{6}\right)=\dfrac{2}{\sqrt3}\\ \\ \sin\theta=\frac{\sqrt3}{2}\\ \\ \frac{x}{3}+\frac{\pi}{6}=\frac{\pi}{3}+2n\pi\\ \\ \frac{\pi}{2}+6n\pi}$$
+
+# Review
+
+## Q1
+$$\displaylines{\cos\left(2x+\dfrac{3\pi}{4}\right)=\dfrac12\\ \\ \theta=\frac{\pi}{3}+n2\pi,\frac{5\pi}{3}+n2\pi\\ \\ \frac{9\pi}{12}+2x=\frac{4\pi}{12}+2\pi\cdot n\\ \\ x=\pi\cdot n-\frac{5\pi}{24}}$$
+
+## Q2
+$$\displaylines{\cot\left(2x\right)=\sqrt3\\ \\ x=a^{\circ}+n\cdot90^{\circ}\\ \\ 2x=30\degree+n\cdot180\degree\\ \\ a=15}$$
+
+## Q3
+$$\displaylines{\csc{3x}=-\sqrt2\\ \\ \sin3x=-\frac{\sqrt2}{2}\\ \\ 225\degree,315\degree}$$

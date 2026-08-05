@@ -38,3 +38,17 @@ $${{\displaystyle\lim_{x\to-\infty}\dfrac{5x+1}{e^{x}+x^2}=}}\frac{5}{e^{x}+2x}=
 $${{\displaystyle\lim_{x\to-\infty}\dfrac{x^2}{e^{-x}}}}=\frac{2x}{-e^{-x}}=0$$
 
 ![](../assets/Pasted%20image%2020260729124321.png)
+
+# Review
+
+## Q1
+$${{\displaystyle\lim_{x\to\infty}\dfrac{6x^2+3x}{e^{x}+1}=}}\frac{12x+3}{e^{x}+1}$$
+
+## Q2
+$${\displaystyle\lim_{x\to0^{+}}\dfrac{\csc{x}}{e^{\csc{x}}}=}\frac{-\csc x\cot x}{-\csc x\cot x\cdot e^{\csc x}}=\frac{1}{e^{\csc x}}=$$
+
+## Q3
+$${\displaystyle\lim_{x\to\infty}\dfrac{\ln4x}{x}=\frac{\frac{1}{x}}{1}=\frac{1}{x}}$$
+
+## Q4
+$${\displaystyle\lim_{x\to0^{+}}\dfrac{\cot{x}}{e^{\cot{x}}}=}\frac{1}{e^{\cot x}}$$
