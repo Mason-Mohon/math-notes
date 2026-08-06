@@ -38,3 +38,14 @@ $$f(x)=\dfrac{5x^2-12x}{20x-48}=\frac{x\left(5x-12\right)}{4\left(5x-12\right)}$
 
 ## Q3
 $$f(x)=\dfrac{x^3+2x^2}{2x+4}=\frac{x^2\left(x+2\right)}{2\left(x+2\right)}$$
+
+# Review
+
+## Q1
+$$f(x)=\dfrac{3x-2x^2}{18-12x}=\frac{x\left(3-2x\right)}{6\left(3-2x\right)}=\frac{x}{6}$$
+
+## Q2
+$$f(x)=\dfrac{4x-12}{3x^2-9x}=\frac{4\left(x-3\right)}{3x\left(x-3\right)}=\frac{4}{3x}$$
+
+## Q3
+$$f(x)=\dfrac{(x-1)(x^3+3x^2+2x)}{x^3-x}=\frac{x\left(x-1\right)\left(x^2+3x+2\right)}{x\left(x-1\right)\left(x+1\right)}=\frac{\left(x+1\right)\left(x+2\right)}{\left(x+1\right)}$$

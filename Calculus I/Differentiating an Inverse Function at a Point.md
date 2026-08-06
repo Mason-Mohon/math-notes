@@ -46,3 +46,17 @@ $$\displaylines{f(x)=x^2\ln(x-2),\left(f^{-1}\right)^{\prime}\left(0\right)=?\\ 
 
 ## Q11
 $$\displaylines{f(x)=-3+5e^{x+1},\left(f^{-1}\right)^{\prime}\left(2\right)=?\\ \\ f^{\prime}\left(x\right)=5\exponentialE^{x+1}\\ \\ f\left(x\right)=2,1=e^{x+1},x=-1\\ \\ \left(f^{-1}\right)^{\prime}\left(2\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(2\right)\right)}=\frac{1}{f^{\prime}\left(-1\right)}=\frac15}$$
+
+
+# Review
+
+$$\left(f^{-1}\right)^{\prime}\left(x\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(x\right)\right)}$$
+
+## Q1
+$$\displaylines{f(x)=\ln(x^2+1)+3x,P\left(0,0\right),\left(f^{-1}\right)^{\prime}\left(0\right)=?\\ \\ f^{\prime}\left(x\right)=\frac{2x}{x^2+1}+3\\ \\ \left(f^{-1}\right)^{\prime}\left(0\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(0\right)\right)}=\frac{1}{f^{\prime}\left(0\right)}=\frac13}$$
+
+## Q2
+$$\displaylines{f(x)=x^2+2,P\left(2,6\right)\\ \\ f^{\prime}\left(x\right)=2x,\\ \\ \left(f^{-1}\right)^{\prime}\left(6\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(6\right)\right)}=\frac{1}{f^{\prime}\left(2\right)}=\frac14}$$
+
+## Q3
+$$\left(f^{-1}\right)^{\prime}\left(-2\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(-2\right)\right)}=\frac{1}{f^{\prime}\left(5\right)}=-\frac13$$
