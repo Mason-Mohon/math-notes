@@ -28,3 +28,14 @@ $$\displaylines{f(x)=3\sin{3x}+\cos{3x},x\in\left(-\frac{\pi}{3},\frac{\pi}{3}\r
 
 ## Q9
 $$\displaylines{f(x)=\sin x+4\cos x,x\in\left(0,2\pi\right)\\ \\ f^{\prime}\left(x\right)=\cos x-4\sin x=0\\ \\ \cot x=4\\ \\ x=\arctan\left(\frac14\right)+n\pi\\ \\ x_1=0.24,x_2=3.39}$$
+
+# Review
+
+## Q1
+$$\displaylines{f(x)=\dfrac{2x-3}{x^2-2}\\ \\ f^{\prime}\left(x\right)=\frac{\left(2x^2-4\right)-\left(4x^2-6x\right)}{\left(x^2-2\right)^2}=-\frac{2\left(x^2-3x+2\right)}{\left(x^2-2\right)^2}=0=-2\left(x-1\right)\left(x-2\right)}$$
+
+## Q2
+$$\displaylines{f(x)=2\sin{x}-\cos{x},x\in\left(0,2\pi\right),x_1\cdot x_2=?\\ \\ f^{\prime}\left(x\right)=2\cos x+\sin x=0\\ \\ -2=\tan x\\ \\ \arctan\left(-2\right)=x_1\cdot x_2=10.53}$$
+
+## Q3
+$$\displaylines{f(x)=e^{x^3-12x^2-60x}\\ \\ f^{\prime}\left(x\right)=e^{x^3-12x^2-60x}\left(3x^2-24x-60\right)\\ \\ 0=x^2-8x-20=\left(x-10\right)\left(x+2\right)}$$

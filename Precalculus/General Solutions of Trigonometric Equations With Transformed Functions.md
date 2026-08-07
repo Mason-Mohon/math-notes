@@ -36,3 +36,14 @@ $$\displaylines{\cot\left(2x\right)=\sqrt3\\ \\ x=a^{\circ}+n\cdot90^{\circ}\\ \
 
 ## Q3
 $$\displaylines{\csc{3x}=-\sqrt2\\ \\ \sin3x=-\frac{\sqrt2}{2}\\ \\ 225\degree,315\degree}$$
+
+# Review
+
+## Q1
+$$\displaylines{\tan\left(4x-\dfrac{\pi}{4}\right)=1\\ \\ 4x-\dfrac{\pi}{4}=\frac{\pi}{4}+n\pi\\ \\ 4x=\frac{\pi}{2}+n\pi\\ \\ x=\frac{\pi}{8}+4n\pi}$$
+
+## Q2
+$$\displaylines{\sec\left(\dfrac{x}{2}\right)=-2\\ \\ x=a^{\circ}+720^{\circ}\cdot n,\quad x=480^{\circ}+720^{\circ}\cdot n\\ \\ \operatorname{\mathrm{arcsec}}\left(-2\right)=\theta\\ \\ \arccos\left(-\frac12\right)=\theta\\ \\ a=240\degree}$$
+
+## Q3
+$$\displaylines{\cos\left(2x+\dfrac{\pi}{3}\right)=1\\ \\ 2x+\frac{\pi}{3}=2\pi\cdot n\\ \\ x=n\pi-\frac{\pi}{6}}$$

@@ -57,3 +57,15 @@ $$\displaylines{z=\dfrac{1+\sqrt3\,\textrm{i}}{\sqrt3+\textrm{i}}\cdot\frac{\sqr
 
 ## Q3
 $$\displaylines{z=10\left(\cos\left(\dfrac{\pi}{2}\right)+\textrm{i}\sin\left(\dfrac{\pi}{2}\right)\right)\\ \\ }$$
+
+
+# Review
+
+## Q1
+$$\displaylines{z=6\left(\cos\left(\dfrac{2\pi}{3}\right)+\textrm{i}\sin\left(\dfrac{2\pi}{3}\right)\right)\\ \\ =6\left(-\frac12+i\frac{\sqrt3}{2}\right)=-3+3\sqrt3i}$$
+
+## Q2
+$$z=5(\cos(\pi) + \textrm{i}\sin(\pi))$$
+
+## Q3
+$$$$
