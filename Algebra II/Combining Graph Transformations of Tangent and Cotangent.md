@@ -26,3 +26,15 @@ $$\displaylines{y=\cot{\left(\dfrac{2x}{5}+C\right)}=\cot\left(\frac25\left(x+\f
 
 ## Q6
 $$\displaylines{y=\cot\left(3x+C\right)\\ \\ \frac{C}{3}=\frac{\pi}{12}\\ \\ C=\frac{\pi}{4}}$$
+
+
+# Review
+
+## Q1
+$$\displaylines{3\pi=\frac{\pi}{B}\\ \\ B=\frac13,D=-4}$$
+
+## Q2
+$$\displaylines{\frac{4\pi}{5}=\frac{\pi}{B}\\ \\ B=\frac54,D=-3}$$
+
+## Q3
+$$\frac53C=-\frac{\pi}{3}$$

@@ -46,5 +46,16 @@ $$\displaylines{T=\frac{12\pi}{9}\\ \\ B=2\pi\cdot\frac{9}{12\pi}=\frac{18}{12}=
 ## Q3
 $$\displaylines{T=\frac{28\pi}{8}=\frac{7\pi}{2}\\ \\ B=\frac47\\ \\ D=1=\frac77}$$
 
-## Q5
+# Review
+
+## Q1
 $$$$
+
+## Q2
+$$D=-0.5$$
+
+## Q3
+$$\frac{C}{2}$$
+
+## Q5
+$$\displaylines{\frac43C=\frac{10\pi}{9}\\ \\ 12C=10\pi\\ \\ C=\frac56}$$

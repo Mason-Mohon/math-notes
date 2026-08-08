@@ -52,3 +52,15 @@ $${\displaystyle\lim_{x\to\infty}\dfrac{\ln4x}{x}=\frac{\frac{1}{x}}{1}=\frac{1}
 
 ## Q4
 $${\displaystyle\lim_{x\to0^{+}}\dfrac{\cot{x}}{e^{\cot{x}}}=}\frac{1}{e^{\cot x}}$$
+
+
+# Review
+
+## Q1
+$${{\displaystyle\lim_{x\to\infty}\dfrac{x\ln x}{e^{x}}=}}\frac{1+\ln x}{e^{x}}=0$$
+
+## Q2
+$${{\displaystyle\lim_{x\to0}\dfrac{1-\cos(x^2)}{x^3}=}}\frac{2\sin\left(x^2\right)}{3x^{}}=\frac{4x\cos\left(x^2\right)}{3}=0$$
+
+## Q3
+$$\displaylines{{{\displaystyle\lim_{x\to0}\dfrac{5^{x}-7^{x}-(\ln{5}-\ln{7})x}{x^2}=}}\frac{5^{x}\ln5-7^{x}\ln7-\left(\ln5-\ln7\right)}{2x}=\frac{5^{x}\left(\ln5\right)^2-7^{x}\left(\ln7\right)^2}{2}\\ \\ =\dfrac{\ln^2(5)-\ln^2(7)}{2}}$$
