@@ -116,6 +116,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Calculating the Limits of Radical Functions Using Conjugate Multiplication](Calculus%20I/Calculating%20the%20Limits%20of%20Radical%20Functions%20Using%20Conjugate%20Multiplication.md)
 - [Calculating the Slope of a Tangent Line Using Differentiation](Calculus%20I/Calculating%20the%20Slope%20of%20a%20Tangent%20Line%20Using%20Differentiation.md)
 - [Calculating Velocity for Straight-Line Motion Using Differentiation](Calculus%20I/Calculating%20Velocity%20for%20Straight-Line%20Motion%20Using%20Differentiation.md)
+- [Continuity and Differentiability of Functions](Calculus%20I/Continuity%20and%20Differentiability%20of%20Functions.md)
 - [Continuity of Functions](Calculus%20I/Continuity%20of%20Functions.md)
 - [Continuity Over An Interval](Calculus%20I/Continuity%20Over%20An%20Interval.md)
 - [Defining Continuity at a Point](Calculus%20I/Defining%20Continuity%20at%20a%20Point.md)
@@ -218,4 +219,5 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Quiz 5](Quizzes/Quiz%205.md)
 - [Quiz 7](Quizzes/Quiz%207.md)
 - [Quiz 9](Quizzes/Quiz%209.md)
+- [Stock and Commodity Prices With Piecewise Continuous Functions](Quizzes/Stock%20and%20Commodity%20Prices%20With%20Piecewise%20Continuous%20Functions.md)
 - [Stock and Commodity Prices With Piecewise-Continuous Functions](Quizzes/Stock%20and%20Commodity%20Prices%20With%20Piecewise-Continuous%20Functions.md)

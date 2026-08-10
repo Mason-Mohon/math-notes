@@ -30,3 +30,14 @@ $$\displaylines{f(x)=\ln(x^2-3),\left(2,0\right)\\ \\ f^{\prime}\left(x\right)=\
 
 ## Q3
 $$\displaylines{y=\log_2(x^3)\\ \\ \frac{\differentialD y}{\differentialD x}=\frac{3x^2}{x^3\ln2}=\frac{3}{x\ln2}}$$
+
+# Review
+
+## Q1
+$$\displaylines{g(x)=\ln(5x^2)\\ \\ g^{\prime}\left(x\right)=\frac{10x}{5x^2}=\frac{2}{x}}$$
+
+## Q2
+$$\displaylines{y=\log_2(3-2x),\left(1,0\right)\\ \\ y^{\prime}=\frac{-2}{\left(3-2x\right)\ln2}\\ \\ m=-\frac{2}{\ln2}\\ \\ y=-\frac{2x}{\ln2}+\frac{2}{\ln2}}$$
+
+## Q3
+$$\displaylines{f(x)=\ln(-7x)\\ \\ f^{\prime}\left(x\right)=\frac{1}{-7x}\cdot-7=\frac{1}{x}}$$
