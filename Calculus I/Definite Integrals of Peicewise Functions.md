@@ -28,3 +28,21 @@ $$\displaylines{A_1=3+\frac32=\frac92\\ \\ A_2=16-4\pi\\ \\ A_2=3+\frac92=\frac{
 ## Q9
 ![](../assets/Pasted%20image%2020260807204852.png)
 $$\displaylines{A_1=-2\pi\\ \\ A_2=8\\ \\ A_3=6}$$
+
+# Review
+
+## Q1
+![](../assets/Pasted%20image%2020260810133846.png)
+$$\displaylines{{\displaystyle\int_{-4}^6f(x)\,\textrm{d}x.}\\ \\ 4+4+2+2-1}$$
+
+## Q2
+$$6+\frac{9\pi}{4}+6$$
+
+## Q3
+$$6+\frac{15}{2}=\frac{27}{2}$$
+
+## Q4
+$$\frac92+3+4+2+9$$
+
+## Q5
+$$-4-\left(4-\pi\right)+5+5=2+\pi$$

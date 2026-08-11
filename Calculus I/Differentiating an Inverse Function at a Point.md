@@ -1,4 +1,4 @@
-Math Academy Calculus I Differentiation [Differentiating Inverse Functions](Differentiating%20Inverse%20Functions.md)
+Math Academy Calculus I Differentiation [Differentiating Inverse Functions](Differentiating%20Inverse%20Functions.md) Inverse Functions
 
 ![](../assets/Pasted%20image%2020260728105658.png)
 

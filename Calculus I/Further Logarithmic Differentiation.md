@@ -21,3 +21,24 @@ $$\displaylines{y=\sqrt[3]{(x^3-1)(x+2)^2}=(x^3-1)^{\frac13}(x+2)^{\frac23}\\ \\
 
 ## Q6
 $$\displaylines{y=\dfrac{(2x+5)^6}{\sqrt{\sin x}}\\ \\ \ln y=6\ln\left(2x+5\right)-\frac12\ln\sin x\\ \\ \frac{y^{\prime}}{y}=\frac{12}{2x+5}-\frac{\cos x}{2\sin x}=\frac{24\sin x-\left(2x+5\right)\cos x}{\left(2x+5\right)\left(2\sin x\right)}\\ \\ y^{\prime}=\frac{\left(2x+5\right)^5\left(24\sin x-\left(2x+5\right)\cos x\right)}{2\sqrt{\sin^3x}}}$$
+
+# Review
+## Q1
+$$\displaylines{y=\dfrac{2^{\sin x}}{x^2(4-5x)^4}\\ \\ y^{\prime}=\dfrac{2^{\sin x}}{x^3(4-5x)^5}\big(30x-8+g(x)\big),g\left(x\right)=?\\ \\ \ln y=\sin x\ln2-2\ln x-4\ln\left(4-5x\right)\\ \\ \frac{y^{\prime}}{y}=\ln\left(2\right)\cos x-\frac{2}{x}+\frac{20}{4-5x}=\frac{x\left(4-5x\right)\left(\ln\left(2\right)\cos x\right)-8+10x+20x}{x\left(4-5x\right)}\\ \\ =\frac{\ln2\left(4x-5x^2\right)\left(\cos x\right)-8+30x}{x\left(4-5x\right)}\\ \\ g\left(x\right)=\ln2\left(4x-5x^2\right)\left(\cos x\right)}$$
+
+## Q2
+$$\displaylines{y=\sqrt{(x^2+6x)\sin^2x}=\sin x\sqrt{x^2+6x}\\ \\ y^{\prime}=\dfrac{g(x)\sin x+h(x)\cos x}{\sqrt{x^2+6x}},x\in\left(0,\pi\right),h\left(x\right)+g\left(x\right)=?\\ \\ y^{\prime}=\cos x\sqrt{x^2+6x}+\frac{\sin x\left(x+3\right)}{\sqrt{x^2+6x}}\\ \\ y^{\prime}=\frac{\cos x\left(x^2+6x\right)+\sin x\left(x+3\right)}{\sqrt{x^2+6x}}\\ \\ h\left(x\right)+g\left(x\right)=x^2+7x+3}$$
+
+## Q3
+$$\displaylines{y=\sqrt{(x^2+1)^3(x-3)^8}=\left(x-3\right)^4\left(x^2+1\right)^{\frac32}\\ \\ y^{\prime}=\sqrt{x^2+1}(x-3)^3(ax^2+bx+c),a+b+c=?\\ \\ \ln y=4\ln\left(x-3\right)+\frac32\ln\left(x^2+1\right)\\ \\ \frac{y^{\prime}}{y}=\frac{4}{x-3}+\frac{3x}{x^2+2}}$$
+
+# Review
+
+## Q1
+$$\displaylines{y=\dfrac{\cos^5x}{(x+6)^3}\\ \\ y^{\prime}=-\dfrac{\cos^4x}{(x+6)^4}\big((ax+b)\sin x+c\cos x\big)\\ \\ \ln y=5\ln\left(\cos x\right)-3\ln\left(x+6\right)\\ \\ \frac{y^{\prime}}{y}=-\frac{5\sin x}{\cos x}-\frac{3}{x+6}=-\frac{5\sin x\left(x+6\right)+3\cos x}{\left(x+6\right)\cos x}\\ \\ y^{\prime}=\dfrac{\cos^5x}{(x+6)^3}\left(-\frac{5\sin x\left(x+6\right)+3\cos x}{\left(x+6\right)\cos x}\right)\\ \\ y^{\prime}=-\dfrac{\cos^4x}{(x+6)^4}\big((5x+30)\sin x+3\cos x\big)}$$
+
+## Q2
+$$\displaylines{y=\sqrt{\dfrac{(x^2+4)^3}{\sin x}}=\left(x^2+4\right)^{\frac32}\left(\sin x\right)^{-\frac12}=\left(x^2+4\right)\sqrt{\left(x^2+4\right)\csc x}\\ \\ \ln y=\frac32\ln\left(x^2+4\right)-\frac12\ln\sin x\\ \\ \frac{y^{\prime}}{y}=\frac{3x}{\left(x^2+4\right)}-\frac{\cos x}{2\sin x}=\frac{6x\sin x-\left(x^2+4\right)\cos x}{2\left(x^2+4\right)\sin x}\\ \\ y^{\prime}=\left(x^2+4\right)^{\frac32}\left(\sin x\right)^{-\frac12}\left(\frac{6x\sin x-\left(x^2+4\right)\cos x}{2\left(x^2+4\right)\sin x}\right)\\ \\ y^{\prime}=\left(x^2+4\right)\sqrt{\left(x^2+4\right)\csc x}\left(\frac{3x}{x^2+4}-\frac12\cot x\right)\\ \\ y^{\prime}=\dfrac12\big(6x-(x^2+4)\cot x\big)\sqrt{(x^2+4)\csc x}}$$
+
+## Q3
+$$\displaylines{y=\dfrac{6^{\cos x}}{(x-2)^4(3-x)^3}\\ \\ \ln y=\cos x\ln6-4\ln\left(x-2\right)-3\ln\left(3-x\right)\\ \\ \frac{y^{\prime}}{y}=-\ln6\sin x-\frac{4}{x-2}+\frac{3}{3-x}=-\frac{\ln6\left(\sin x\right)\left(3-x\right)\left(x-2\right)+4\left(3-x\right)-3\left(x-2\right)}{\left(x-2\right)\left(3-x\right)}\\ \\ =-\frac{\ln6\left(x-2\right)\left(3-x\right)\sin x+18-7x}{\left(x-2\right)\left(3-x\right)}\\ \\ y^{\prime}=\dfrac{6^{\cos x}\left(-\ln6\left(x-2\right)\left(3-x\right)\sin x-18+7x\right)}{(x-2)^5(3-x)^4}}$$

@@ -22,3 +22,13 @@ $$\displaylines{e^{-p/2}+1=8\\ \\ -\frac{p}{2}=\ln\left(7\right)\\ \\ p=-2\ln\le
 
 ## Q7
 $$\displaylines{e^{-3x}-2=5\\ \\ x=-\frac13\ln\left(7\right)=-0.649}$$
+
+# Review
+## Q1
+$$\displaylines{e^{6b}-8=-2\\ \\ e^{6b}=6\\ \\ 6b=\ln6\\ \\ b=\frac{\ln6}{6}=0.29863}$$
+
+## Q2
+$$\displaylines{e^{9-4x}=8\\ \\ 9-4x=\ln8\\ \\ x=\frac{9-\ln8}{4}=1.7301}$$
+
+## Q3
+$$\displaylines{-7e^{z}+10=6\\ \\ e^{z}=\frac47\\ \\ z=\ln\left(4\right)-\ln\left(7\right)}$$

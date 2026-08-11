@@ -1,4 +1,4 @@
-Math Academy Calculus I
+Math Academy Calculus I Hyperbolic Functions
 
 ![](../assets/Pasted%20image%2020260722155158.png)
 

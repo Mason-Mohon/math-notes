@@ -1,4 +1,4 @@
-Math Academy Calculus I Differentiation [Implicit Differentiation](Implicit%20Differentiation.md)
+Math Academy Calculus I Differentiation [Implicit Differentiation](Implicit%20Differentiation.md) Inverse Functions
 
 ![](../assets/Pasted%20image%2020260727115848.png)
 

@@ -46,3 +46,14 @@ $$\displaylines{f(x)=\dfrac{e^{2x}}{x}\\ \\ f^{\prime}\left(x\right)=\frac{2xe^{
 
 ## Q4
 $$\displaylines{y=\dfrac{e^{3x}}{x+2}\\ \\ y^{\prime}=\frac{3\left(x+2\right)e^{3x}-e^{3x}}{\left(x+2\right)^2}\\ \\ y^{\prime}\left(1\right)=\frac{8e^3}{9}}$$
+
+# Review
+
+## Q1
+$$\displaylines{y=3x^2\sec(e^{x})\\ \\ y^{\prime}=6x\sec\left(e^{x}\right)+3x^2e^{x}\left(\sec e^{x}\tan e^{x}\right)=x\sec\left(e^{x}\right)\left(6+3xe^{x}\tan e^{x}\right)}$$
+
+## Q2
+$$\displaylines{y=x\ln(x+1)\\ \\ y^{\prime}=\ln\left(x+1\right)+\frac{x}{x+1}}$$
+
+## Q3
+$$\displaylines{y=(x-1)\cos(x-1)\\ \\ y^{\prime}=\cos\left(x-1\right)-\left(x-1\right)\sin\left(x-1\right)}$$

@@ -1,4 +1,4 @@
-Math Academy Calculus I [The Hyperbolic Function](The%20Hyperbolic%20Function.md)
+Math Academy Calculus I [The Hyperbolic Function](The%20Hyperbolic%20Function.md) Inverse Functions Hyperbolic Functions
 
 $$\sinh^{-1}x=\operatorname{\mathrm{arsinh}}x=\ln\left(x+\sqrt{x^2+1}\right)$$
 ![](../assets/Pasted%20image%2020260806202938.png)

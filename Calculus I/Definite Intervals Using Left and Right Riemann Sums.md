@@ -1,4 +1,4 @@
-Math Academy Calculus I Integrals Riemann Sum
+Math Academy Calculus I Integrals Riemann Sum Intervals
 
 ![](../assets/Pasted%20image%2020260728120455.png)
 

@@ -105,6 +105,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 ## Calculus I
 
 - [Applying the Fundamental Theorem of Calculus to Exponential and Trigonometric Functions](Calculus%20I/Applying%20the%20Fundamental%20Theorem%20of%20Calculus%20to%20Exponential%20and%20Trigonometric%20Functions.md)
+- [Approximating Functions Using Local Linearity and Linearization](Calculus%20I/Approximating%20Functions%20Using%20Local%20Linearity%20and%20Linearization.md)
 - [Calc I - Placement Scratch](Calculus%20I/Calc%20I%20-%20Placement%20Scratch.md)
 - [Calculating Acceleration for Straight-Line Motion Using Differentiation](Calculus%20I/Calculating%20Acceleration%20for%20Straight-Line%20Motion%20Using%20Differentiation.md)
 - [Calculating Derivatives from Data and Tables](Calculus%20I/Calculating%20Derivatives%20from%20Data%20and%20Tables.md)
@@ -146,6 +147,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Integrating Trigonometric Functions](Calculus%20I/Integrating%20Trigonometric%20Functions.md)
 - [Integration Using Inverse Trigonometric Functions](Calculus%20I/Integration%20Using%20Inverse%20Trigonometric%20Functions.md)
 - [Interpreting the Meaning of the Derivative in Context](Calculus%20I/Interpreting%20the%20Meaning%20of%20the%20Derivative%20in%20Context.md)
+- [Intervals of Concavity](Calculus%20I/Intervals%20of%20Concavity.md)
 - [Jump Discontinuities](Calculus%20I/Jump%20Discontinuities.md)
 - [L'Hopital's Rule](Calculus%20I/L%27Hopital%27s%20Rule.md)
 - [Left and Right Continuity](Calculus%20I/Left%20and%20Right%20Continuity.md)
@@ -170,11 +172,13 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Special Limits Involving Sine](Calculus%20I/Special%20Limits%20Involving%20Sine.md)
 - [The Antiderivative](Calculus%20I/The%20Antiderivative.md)
 - [The Area Bounded by a Curve and the X-Axis](Calculus%20I/The%20Area%20Bounded%20by%20a%20Curve%20and%20the%20X-Axis.md)
+- [The Area Bounded by a Curve Y-Axis](Calculus%20I/The%20Area%20Bounded%20by%20a%20Curve%20Y-Axis.md)
 - [The Chain Rule for Differentiation](Calculus%20I/The%20Chain%20Rule%20for%20Differentiation.md)
 - [The Chain Rule for Exponential Functions](Calculus%20I/The%20Chain%20Rule%20for%20Exponential%20Functions.md)
 - [The Chain Rule with Logarithmic Functions](Calculus%20I/The%20Chain%20Rule%20with%20Logarithmic%20Functions.md)
 - [The Chain Rule With Trigonometric Functions](Calculus%20I/The%20Chain%20Rule%20With%20Trigonometric%20Functions.md)
 - [The Constant Multiple Rule of Indefinite Integrals](Calculus%20I/The%20Constant%20Multiple%20Rule%20of%20Indefinite%20Integrals.md)
+- [The Extreme Value Theorem](Calculus%20I/The%20Extreme%20Value%20Theorem.md)
 - [The Fundamental Theorem of Calculus](Calculus%20I/The%20Fundamental%20Theorem%20of%20Calculus.md)
 - [The Hyperbolic Function](Calculus%20I/The%20Hyperbolic%20Function.md)
 - [The Instantaneous Rate of Change of a Function at a Point](Calculus%20I/The%20Instantaneous%20Rate%20of%20Change%20of%20a%20Function%20at%20a%20Point.md)
@@ -188,6 +192,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [The Sum and Constant Multiple Rules for Differentiation](Calculus%20I/The%20Sum%20and%20Constant%20Multiple%20Rules%20for%20Differentiation.md)
 - [The Sum Rule for Indefinite Integrals](Calculus%20I/The%20Sum%20Rule%20for%20Indefinite%20Integrals.md)
 - [Using Differentiation to Calculate Critical Points](Calculus%20I/Using%20Differentiation%20to%20Calculate%20Critical%20Points.md)
+- [Using the First Derivative Test to Classify Local Extrema](Calculus%20I/Using%20the%20First%20Derivative%20Test%20to%20Classify%20Local%20Extrema.md)
 - [Vertical Asymptotes of Rational Functions (Calc)](Calculus%20I/Vertical%20Asymptotes%20of%20Rational%20Functions%20%28Calc%29.md)
 
 ## Quizzes

@@ -27,3 +27,14 @@ $$\displaylines{\left(\dfrac34\right)^{x+6}+1\geq2\\ \\ \left(x+6\right)\left(\l
 
 ## Q3
 $$2\left(\dfrac13\right)^{2x+7}+1\lt-5$$
+
+# Review
+
+## Q3
+$$\displaylines{11^{\left(2x-1\right)}>-2^{5x}\\ \\ \left(2x-1\right)\ln11>0\\ \\ 2x\ln11>\ln11}$$
+
+## Q4
+$$\displaylines{\frac13\left(\frac35\right)^{x}\le3\sqrt3\\ \\ x\left(\ln3-\ln5\right)\le\ln\left(9\right)+\ln\left(\sqrt3\right)}$$
+
+## Q5
+$$\displaylines{\frac{2e-5\left(0.31\right)^{x}}{4e}<-2\\ \\ 2e-5\left(0.31\right)^{x}<-8e\\ \\ 2e<\left(0.31\right)^{x}\\ \\ \ln\left(2e\right)<x\ln\left(0.31\right)}$$
