@@ -20,3 +20,14 @@ $$\displaylines{2^{5x-1}=7^{3-x}\\ \\ \left(5x-1\right)\ln2=\left(3-x\right)\ln7
 
 ## Q6
 $$\displaylines{6^{9-2x}=8^{7x+1}\\ \\ 9\ln6-2x\ln6=7x\ln8+\ln8\\ \\ 9\ln6-\ln8=7x\ln8+2x\ln6\\ \\ x=\frac{9\ln6-\ln8}{7\ln8+2\ln6}}$$
+
+# Review
+
+## Q1
+$$\displaylines{e^{x+2}=2^{x+1}\\ \\ x+2=\left(x+1\right)\ln2\\ \\ x+2=x\ln2+\ln2\\ \\ x-x\ln2=\ln2-2\\ \\ x\left(1-\ln2\right)=\ln2-2}$$
+
+## Q2
+$$\displaylines{2^{x+3}=9^{8-5x}\\ \\ \left(x+3\right)\ln2=\left(8-5x\right)\ln9\\ \\ x\ln2+3\ln2=8\ln9-5x\ln9\\ \\ x\ln2+5x\ln9=8\ln9-3\ln2\\ \\ x=\dfrac{8\ln(9)-3\ln(2)}{\ln(2)+5\ln(9)}}$$
+
+## Q3
+$$\displaylines{e^{2x-2}=2\cdot9^{x}\\ \\ 2x-2=\ln2+x\ln9\\ \\ 2x-x\ln9=\ln2+2\\ \\ x=\frac{\ln2+2}{2-\ln9}}$$

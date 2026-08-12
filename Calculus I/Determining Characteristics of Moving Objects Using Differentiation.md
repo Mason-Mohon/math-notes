@@ -28,4 +28,15 @@ $$\displaylines{s(t)=\sqrt{t}\,\ln{t},v\left(t\right)<0,t=?\\ \\ v\left(t\right)
 $$\displaylines{s(t)=\dfrac{t^3}{2}-6t^2+30t+4,\quad t\geq0,a\left(t\right)=0,t=?\\ \\ v\left(t\right)=\frac32t^2-12t+30\\ \\ a\left(t\right)=3t-12\\ \\ t=4\\ \\ v\left(4\right)=24-48+30=6}$$
 
 ## Q3
-$$\displaylines{s(t)=6t^2-2t^3,\quad t\geq0.\\ \\ v\left(t\right)=12t-6t^2\\ \\ a\left(t\right)=12-12t\\ \\ t=1\\ \\ v\left(1\right)=6}$$
+$$\displaylines{s(t)=6t^2-2t^3,\quad t\geq0.\\ \\ v\left(t\right)=12t-6t^2\\ \\ a\left(t\right)=12-12t\\ \\ t=1\\ \\ v\left(1t\right)=6}$$
+
+# Review
+
+## Q1
+$$\displaylines{s\left(t\right)=\left(3t-4\right)\exponentialE^{t}\\ \\ v\left(t\right)=3\exponentialE^{t}+\left(3t-4\right)\exponentialE^{t}=0\\ \\ 3e^{t}=-\left(3t-4\right)e^{t},3=4-3t,t=\frac13}$$
+
+## Q2
+$$\displaylines{s(t)=t^3\ln{t}\\ \\ v\left(t\right)=3t^2\ln t+t^2=0\\ \\ t=\frac{1}{e^3}}$$
+
+## Q3
+$$\displaylines{s(t)=2t^3-9t^2+3t-2,\quad t\geq0.\\ \\ v\left(t\right)=6t^2-18t+3\\ \\ a\left(t\right)=12t-18=0,2t-3\\ \\ t=\frac32\\ \\ v\left(\frac32\right)=6\cdot\left(\frac94\right)-24=\frac{54}{4}-24=\frac{27}{2}-\frac{48}{2}}$$

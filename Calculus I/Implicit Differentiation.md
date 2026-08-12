@@ -66,3 +66,14 @@ $$\displaylines{3x^2+y^3=2,\left(1,-1\right)\\ \\ 6x+3y^2y^{\prime}=0\\ \\ y^{\p
 
 ## Q3
 $$\displaylines{2xy+4y^3=x^2-1\\ \\ 2xy^{\prime}+2y+12y^2y^{\prime}=2x\\ \\ y^{\prime}=\frac{2x-2y}{2x+12y^2}}$$
+
+# Review
+
+## Q1
+$$\displaylines{4x^3y=8,\left(1,2\right),m=?\\ \\ 12x^2y+4x^3y^{\prime}=0\\ \\ y^{\prime}=-\frac{12x^2y}{4x^3}=-\frac{3y}{x}=-6}$$
+
+## Q2
+$$\displaylines{x^2y+4y=2x^3\\ \\ 2xy+x^2y^{\prime}+4y^{\prime}=6x^2\\ \\ y^{\prime}\left(x^2+4\right)=6x^2-2xy\\ \\ y^{\prime}=\dfrac{6x^2-2xy}{x^2+4}}$$
+
+## Q3
+$$\displaylines{7x^3y^3+3y^2=12x^2\\ \\ 21x^2y^3+7x^33y^2y^{\prime}+6yy^{\prime}=24x\\ \\ y^{\prime}=\frac{24x-21x^2y^3}{21x^3y^2+6y}=\dfrac{8x-7x^2y^3}{7x^3y^2+2y}}$$

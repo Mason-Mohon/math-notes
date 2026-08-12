@@ -36,3 +36,14 @@ $$\displaylines{y=(x^2)^{2x-1},x=1,m=?\\ \\ \ln y=\left(2x-1\right)\ln\left(x^2\
 
 # Q9
 $$\displaylines{y=(\sin x)^{x^2},y^{\prime}=x(\sin x)^{x^2}\cdot g(x),g\left(x\right)=?\\ \\ \ln y=x^2\ln\left(\sin x\right)\\ \\ \frac{y^{\prime}}{y}=2x\ln\left(\sin x\right)+x^2\cdot\frac{1}{\sin x}\cdot\cos x\\ \\ y^{\prime}=x\left(\sin x\right)^{x^2}\cdot\left(2\ln\left(\sin x\right)+x\cot x\right)}$$
+
+# Review
+
+## Q1
+$$\displaylines{y=\left(\dfrac{1}{x}\right)^{x}\\ \\ \ln y=x\ln\frac{1}{x}=-x\ln x\\ \\ \frac{y^{\prime}}{y}=-\frac{x}{x}-\ln x=-1-\ln x\\ \\ y^{\prime}=-\left(x^{-x}\right)\left(\ln x+1\right)}$$
+
+## Q2
+$$\displaylines{y=(\ln x)^{5x}\\ \\ \ln y=5x\ln\left(\ln x\right)\\ \\ \frac{y^{\prime}}{y}=\frac{5}{\ln x}+5\ln\left(\ln x\right)\\ \\ y^{\prime}=(\ln x)^{5x}\left(\frac{5}{\ln x}+5\ln\left(\ln x\right)\right)\\ \\ y^{\prime}\left(e)=(\ln e\right)^{5e}\left(\frac{5}{\ln e}+5\ln\left(\ln e\right)\right)=5}$$
+
+## Q3
+$$\displaylines{y=(-2x^5)^{x}\\ \\ \ln y=x\ln\left(-2x^5\right)\\ \\ \frac{y^{\prime}}{y}=\frac{-10x^4}{-2x^4}+\ln\left(-2x^5\right)=5+\ln\left(-2x^5\right)}$$

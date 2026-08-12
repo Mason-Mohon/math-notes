@@ -39,3 +39,14 @@ $$\displaylines{f(x)=2\sin{x}-\cos{x},x\in\left(0,2\pi\right),x_1\cdot x_2=?\\ \
 
 ## Q3
 $$\displaylines{f(x)=e^{x^3-12x^2-60x}\\ \\ f^{\prime}\left(x\right)=e^{x^3-12x^2-60x}\left(3x^2-24x-60\right)\\ \\ 0=x^2-8x-20=\left(x-10\right)\left(x+2\right)}$$
+
+# Review
+
+## Q1
+$$\displaylines{f(x)=\dfrac{x+1}{x^2+3}\\ \\ f^{\prime}\left(x\right)=\frac{x^2+3-2x\left(x+1\right)}{\left(x^2+3\right)^2}=\frac{-x^2-2x+3}{\left(x^2+3\right)^2}\\ \\ x^2+2x-3=\left(x+3\right)\left(x-1\right)}$$
+
+## Q2
+$$\displaylines{f(x)=(x-1)^2e^{(x-1)^2-3}\\ \\ f^{\prime}\left(1\right)=0}$$
+
+## Q3
+$$$$
