@@ -60,3 +60,18 @@ $$\displaylines{f(x)=x^2+2,P\left(2,6\right)\\ \\ f^{\prime}\left(x\right)=2x,\\
 
 ## Q3
 $$\left(f^{-1}\right)^{\prime}\left(-2\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(-2\right)\right)}=\frac{1}{f^{\prime}\left(5\right)}=-\frac13$$
+
+# Review
+$$\left(f^{-1}\right)^{\prime}\left(x\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(x\right)\right)}$$
+
+## Q1
+$$\displaylines{f(x)=4^{x}+2\\ \\ f^{\prime}\left(x\right)=4^{x}\ln4\\ \\ 6=4^{x}+2,x=1\\ \\ \left(f^{-1}\right)^{\prime}\left(6\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(6\right)\right)}=\frac{1}{f^{\prime}\left(1\right)}=\frac{1}{4\ln4}}$$
+
+## Q2
+$$\displaylines{f(x)=8x-x^4,P\left(1,7\right),\left(f^{-1}\right)^{\prime}\left(7\right)=?\\ \\ f^{\prime}\left(x\right)=8-4x^3\\ \\ f^{\prime}\left(1\right)=4}$$
+
+## Q3
+$$\displaylines{f(x)=3\sqrt[3]{x},P\left(8,6\right)\\ \\ f^{\prime}\left(x\right)=\frac{1}{\sqrt[3]{x^2}},f^{\prime}\left(8\right)=\frac14}$$
+
+## Q4
+$$\left(f^{-1}\right)^{\prime}\left(1\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(1\right)\right)}=\frac{1}{f^{\prime}\left(2\right)}$$
