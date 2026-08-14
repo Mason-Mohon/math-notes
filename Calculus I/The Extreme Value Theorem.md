@@ -12,14 +12,6 @@ Topics: Critical Points
 ## Q3
 $$\displaylines{y=\dfrac{\sqrt[{\large4}]{x}}{x^2+1}\\ \\ x\ne-1}$$
 ![](../assets/Pasted%20image%2020260810152307.png)
-## Q4
-$$$$
-
-## Q5
-$$$$
-
-## Q6
-$$$$
 
 # Review
 

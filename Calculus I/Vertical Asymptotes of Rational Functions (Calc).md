@@ -33,3 +33,14 @@ $$\displaylines{f(x)=\dfrac{(x+2)(x^4+x^3-6x^2)}{x^3+2x^2}=x^2+x-6\\ \\ }$$
 
 ## Q5
 $$\displaylines{f(x)=\dfrac{9}{4x-3}-\dfrac{3}{8x-6}\\ \\ \frac{72x-54+12x-9}{\left(4x-3\right)\left(8x-6\right)}=\frac{21\left(4x-3\right)}{\left(4x-3\right)\left(8x-6\right)}=\frac{21}{8x-6}}$$
+
+# Review
+
+## Q1
+$$f(x)=\dfrac{2x^3+x^2}{6x+3}=\frac{x^2\left(2x+1\right)}{3\left(2x+1\right)}$$
+
+## Q3
+$$f(x)=\dfrac{5}{x-3}+\dfrac{2}{x-4}=\frac{5x-20+2x-6}{\left(x-3\right)\left(x-4\right)}$$
+
+## Q3
+$$$$

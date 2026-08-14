@@ -35,12 +35,17 @@ $$\displaylines{f(x)=x-\ln x-2,x\in\left\lbrack0,1\right\rbrack,x_0=0.1\\ \\ f^{
 
 
 # Review
+$$x_{n+1}=x_{n}-\frac{f\left(x_{n}\right)}{f^{\prime}\left(x_{n}\right)}$$
+
 
 ## Q1
-$$$$
+$$\displaylines{f(x)=x^4-2x-1,x\in\left\lbrack1,2\right\rbrack,x_0=1.5\\ \\ f^{\prime}\left(x\right)=4x^3-2\\ \\ x_1=x-\frac{x^4-2x-1}{4x^3-2}=1.5-\frac{1.5^4-2\left(1.5\right)-1}{4\left(1.5\right)^3-2}=1.407608696\\ \\ x_2=1.407608696-\frac{1.407608696^{4}-2\left(1.407608696\right)-1}{4\left(1.407608696\right)^{3}-2}=1.395531394=1.396}$$
 
 ## Q2
-$$$$
+$$\displaylines{f(x)=\tan(x^2)-x+1,x\in\left\lbrack1.8,2.2\right\rbrack,x_0=1.8\\ \\ f^{\prime}\left(x\right)=2x\sec^2\left(x^2\right)-1\\ \\ x_1=x-\frac{\tan(x^2)-x+1}{2x\sec^2\left(x^2\right)-1}=1.8-\frac{\tan(1.8^2)-1.8+1}{2\left(1.8\right)\sec^2\left(1.8^2\right)-1}=2.084656554=2.085\\ \\ x_2=2.084656554-\frac{\tan(2.084656554^{2})-2.084656554+1}{2\left(2.084656554\right)\left(\cos2.084656554^{2}\right)^{-2}-1}=2.400515856=2.401}$$
 
 ## Q3
-$$$$
+$$\displaylines{f(x)=\cos x-x^3,x\in\left\lbrack0,2\right\rbrack,x_0=0.5\\ \\ f^{\prime}\left(x\right)=-\sin x-3x^2\\ \\ x_1=x-\frac{\cos x-x^3}{-\sin x-3x^2}=0.5-\frac{\cos0.5-0.5^3}{-\sin0.5-3\left(0.5\right)^2}=1.112141637\\ \\ x_2=1.112141637-\frac{\cos1.112141637-1.112141637^{3}}{-\sin1.112141637-3\left(1.112141637\right)^{2}}=0.9096726937\\ \\ x_3=0.9096726937-\frac{\cos0.9096726937-0.9096726937^{3}}{-\sin0.9096726937-3\left(0.9096726937\right)^{2}}=0.8672638182=0.87\\ \\ x_4=0.8672638182-\frac{\cos0.8672638182-0.8672638182^{3}}{-\sin0.8672638182-3\left(0.8672638182\right)^{2}}=0.8654771353=0.87}$$
+
+## Q4
+$$\displaylines{f(x)=2x^3-e^{x},x\in\left\lbrack1,2\right\rbrack,x_0=1\\ \\ f^{\prime}\left(x\right)=6x^2-e^{x}\\ \\ x_1=x-\frac{2x^3-e^{x}}{6x^2-e^{x}}=1-\frac{2^3-e^1}{6^2-e^1}=0.8413027193\\ \\ x_2=1.426796687\\ \\ x_3=1.222568572\\ \\ x_4=1.176126209\\ \\ x_5=1.173750671=1.174\\ \\ x_6=1.173744579=1.174}$$

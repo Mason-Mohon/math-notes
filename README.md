@@ -105,6 +105,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 ## Calculus I
 
 - [Applying the Fundamental Theorem of Calculus to Exponential and Trigonometric Functions](Calculus%20I/Applying%20the%20Fundamental%20Theorem%20of%20Calculus%20to%20Exponential%20and%20Trigonometric%20Functions.md)
+- [Approximating Areas With the Midpoint Riemann Sum](Calculus%20I/Approximating%20Areas%20With%20the%20Midpoint%20Riemann%20Sum.md)
 - [Approximating Functions Using Local Linearity and Linearization](Calculus%20I/Approximating%20Functions%20Using%20Local%20Linearity%20and%20Linearization.md)
 - [Approximating the Roots Using Local Linearity](Calculus%20I/Approximating%20the%20Roots%20Using%20Local%20Linearity.md)
 - [Calc I - Placement Scratch](Calculus%20I/Calc%20I%20-%20Placement%20Scratch.md)
@@ -166,6 +167,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Newton's Method](Calculus%20I/Newton%27s%20Method.md)
 - [Newton's Second Law](Calculus%20I/Newton%27s%20Second%20Law.md)
 - [Point Discontinuities](Calculus%20I/Point%20Discontinuities.md)
+- [Points of Inflection](Calculus%20I/Points%20of%20Inflection.md)
 - [Properties of Definite Integrals Involving the Limits of Integration](Calculus%20I/Properties%20of%20Definite%20Integrals%20Involving%20the%20Limits%20of%20Integration.md)
 - [Rates of Change in Applied Contexts](Calculus%20I/Rates%20of%20Change%20in%20Applied%20Contexts.md)
 - [Recognizing Derivatives in Limits](Calculus%20I/Recognizing%20Derivatives%20in%20Limits.md)
@@ -226,6 +228,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Quiz 20 Retake](Quizzes/Quiz%2020%20Retake.md)
 - [Quiz 20](Quizzes/Quiz%2020.md)
 - [Quiz 21](Quizzes/Quiz%2021.md)
+- [Quiz 22](Quizzes/Quiz%2022.md)
 - [Quiz 3](Quizzes/Quiz%203.md)
 - [Quiz 4](Quizzes/Quiz%204.md)
 - [Quiz 5 1](Quizzes/Quiz%205%201.md)

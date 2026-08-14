@@ -60,10 +60,10 @@ $$\displaylines{f(x)=7-x^7\\ \\ f^{\prime}\left(x\right)=-7x^6,x=0}$$
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{f(x)=x^9-9\\ \\ f^{\prime}\left(x\right)=9x^8,x=0\\ \\ }$$
 
-## Q2
-$$$$
+## Q3
+$$\displaylines{f(x)=\dfrac{x^2+1}{e^{x}}\\ \\ f^{\prime}\left(x\right)=\frac{2xe^{x}-e^{x}\left(x^2+1\right)}{e^{2x}}=}$$
 
 ## Q3
 $$$$

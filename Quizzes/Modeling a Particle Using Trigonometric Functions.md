@@ -22,3 +22,25 @@ $$\lim_{t\to\frac{5\pi}{2}}v_2(t)\,=\,\frac{5\pi}{2}\cos\left(\frac{5\pi}{4}\rig
 
 ## Q7
 $$a_2(t)\,=\,\cos\left(\frac{t}{2}\right)-\frac{t}{2}\sin\left(\frac{t}{2}\right)$$
+
+# Redo
+
+$$\displaylines{v(t)=\sin(t)-\csc^2(t),\pi<t<2\pi\\ \\ v(\frac{5\pi}{4})=\sin(\frac{5\pi}{4})-\csc^2(\frac{5\pi}{4})=-\frac{\sqrt2}{2}-\frac42=-\frac{\sqrt2}{2}-2}$$
+
+## Q2
+$$\lim_{t\to\pi^{+}}=\sin(\pi)-\csc^2(\pi)=\sin\left(\pi\right)-\frac{1}{1-\cos^2\left(\pi\right)}=-\infty$$
+
+## Q3
+$$a\left(t\right)=\cos\left(t\right)+2\csc^2\left(t\right)\cot\left(t\right)$$
+
+## Q4
+$${\displaystyle\int v(t)\,\textrm{d}t\,\,=\,}-\cos t+\cot t$$
+
+## Q5
+$$v_2(t)=t^2\cos(\pi t)$$
+
+## Q6
+$$\lim_{t\to\frac12}v_2(t)\,=\,\frac{\cos\left(\frac{\pi}{2}\right)}{4}$$
+
+## Q7
+$$a_2\left(t\right)=2t\cos\left(\pi t\right)+t^2\sin\left(\pi t\right)$$
