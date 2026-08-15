@@ -42,3 +42,14 @@ $$\displaylines{y=\sqrt{\dfrac{(x^2+4)^3}{\sin x}}=\left(x^2+4\right)^{\frac32}\
 
 ## Q3
 $$\displaylines{y=\dfrac{6^{\cos x}}{(x-2)^4(3-x)^3}\\ \\ \ln y=\cos x\ln6-4\ln\left(x-2\right)-3\ln\left(3-x\right)\\ \\ \frac{y^{\prime}}{y}=-\ln6\sin x-\frac{4}{x-2}+\frac{3}{3-x}=-\frac{\ln6\left(\sin x\right)\left(3-x\right)\left(x-2\right)+4\left(3-x\right)-3\left(x-2\right)}{\left(x-2\right)\left(3-x\right)}\\ \\ =-\frac{\ln6\left(x-2\right)\left(3-x\right)\sin x+18-7x}{\left(x-2\right)\left(3-x\right)}\\ \\ y^{\prime}=\dfrac{6^{\cos x}\left(-\ln6\left(x-2\right)\left(3-x\right)\sin x-18+7x\right)}{(x-2)^5(3-x)^4}}$$
+
+# Review
+
+## Q1
+$$\displaylines{y=(\tan x)^{x}\\ \\ \ln y=x\ln\tan x\\ \\ \frac{y^{\prime}}{y}=\ln\left(\tan x\right)+\frac{x\sec^2x}{\tan x}=\ln\left(\tan x\right)+x\cdot\frac{1}{\cos^2x}\cdot\frac{\cos x}{\sin x}=\ln\left(\tan x\right)+x\sec x\csc x}$$
+
+## Q2
+$$\displaylines{y=(\tan x)^{2x}\\ \\ \ln y=2x\ln\tan x\\ \\ \frac{y^{\prime}}{y}=2\ln(\tan x)+2x\csc x\,\sec x}$$
+
+## Q3
+$$\displaylines{y=(\ln(2x))^{x}\\ \\ \ln y=x\ln\left(\ln\left(2x\right)\right)\\ \\ \frac{y^{\prime}}{y}=\ln\left(\ln\left(2x\right)\right)+\frac{x}{\ln\left(2x\right)}\cdot\frac{1}{2x}\cdot2=\ln\left(\ln\left(2x\right)\right)+\frac{1}{\ln\left(2x\right)}\\ \\ y^{\prime}=\left(\ln\left(2x\right)\right)^{x-1}\left(\left(\ln\left(2x\right)\right)\ln\left(\ln\left(2x\right)\right)+1\right)}$$

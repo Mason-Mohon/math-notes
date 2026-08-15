@@ -30,10 +30,13 @@ $$\displaylines{f(x)=x^3\\ \\ f^{\prime}\left(x\right)=3x^2,x=0\\ \\ f^{\doublep
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{f(x)=-6x^2+36x-48\\ \\ f^{\prime}\left(x\right)=-12x+36\\ \\ f^{\prime}\left(2\right)=+\\ \\ f^{\prime}\left(4\right)=-\\ \\ f^{\doubleprime}\left(x\right)=-12}$$
 
 ## Q2
-$$$$
+$$\displaylines{f(x)=-6x^4+12x^2+8\\ \\ f^{\prime}\left(x\right)=-24x^3+24x\\ \\ f^{\prime}\left(-2\right)=+\\ \\ f^{\prime}\left(2\right)=-\\ \\ f^{\doubleprime}\left(x\right)=-72x^2+24}$$
 
 ## Q3
-$$$$
+$$\displaylines{f(x)=12x^3-\dfrac{x^5}{5}\\ \\ f^{\prime}\left(x\right)=36x^2-x^4=0=36-x^2\\ \\ f^{\doubleprime}\left(x\right)=72x-4x^3\\ \\ f^{\doubleprime}\left(-6\right)=432>0}$$
+
+## Q4
+$$\displaylines{f(x)=2x^3-6x^2+6x-2\\ \\ f^{\prime}\left(x\right)=6x^2-12x+6=x^2-2x+1=\left(x+2\right)\left(x-1\right)\\ \\ f^{\prime}\left(0\right)=+\\ \\ f^{\prime}\left(3\right)=+\\ \\ f^{\doubleprime}\left(x\right)=12x-12,f^{\doubleprime}\left(1\right)=0}$$

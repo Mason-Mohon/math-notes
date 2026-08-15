@@ -14,3 +14,15 @@ Multiply the x inside for horizontal stretch
 y=2\sin(1.5x)
 y=\cos(x)
 ```
+
+# Review
+
+## Q1
+$$$$
+
+## Q2
+$$$$
+
+## Q3
+![](../assets/Pasted%20image%2020260814105845.png)
+$$\displaylines{y=A\sin{(Bx)}\\ \\ A=\frac83,B=\frac63}$$

@@ -30,12 +30,13 @@ $$L\left(x\right)=4+2\left(x-1\right)=2+2x$$
 
 
 # Review
+$$L\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)$$
 
 ## Q1
-$$$$
+$$L\left(x\right)=4+4\left(x-2\right)=4x-4$$
 
 ## Q2
-$$$$
+$$L\left(x\right)=-\frac{\sqrt3}{2}-\left(x-\frac{2\pi}{3}\right)=\frac{2\pi}{3}-x-\frac{\sqrt3}{2}$$
 
 ## Q3
 $$$$
