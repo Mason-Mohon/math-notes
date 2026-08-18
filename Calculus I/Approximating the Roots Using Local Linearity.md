@@ -34,10 +34,10 @@ $$\displaylines{x^{\frac13},x=1\\ \\ L\left(x\right)=1+\frac13\left(x-1\right)=1
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{f(x)=\sqrt{x},x=49\\ \\ f^{\prime}\left(x\right)=\frac{1}{2\sqrt{x}}\\ \\ L\left(x\right)=7+\frac{1}{14}\left(x-49\right)\\ \\ L\left(50\right)=7+\frac{50}{14}-\frac{49}{14}=7+\frac{1}{14}=\frac{99}{14}}$$
 
 ## Q2
-$$$$
+$$\displaylines{f\left(x\right)=3\sqrt{x},x=144,f^{\prime}\left(x\right)=\frac{3}{2\sqrt{x}}\\ \\ L\left(x\right)=36+\frac18\left(x-144\right)\\ \\ L\left(146.2\right)=36+\frac18\left(146.2-144\right)}$$
 
 ## Q3
-$$$$
+$$\displaylines{f\left(x\right)=x^{\frac13},x=125,f^{\prime}\left(x\right)=\frac{1}{3x^{\frac23}}\\ \\ L\left(x\right)=5+\frac{1}{75}\left(x-125\right)=5+\frac{x}{75}-\frac53=\frac{10}{3}+\frac{x}{75}}$$

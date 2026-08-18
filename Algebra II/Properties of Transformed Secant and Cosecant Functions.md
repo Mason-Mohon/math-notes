@@ -24,3 +24,11 @@ $$\displaylines{f(x)=\dfrac12\sec\left(\dfrac{x}{5}+\dfrac{\pi}{3}\right)-1\\ \\
 
 ## Q8
 $$\displaylines{f(x)=-4\sec\left(\dfrac{x}{3}+40^{\circ}\right)\\ \\ \frac{x}{3}+40\degree=n180\degree+90\degree\\ \\ x=n540\degree+150\degree}$$
+
+# Review
+
+## Q1
+$$f(x)=4\sec\left(3x-\dfrac{\pi}{5}\right)+3$$
+
+## Q2
+$$f(x) = \csc\left(7x - \dfrac{\pi}{12} \right) + 5$$

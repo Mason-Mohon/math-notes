@@ -64,3 +64,13 @@ $${{\displaystyle\lim_{x\to0}\dfrac{1-\cos(x^2)}{x^3}=}}\frac{2\sin\left(x^2\rig
 
 ## Q3
 $$\displaylines{{{\displaystyle\lim_{x\to0}\dfrac{5^{x}-7^{x}-(\ln{5}-\ln{7})x}{x^2}=}}\frac{5^{x}\ln5-7^{x}\ln7-\left(\ln5-\ln7\right)}{2x}=\frac{5^{x}\left(\ln5\right)^2-7^{x}\left(\ln7\right)^2}{2}\\ \\ =\dfrac{\ln^2(5)-\ln^2(7)}{2}}$$
+
+# Review
+## Q1
+$${{\displaystyle\lim_{x\to0}\frac{xe^{-x}-x+2x^2}{\sin^2{x}}=}}\frac{-xe^{-x}+e^{-x}-1+4x}{2\sin x\cos x}=\frac{xe^{-x}+4}{2\cos x-2\sin x}=\frac42=2$$
+
+## Q2
+$${{\displaystyle\lim_{x\to3}\frac{x^2-6x+9}{8\sqrt{x+1}-2x-10}=}}\frac{2x-6}{\frac{4}{\sqrt{x+1}}-2}=\frac{2}{-\frac{2}{\left(\sqrt{x+1}\right)^3}}=\frac{2}{-\frac28}=-8$$
+
+## Q3
+$${\displaystyle\lim_{x\to-\infty}\dfrac{\ln{(1-x)}-2x}{x+1}=\frac{-\frac{1}{1-x}-2}{1}}=-2$$

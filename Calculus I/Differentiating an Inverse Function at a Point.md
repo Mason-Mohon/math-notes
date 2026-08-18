@@ -75,3 +75,16 @@ $$\displaylines{f(x)=3\sqrt[3]{x},P\left(8,6\right)\\ \\ f^{\prime}\left(x\right
 
 ## Q4
 $$\left(f^{-1}\right)^{\prime}\left(1\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(1\right)\right)}=\frac{1}{f^{\prime}\left(2\right)}$$
+
+# Review
+
+$$\left(f^{-1}\right)^{\prime}\left(x\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(x\right)\right)}$$
+
+## Q1
+$$\left(f^{-1}\right)^{\prime}\left(-2\right)=\frac{1}{f^{\prime}\left(1\right)}$$
+
+## Q2
+$$\displaylines{f(x)=x^4+3x^3+4\\ \\ f^{\prime}\left(x\right)=4x^3+9x^2\\ \\ f^{\prime}\left(-1\right)=-4+9=5\\ \\ \left(f^{-1}\right)^{\prime}\left(2\right)=\frac15}$$
+
+## Q3
+$$\displaylines{\left(g\cdot f^{-1}\right)^{\prime}\left(x\right)=\frac{g\left(x\right)}{f^{\prime}\left(f^{-1}\left(x\right)\right)}\cdot g^{\prime}\left(x\right)f^{-1}\left(x\right)\\ \\ \left(g\cdot f^{-1}\right)^{\prime}\left(3\right)=\frac{-3}{f^{\prime}\left(-2\right)}+1\cdot-2=\frac34-\frac84=-\frac54}$$

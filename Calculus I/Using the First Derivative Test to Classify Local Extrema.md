@@ -65,5 +65,13 @@ $$\displaylines{f(x)=x^9-9\\ \\ f^{\prime}\left(x\right)=9x^8,x=0\\ \\ }$$
 ## Q3
 $$\displaylines{f(x)=\dfrac{x^2+1}{e^{x}}\\ \\ f^{\prime}\left(x\right)=\frac{2xe^{x}-e^{x}\left(x^2+1\right)}{e^{2x}}=}$$
 
+# Review
+
+## Q1
+$$\displaylines{f(x)=x+\dfrac{4}{x}\\ \\ f^{\prime}\left(x\right)=1-\frac{4}{x^2}\\ \\ f^{\doubleprime}\left(x\right)=-\frac{2}{x^3}}$$
+
+## Q2
+$$$$
+
 ## Q3
 $$$$

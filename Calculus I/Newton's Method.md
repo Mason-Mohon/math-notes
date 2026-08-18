@@ -49,3 +49,22 @@ $$\displaylines{f(x)=\cos x-x^3,x\in\left\lbrack0,2\right\rbrack,x_0=0.5\\ \\ f^
 
 ## Q4
 $$\displaylines{f(x)=2x^3-e^{x},x\in\left\lbrack1,2\right\rbrack,x_0=1\\ \\ f^{\prime}\left(x\right)=6x^2-e^{x}\\ \\ x_1=x-\frac{2x^3-e^{x}}{6x^2-e^{x}}=1-\frac{2^3-e^1}{6^2-e^1}=0.8413027193\\ \\ x_2=1.426796687\\ \\ x_3=1.222568572\\ \\ x_4=1.176126209\\ \\ x_5=1.173750671=1.174\\ \\ x_6=1.173744579=1.174}$$
+
+# Review
+
+$$x_{n+1}=x_{n}-\frac{f\left(x_{n}\right)}{f^{\prime}\left(x_{n}\right)}$$
+
+## Q1
+$$\displaylines{f(x)=\ln x-1,x\in\left\lbrack1,3\right\rbrack,x_0=1.5\\ \\ f^{\prime}\left(x\right)=\frac{1}{x}\\ \\ x_1=x-x\ln x\\ \\ x_1=1.5-1.5\ln\left(1.5\right)=0.8918023378=0.892\\ \\ x_2=0.994}$$
+
+## Q2
+$$\displaylines{f(x)=\sin x+\cos x-x,x_0=1.23\\ \\ f^{\prime}\left(x\right)=\cos x-\sin x\\ \\ x_1=x-\frac{\sin x+\cos x}{\cos x-\sin x}\\ \\ x_1=1.23-\frac{\sin1.23+\cos1.23}{\cos1.23-\sin1.23}=0.1861160785\\ \\ x_2=-0.8204017934}$$
+
+## Q3
+$$\displaylines{f(x)=x^3-x-1,x_0=1.5\\ \\ f^{\prime}\left(x\right)=3x^2-1\\ \\ x_1=x-\frac{x^3-x-1}{3x^2-1}=1.347826087\\ \\ x_2=1.325200399\\ \\ x_3=1.324718174}$$
+
+## Q4
+$$\displaylines{f(x)=\tan x-2x\\ \\ f^{\prime}\left(x\right)=\sec^2x-2,x_0=1.3\\ \\ x_1=x-\frac{\tan x-2x}{\sec^2x-2}=1.216318116\\ \\ x_2=1.173581254\\ \\ x_3=1.165775662\\ \\ x_4=1.165561341\\ \\ x=1.166}$$
+
+## Q5
+$$\displaylines{f(x)=x+\ln x,x_0=0.2\\ \\ f^{\prime}\left(x\right)=1+\frac{1}{x}\\ \\ x_1=x-\frac{x+\ln x}{1+\frac{1}{x}}=0.4349063187\\ \\ x_2=0.5554509177\\ \\ x_3=0.5670652658\\ \\ x_4=.567143287}$$
