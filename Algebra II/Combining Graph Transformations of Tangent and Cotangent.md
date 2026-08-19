@@ -38,3 +38,17 @@ $$\displaylines{\frac{4\pi}{5}=\frac{\pi}{B}\\ \\ B=\frac54,D=-3}$$
 
 ## Q3
 $$\frac53C=-\frac{\pi}{3}$$
+
+# Review
+
+## Q1
+![](../assets/Pasted%20image%2020260818103032.png)
+$$\displaylines{y=\cot{(Bx)}+D,B-2D?\\ \\ T=\frac{\pi}{5}\\ \\ B=5,D=\frac32}$$
+
+## Q2
+![](../assets/Pasted%20image%2020260818103447.png)
+$$\displaylines{y=\cot(Bx)+D\\ \\ B=\frac34,D=-3\\ \\ \frac34-\frac{12}{4}}$$
+
+## Q3
+![](../assets/Pasted%20image%2020260818103853.png)
+$$\displaylines{y=\tan\left(3x+C\right)\\ \\ \frac{C}{3}=-\frac{\pi}{21}}$$

@@ -22,10 +22,10 @@ $$\displaylines{g(x)=e^{x}(x^2-12x+34)\\ \\ g^{\prime}\left(x\right)=e^{x}(x^2-1
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{f(x)=x^4-3x^2\\ \\ f^{\prime}\left(x\right)=4x^3-6x\\ \\ f^{\doubleprime}\left(x\right)=12x^2-6=0\\ \\ x^2=\frac12}$$
 
 ## Q2
-$$$$
+$$\displaylines{f(x)=e^{x}(x^2-4x+7)\\ \\ f^{\prime}\left(x\right)=e^{x}(x^2-4x+7)+e^{x}(2x-4)\\ \\ f^{\doubleprime}\left(x\right)=e^{x}(x^2-4x+7)+e^{x}(2x-4)+e^{x}(2x-4)+2e^{x}=0\\ \\ =x^2-4x+7+2x-4+2x-4+2=x^2+1}$$
 
 ## Q3
 $$$$

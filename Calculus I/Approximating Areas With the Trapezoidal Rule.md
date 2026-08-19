@@ -37,4 +37,4 @@ $$$$
 $$$$
 
 ## Q3
-$$$$
+$$\left\lbrack\frac{10}{2}\cdot3\right\rbrack+\left\lbrack\frac92\cdot6\right\rbrack=\frac{30}{2}+\frac{54}{2}$$

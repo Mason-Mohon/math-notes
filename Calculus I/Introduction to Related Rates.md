@@ -37,10 +37,10 @@ $$\displaylines{y=\ln{\left(x^2+1\right)},\frac{\differentialD x}{\differentialD
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{r=\sin\theta-2,\theta=\theta(t),\dfrac{\textrm{d}\theta}{\textrm{d}t}=-3,\theta=\pi\\ \\ \frac{dr}{\differentialD t}=-3\cos\theta=3}$$
 
 ## Q2
-$$$$
+$$\displaylines{y=6\ln(x)-x^2,\frac{\differentialD x}{\differentialD t}=3,x=2\\ \\ \frac{\differentialD y}{\differentialD t}=3\left(\frac{6}{x}-2x\right)=3\left(3-4\right)=-3}$$
 
 ## Q3
-$$$$
+$$\displaylines{y=2x^3-7x,\frac{\differentialD x}{\differentialD t}=-2,x=1\\ \\ \frac{\differentialD y}{\differentialD t}=-2\left(6x^2-7\right)=2}$$

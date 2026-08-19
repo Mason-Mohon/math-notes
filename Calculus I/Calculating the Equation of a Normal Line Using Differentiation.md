@@ -71,3 +71,14 @@ $$\displaylines{y=3x^2+4x,\left(1,7\right),x+py=q,p+q=?\\ \\ y^{\prime}=6x+4\\ \
 
 ## Q3
 $$\displaylines{f(x)=2\sqrt{x^3},\left(1,2\right),\text{x axis intersection}\\ \\ y^{\prime}=3\sqrt{x}\\ \\ m=3,m^{\prime}=-\frac13\\ \\ y-2=-\frac13\left(x-1\right)\\ \\ 6=x-1}$$
+
+# Review
+
+## Q1
+$$\displaylines{y=2x^3-x^2,\left(2,12\right),x+py=q,p+q=?\\ \\ y^{\prime}=6x^2-2x\\ \\ m=20,m^{\prime}=-\frac{1}{20}\\ \\ y-12=-\frac{1}{20}\left(x-2\right)\\ \\ -20y+240=x-2\\ \\ x+20y=242}$$
+
+## Q2
+$$\displaylines{y=\dfrac{2}{x}+1,\left(1,3\right),\text{x-axis intersection}\\ \\ y^{\prime}=-\frac{2}{x^2},m=-2,m^{\prime}=\frac12\\ \\ y-3=\frac12\left(x-1\right)\\ \\ -6=x-1\\ \\ x=-5}$$
+
+## Q3
+$$\displaylines{y=6x-4x^2+2x^4,\left(0,0\right)\\ \\ y^{\prime}=6-8x,m=6,m^{\prime}=-\frac16\\ \\ y=-\frac16x}$$

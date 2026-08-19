@@ -39,10 +39,10 @@ $$\displaylines{{\displaystyle f(x)=\int_{x}^{x^2+1}\dfrac{t^2}{t^3+1}\,\textrm{
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{g(x)={\displaystyle\int_{x}^3t\ln(t^4+2)\,\textrm{d}t,}\\ \\ g^{\prime}\left(x\right)=-x\ln\left(x^4+2\right)\\ \\ g^{\prime}\left(-1\right)=\ln3}$$
 
 ## Q2
-$$$$
+$$\displaylines{f(t)=t^2e^{3t},{\displaystyle h(x)=\int_{x}^3f(t)\,\textrm{d}t},h^{\prime}\left(2\right)=?\\ \\ h^{\prime}\left(x\right)=-x^2e^{3x}\\ \\ h^{\prime}\left(2\right)=-4e^6}$$
 
 ## Q3
-$$$$
+$$\displaylines{g(x)={\displaystyle\int_1^{x^4+2x}\ln(t)\,\textrm{d}t.}\\ \\ g^{\prime}\left(x\right)=\left(4x^3+2\right)\ln\left(x^4+2x\right)}$$
