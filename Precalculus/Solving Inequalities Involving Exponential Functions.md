@@ -38,3 +38,15 @@ $$\displaylines{\frac13\left(\frac35\right)^{x}\le3\sqrt3\\ \\ x\left(\ln3-\ln5\
 
 ## Q5
 $$\displaylines{\frac{2e-5\left(0.31\right)^{x}}{4e}<-2\\ \\ 2e-5\left(0.31\right)^{x}<-8e\\ \\ 2e<\left(0.31\right)^{x}\\ \\ \ln\left(2e\right)<x\ln\left(0.31\right)}$$
+
+# Review
+
+## Q1
+$$\displaylines{2\cdot5^{3-x}+4>0\\ \\ 5^{3-x}>0}$$
+all real numbers
+## Q2
+$$\displaylines{2\cdot6^{x+1}+4\lt1\\ \\ 6^{x+1}<-\frac32}$$
+no solutions
+
+## Q3
+$$\displaylines{\dfrac{1}{3e}\left(\dfrac14\right)^{x+2}\gt\dfrac83\\ \\ \left(\frac14\right)^{x+2}>8e\\ \\ \left(x+2\right)\left(-\ln4\right)>\ln8e\\ \\ x<-\frac{\ln8e}{\ln4}-2}$$
