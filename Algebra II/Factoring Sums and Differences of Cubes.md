@@ -33,3 +33,15 @@ $$\displaylines{\dfrac{p^3}{27}+\dfrac{q^9}{64}\\ a=\frac{p}{3},b=\frac{q^3}{4}\
 
 ## Verifying formula
 ![](../assets/Pasted%20image%2020260701132155.png)
+
+# Review
+
+![](../assets/Pasted%20image%2020260701130429.png)
+## Q1
+$$\displaylines{81n^3+24=3\left(27n^3+8\right),a=3n,b=2\\ \\ =3\left(3n+2\right)\left(9n^2-6n+4\right)}$$
+
+## Q2
+$$\displaylines{1-j^{3/2},a=1,b=\sqrt{j}\\ \\ =(1-\sqrt{j})(1+\sqrt{j}+j)}$$
+
+## Q3
+$$\displaylines{8+r,a=2,b=r^{\frac13}\\ \\ =(2+r^{1/3})\left(4-2r^{1/3}+r^{2/3}\right)}$$
