@@ -23,3 +23,15 @@ $$\displaylines{x^2\cdot3^{x+1}\lt3^{x+3}\\ \\ x^2\cdot3^{x+1}-3^{x+3}\lt0\\ \\ 
 
 ## Q8
 $$\displaylines{3^{4-5x}x\lt3^{2-5x}x^2\\ \\ 9x<x^2\\ \\ 0<x^2-9x\\ \\ 0<x\left(x-9\right)}$$
+
+
+# Review
+
+## Q1
+$$\displaylines{5^{3x+3}x\geq-5^{3x+2}x^2\\ \\ 5^{3x+2}x\left(x+5^{}\right)\ge0,x=-5,0\\ \\ x\le-5,x\ge0}$$
+
+## Q2
+$$\displaylines{x^3\cdot4^{x}\leq4^{x-15}\\ \\ x^3\le\frac{1}{4^{15}}\\ \\ x\le\frac{1}{4^5},x\le\frac{1}{1024}}$$
+
+## Q3
+$$\displaylines{4\cdot6^{3x-2}\gt-6^{3x-2}-x^2\cdot6^{3x-2}\\ \\ 4>-1-x^2\\ \\ -5<x^2}$$

@@ -40,3 +40,14 @@ $$\displaylines{f(x)=12x^3-\dfrac{x^5}{5}\\ \\ f^{\prime}\left(x\right)=36x^2-x^
 
 ## Q4
 $$\displaylines{f(x)=2x^3-6x^2+6x-2\\ \\ f^{\prime}\left(x\right)=6x^2-12x+6=x^2-2x+1=\left(x+2\right)\left(x-1\right)\\ \\ f^{\prime}\left(0\right)=+\\ \\ f^{\prime}\left(3\right)=+\\ \\ f^{\doubleprime}\left(x\right)=12x-12,f^{\doubleprime}\left(1\right)=0}$$
+
+# Review
+
+## Q1
+$$f(x)=3x^4+8x^3+12,f^{\prime}\left(-2\right)=0$$
+
+## Q2
+$$$$
+
+## Q3
+$$$$

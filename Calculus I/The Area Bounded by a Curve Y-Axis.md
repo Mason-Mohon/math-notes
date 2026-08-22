@@ -36,11 +36,11 @@ $$\displaylines{y=\sqrt[3]{\dfrac{1-x}{2}},y=1,y=3\\ \\ 2y^3-1=-x\\ \\ x=1-2y^3\
 
 # Review
 
-## Q1
-$$$$
-
 ## Q2
-$$$$
+$$\displaylines{x=81y^4-1,y=\pm\frac13\\ \\ \int_{-\frac13}^{\frac13}\left(81y^4-1\right)\differentialD y=\left\lbrack\frac{81}{5}y^5-y\right\rbrack_{-\frac13}^{\frac13}=2\left\lbrack y-\frac{81}{5}y^5\right\rbrack_0^{\frac13}=\frac{8}{15}}$$
 
 ## Q3
+$$\displaylines{x=\sin(\pi y)-\cos(\pi y)=0\\ \\ \sin\left(\pi y\right)=\cos\left(\pi y\right),\tan\left(\pi y\right)=1,y=\frac14,-\frac54\\ \\ \int_{-\frac54}^{\frac14}\left(\sin(\pi y)-\cos(\pi y)\right)\differentialD y=\left\lbrack-\frac{\cos\left(\pi y\right)}{\pi}-\frac{\sin\left(\pi y\right)}{\pi}\right\rbrack_{-\frac34}^{\frac14}\\ \\ =\left\lbrack-\frac{\cos\left(\frac{\pi}{4}\right)}{\pi}-\frac{\sin\left(\frac{\pi}{4}\right)}{\pi}\right\rbrack-\left\lbrack\frac{\cos\left(\frac{3\pi}{4}\right)}{\pi}+\frac{\sin\left(\frac{3\pi}{4}\right)}{\pi}\right\rbrack\\ \\ A=\frac{2\sqrt2}{\pi}}$$
+
+## Q4
 $$$$
