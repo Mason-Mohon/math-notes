@@ -150,6 +150,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Evaluating Special Limits Involving Sine Using a Substitution](Calculus%20I/Evaluating%20Special%20Limits%20Involving%20Sine%20Using%20a%20Substitution.md)
 - [Finding the Area Between a Curve and the X-Axis When They Intersect](Calculus%20I/Finding%20the%20Area%20Between%20a%20Curve%20and%20the%20X-Axis%20When%20They%20Intersect.md)
 - [Further Continuity of Piecewise Functions](Calculus%20I/Further%20Continuity%20of%20Piecewise%20Functions.md)
+- [Further Limits Involving the Exponential Function](Calculus%20I/Further%20Limits%20Involving%20the%20Exponential%20Function.md)
 - [Further Logarithmic Differentiation](Calculus%20I/Further%20Logarithmic%20Differentiation.md)
 - [Global vs. Local Extrema and Critical Points](Calculus%20I/Global%20vs.%20Local%20Extrema%20and%20Critical%20Points.md)
 - [Graphs of the Hyperbolic Function](Calculus%20I/Graphs%20of%20the%20Hyperbolic%20Function.md)
