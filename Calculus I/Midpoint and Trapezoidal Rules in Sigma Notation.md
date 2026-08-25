@@ -47,10 +47,10 @@ $$\displaylines{y=4-x^2,a=-2,b=2,n=n,j\\ \\ \Delta x=\frac{4}{n},x_{j}=-2+\frac{
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{y=\frac{1}{x},a=1,b=3\\ \\ x_{i}^{\text{\textasteriskcentered}}=1+\left(i-\frac12\right)\frac{2}{m}=1+\frac{2i-1}{m}\\ \\ \Delta x=\frac{2}{m}\\ \\ \sum_{i=1}^{m}f\left(x_{i}^{\text{\textasteriskcentered}}\right)\Delta x=\left(\frac{m}{m+2i-1}\right)\cdot\frac{2}{m}={\displaystyle\sum_{i=1}^{m}\dfrac{2}{2i-1+m}}}$$
 
 ## Q2
-$$$$
+$$\displaylines{y=\dfrac{x+1}{2},a=-1,b=1\\ \\ \Delta x=\frac{2}{n}\\ \\ x_{i}=-1+\frac{2i}{n}\\ \\ \frac{1}{n}\left\lbrack0+2\left(\sum_{j=1}^{n-1}\frac{i}{n}\right)+1\right\rbrack=\dfrac{1}{n}\left[1+2{\displaystyle\sum_{i=1}^{n-1}\dfrac{i}{n}}\right]}$$
 
 ## Q3
-$$$$
+$$\displaylines{y=\dfrac{1}{x+2},a=1,b=7,n=6\\ \\ \Delta x=1\\ \\ x_{k}=1+k\\ \\ \frac12\left\lbrack f\left(1\right)+2\left(\sum_{k=1}^5f\left(1+k\right)\right)+f\left(7\right)\right\rbrack\\ \\ \frac12\left\lbrack\frac13+2\left(\sum_{k=1}^5f\left(1+k\right)\right)+\frac19\right\rbrack=\frac29+\sum_{k=1}^5\left(\frac{1}{3+k}\right)}$$

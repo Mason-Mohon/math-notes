@@ -20,10 +20,10 @@ $$$$
 # Review
 
 ## Q1
-$$$$
+$${\displaystyle{\lim_{x\to0}\:\dfrac{\sin3x}{x}}=3\cdot1}$$
 
 ## Q2
-$$$$
+$$\lim_{\theta\to0}\dfrac{\sin11\theta}{\theta}==11$$
 
 ## Q3
-$$$$
+$${{\displaystyle\lim_{x\to1/3}(1-3x)\cot(3x-1)}}=\frac{\left(1-3x\right)\cos\left(3x-1\right)}{\sin\left(3x-1\right)}=-1$$

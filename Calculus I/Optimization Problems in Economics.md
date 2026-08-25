@@ -37,10 +37,10 @@ Each additional meal sold adds profit, max profit is max occupancy
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{C(x)=x^4+13x,p\left(x\right)=121,x\le4\\ \\ R\left(x\right)=121x\\ \\ P\left(x\right)=108x-x^4\\ \\ P^{\prime}\left(x\right)=108-4x^3=0\\ \\ x^3=27\\ \\ x=3\\ \\ P\left(3\right)=108\cdot3-3^4=243}$$
 
 ## Q2
-$$$$
+$$\displaylines{4\le x\le10,p\left(x\right)=270-10\left(x-4\right)\\ \\ R\left(x\right)=310x-10x^2\\ \\ C\left(x\right)=500+10x\\ \\ P\left(x\right)=310x-10x^2-500-10x\\ \\ P^{\prime}\left(x\right)=300-20x=0=20\left(15-x\right),x=15>10\\ \\ P\left(10\right)=3000-1000-500=1500}$$
 
 ## Q3
-$$$$
+$$\displaylines{p(x)=50x-100+\dfrac{200}{x}\\ \\ p^{\prime}\left(x\right)=50+}$$
