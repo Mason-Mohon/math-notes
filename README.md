@@ -105,6 +105,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 ## Calculus I
 
 - [Applying the Fundamental Theorem of Calculus to Exponential and Trigonometric Functions](Calculus%20I/Applying%20the%20Fundamental%20Theorem%20of%20Calculus%20to%20Exponential%20and%20Trigonometric%20Functions.md)
+- [Approximating Areas Under Graphs of Composite Functions](Calculus%20I/Approximating%20Areas%20Under%20Graphs%20of%20Composite%20Functions.md)
 - [Approximating Areas With the Midpoint Riemann Sum](Calculus%20I/Approximating%20Areas%20With%20the%20Midpoint%20Riemann%20Sum.md)
 - [Approximating Areas With the Trapezoidal Rule](Calculus%20I/Approximating%20Areas%20With%20the%20Trapezoidal%20Rule.md)
 - [Approximating Functions Using Local Linearity and Linearization](Calculus%20I/Approximating%20Functions%20Using%20Local%20Linearity%20and%20Linearization.md)
@@ -140,6 +141,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Differentiating Inverse Reciprocal Trigonometric Functions](Calculus%20I/Differentiating%20Inverse%20Reciprocal%20Trigonometric%20Functions.md)
 - [Differentiating Inverse Trigonometric Functions](Calculus%20I/Differentiating%20Inverse%20Trigonometric%20Functions.md)
 - [Differentiating Logarithmic Functions](Calculus%20I/Differentiating%20Logarithmic%20Functions.md)
+- [Differentiating Reciprocal Hyperbolic Functions](Calculus%20I/Differentiating%20Reciprocal%20Hyperbolic%20Functions.md)
 - [Differentiating Reciprocal Trigonometric Functions](Calculus%20I/Differentiating%20Reciprocal%20Trigonometric%20Functions.md)
 - [Differentiating Trigonometric Functions](Calculus%20I/Differentiating%20Trigonometric%20Functions.md)
 - [Discontinuities Due to Vertical Asymptotes](Calculus%20I/Discontinuities%20Due%20to%20Vertical%20Asymptotes.md)
@@ -264,6 +266,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Quiz 24](Quizzes/Quiz%2024.md)
 - [Quiz 25](Quizzes/Quiz%2025.md)
 - [Quiz 26](Quizzes/Quiz%2026.md)
+- [Quiz 27](Quizzes/Quiz%2027.md)
 - [Quiz 3](Quizzes/Quiz%203.md)
 - [Quiz 4](Quizzes/Quiz%204.md)
 - [Quiz 5 1](Quizzes/Quiz%205%201.md)

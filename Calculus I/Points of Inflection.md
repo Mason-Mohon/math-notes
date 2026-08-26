@@ -27,5 +27,12 @@ $$\displaylines{f(x)=x^4-3x^2\\ \\ f^{\prime}\left(x\right)=4x^3-6x\\ \\ f^{\dou
 ## Q2
 $$\displaylines{f(x)=e^{x}(x^2-4x+7)\\ \\ f^{\prime}\left(x\right)=e^{x}(x^2-4x+7)+e^{x}(2x-4)\\ \\ f^{\doubleprime}\left(x\right)=e^{x}(x^2-4x+7)+e^{x}(2x-4)+e^{x}(2x-4)+2e^{x}=0\\ \\ =x^2-4x+7+2x-4+2x-4+2=x^2+1}$$
 
-## Q3
-$$$$
+# Review
+## Q1
+$$\displaylines{g(x)=x^4-4x^3+6x^2-2x\\ \\ g^{\prime}\left(x\right)=4x^3-12x^2+12x-2\\ \\ g^{\doubleprime}\left(x\right)=12x^2-24x+12=0=x^2-2x+1\\ \\ =\left(x-1\right)^2}$$
+
+## Q2
+$$\displaylines{f(x)=x^3+3x^2-3x-12.\\ \\ f^{\prime}\left(x\right)=3x^2+6x-3\\ \\ f^{\doubleprime}\left(x\right)=6x+6,x=-1\\ \\ f^{\doubleprime}\left(-2\right)=-\\ \\ f^{\doubleprime}\left(0\right)=+}$$
+
+## Q5
+$$\displaylines{g(x)=e^{-x}(x^2+2x-1)\\ \\ g^{\prime}\left(x\right)=-e^{-x}(x^2+2x-1)+e^{-x}(2x+2)\\ \\ g^{\doubleprime}\left(x\right)=e^{-x}(x^2+2x-1)-e^{-x}(2x+2)-e^{-x}(2x+2)+2e^{-x}=0\\ \\ =x^2+2x-1-2x-2-2x-2+2=x^2-2x-3=\left(x-3\right)\left(x+1\right)}$$

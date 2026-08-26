@@ -1,5 +1,5 @@
 Math Academy Calculus I [Determining Characteristics of Moving Objects Using Differentiation](Determining%20Characteristics%20of%20Moving%20Objects%20Using%20Differentiation.md)
-Differentiation
+Differentiation Newtonian Calculus Physics
 
 ![](../assets/Pasted%20image%2020260730125818.png)
 

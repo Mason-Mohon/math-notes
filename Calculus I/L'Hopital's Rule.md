@@ -74,3 +74,15 @@ $${{\displaystyle\lim_{x\to3}\frac{x^2-6x+9}{8\sqrt{x+1}-2x-10}=}}\frac{2x-6}{\f
 
 ## Q3
 $${\displaystyle\lim_{x\to-\infty}\dfrac{\ln{(1-x)}-2x}{x+1}=\frac{-\frac{1}{1-x}-2}{1}}=-2$$
+
+# Review
+
+## Q1
+$${\displaystyle\lim_{x\to-1}\dfrac{x^2+2x+1}{(x^2-4)^2-12x-21}=}\frac{2x+2}{4x^3-16x-12}=\frac{2}{12x^2-16}=-\frac12$$
+
+
+## Q2
+$${\displaystyle\lim_{x\to\infty}\dfrac{\sqrt{x}}{e^{3x}}=\frac{\frac{1}{2\sqrt{x}}}{3e^{3x}}}$$
+
+## Q3
+$$\displaystyle\lim_{x \to0^+} \dfrac{\csc(x)}{\cot(2x)} =\frac{\sin2x}{\sin x\cos\left(2x\right)}=2$$

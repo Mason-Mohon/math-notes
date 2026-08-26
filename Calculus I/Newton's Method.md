@@ -2,7 +2,7 @@
 2026-08-12
 Math Academy
 Subject: Calculus I
-Topics: Roots Differentiation Linearization
+Topics: Roots Differentiation Linearization Newtonian Calculus
 
 ![](../assets/Screenshot%202026-08-12%20at%207.44.49%20PM.png)
 ![](../assets/Screenshot%202026-08-12%20at%207.49.01%20PM.png)

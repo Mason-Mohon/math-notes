@@ -43,10 +43,11 @@ $$\displaylines{r=\sqrt6,h=2\sqrt6\\ \\ A\left(l\right)=\frac12l\sqrt{24-l^2}\\ 
 # Review
 
 ## Q1
-$$$$
+![](../assets/Pasted%20image%2020260825110643.png)
+$$\displaylines{r=2,h=4\\ \\ 16=b^2+l^2,b=\sqrt{16-l^2}\\ \\ P\left(l\right)=l+\sqrt{16-l^2}+4\\ \\ P^{\prime}\left(l\right)=1-\frac{l}{\sqrt{16-l^2}}=0\\ \\ l^2=16-l^2\\ \\ l=2\sqrt2\\ \\ P\left(2\sqrt2\right)=2\sqrt2+2\sqrt2+4=4\left(1+\sqrt2\right)}$$
 
 ## Q2
-$$$$
+$$\displaylines{r=\sqrt2,h=2\sqrt2\\ \\ A=\frac12l\cdot b\\ \\ b=\sqrt{8-l^2}\\ \\ A\left(l\right)=\frac12l\sqrt{8-l^2}\\ \\ A^{\prime}\left(l\right)=\frac12\sqrt{8-l^2}-\frac{l^2}{2\sqrt{8-l^2}}=0\\ \\ 8-l^2=l^2,l=2}$$
 
 ## Q3
-$$$$
+$$\displaylines{r=\frac72,h=7\\ \\ P=b+l+7\\ \\ P\left(l\right)=l+7+\sqrt{49-l^2}\\ \\ P^{\prime}\left(l\right)=1-\frac{l}{\sqrt{49-l^2}}\\ \\ 2l^2=49\\ \\ l=\frac{7}{\sqrt2}=\frac{7\sqrt2}{2}\\ \\ P\left(\frac{7\sqrt2}{2}\right)=\frac{7\sqrt2}{2}+7+\sqrt{49-\frac{49}{2}}=7\left(1+\sqrt2\right)}$$
