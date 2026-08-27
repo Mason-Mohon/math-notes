@@ -68,3 +68,31 @@ $$\displaylines{f(x)=\tan x-2x\\ \\ f^{\prime}\left(x\right)=\sec^2x-2,x_0=1.3\\
 
 ## Q5
 $$\displaylines{f(x)=x+\ln x,x_0=0.2\\ \\ f^{\prime}\left(x\right)=1+\frac{1}{x}\\ \\ x_1=x-\frac{x+\ln x}{1+\frac{1}{x}}=0.4349063187\\ \\ x_2=0.5554509177\\ \\ x_3=0.5670652658\\ \\ x_4=.567143287}$$
+
+# Review
+
+## Q1
+$$\displaylines{f(x)=e^{x}-4x^2,x\in\left\lbrack0,1\right\rbrack,x_0=1\\ \\ f^{\prime}\left(x\right)=e^{x}-8x\\ \\ x_1=x-\frac{e^{x}-4x^2}{e^{x}-8x}\\ \\ x=0.7}$$
+```python
+import math
+
+x=1
+for i in range(10):
+	x = x - (math.exp(x) - 4*x**2) / (math.exp(x) - 8*x)
+
+print(round(x,1))
+```
+## Q2
+$$\displaylines{f(x)=\cos x-\dfrac{x-4}{5},x\in\left\lbrack4,5\right\rbrack,x_0=4.8\\ \\ f^{\prime}\left(x\right)=-\sin x-0.2\\ \\ x_{n}=x-\frac{\cos x-0.2x+0.8}{-\sin x-0.2}}$$
+```python
+import math
+
+x=4.8
+
+for i in range(10):
+	x = x - (math.cos(x) - 0.2*x + 0.8) / (-math.sin(x) - 0.2)
+
+print(round(x,3))
+```
+## Q3
+$$\displaylines{f(x)=\ln(x+2)+\cos(x)-1,x_0=1.8\\ \\ f^{\prime}\left(x\right)=\frac{1}{x+2}-\sin x\\ \\ x_{n}=x-\frac{\ln(x+2)+\cos(x)-1}{\frac{1}{x+2}-\sin x}}$$

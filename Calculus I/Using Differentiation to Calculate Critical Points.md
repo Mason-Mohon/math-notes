@@ -48,5 +48,9 @@ $$\displaylines{f(x)=\dfrac{x+1}{x^2+3}\\ \\ f^{\prime}\left(x\right)=\frac{x^2+
 ## Q2
 $$\displaylines{f(x)=(x-1)^2e^{(x-1)^2-3}\\ \\ f^{\prime}\left(1\right)=0}$$
 
+# Review
+## Q2
+$$\displaylines{f(x)=e^{x^3/3-9x^2+77x-7}=e^{u}\\ \\ f^{\prime}\left(x\right)=\left(x^2-18x+77\right)e^{u}=e^{u}\left(x-7\right)\left(x-11\right)}$$
+
 ## Q3
-$$$$
+$$\displaylines{f(x)=(x^2-4x+1)e^{x-3}\\ \\ f^{\prime}\left(x\right)=(x^2-4x+1)e^{x-3}+(2x-4)e^{x-3}=0\\ \\ =x^2-2x-3=\left(x-3\right)\left(x+1\right)}$$
