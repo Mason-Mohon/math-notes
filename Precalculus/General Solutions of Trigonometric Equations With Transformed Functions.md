@@ -47,3 +47,14 @@ $$\displaylines{\sec\left(\dfrac{x}{2}\right)=-2\\ \\ x=a^{\circ}+720^{\circ}\cd
 
 ## Q3
 $$\displaylines{\cos\left(2x+\dfrac{\pi}{3}\right)=1\\ \\ 2x+\frac{\pi}{3}=2\pi\cdot n\\ \\ x=n\pi-\frac{\pi}{6}}$$
+
+# Review
+
+## Q1
+$$\displaylines{\cos\left(4x+\dfrac{\pi}{6}\right)=\dfrac12\\ \\ x=\dfrac{\pi}{24}+\dfrac12\pi n,\qquad x=b\pi+\dfrac12\pi n\\ \\ \frac{10\pi}{6}+2n\pi=4x+\frac{\pi}{6}\\ \\ \frac{9\pi}{24}+\frac12n\pi=x,b=\frac38}$$
+
+## Q2
+$$\displaylines{\csc\left(x+10^{\circ}\right)=1\\ \\ x=a^{\circ}+360^{\circ}\cdot n,\\ \\ x+10\degree=90\degree+360\degree n}$$
+
+## Q3
+$$\displaylines{\tan{\left(3x+15^{\circ}\right)}=\sqrt3\\ \\ x=a+n\cdot60^{\circ}\\ \\ 60\degree+180\degree n=3x+15\degree\\ \\ a=15}$$

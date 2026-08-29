@@ -17,8 +17,12 @@ $$\displaylines{\int\left(\dfrac{x^2+5\sqrt{x}}{5x^3}\right)\differentialD x\\ \
 ## Q6
 $$\displaylines{\int\left(1+\dfrac{3}{2x}\right)^2\differentialD x\\ \\ 1+\frac{3}{x}+\frac{9}{4x^2}\\ \\ =x+3\ln\left|x\right|-\frac{9}{4x^{}}+C}$$
 
-## Q7
-$$$$
+# Review
+## Q1
+$$\int_{}^{}\left(\dfrac{1}{5x}+\sqrt{x}\right)\differentialD x=\dfrac15\ln|x|+\dfrac23x^{3/2}+C$$
 
-## Q8
-$$$$
+## Q2
+$$\int_{}^{}\left(1+\dfrac{1}{x}\right)^2\differentialD x=\int_{}^{}\left(1+\frac{2}{x}+\frac{1}{x^2}\right)\differentialD x=x+2\ln\left|x\right|-\frac{1}{x}$$
+
+## Q3
+$$\displaylines{\left(2-\dfrac{1}{x}\right)^2=4-\frac{4}{x}+\frac{1}{x^2}\\ \\ =4x-4\ln|x|-\dfrac{1}{x}+C}$$

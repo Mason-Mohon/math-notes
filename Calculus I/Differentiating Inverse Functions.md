@@ -29,3 +29,14 @@ $$\displaylines{f(x)=2x^2+9\\ \\ \frac{1}{4f^{-1}\left(x\right)}}$$
 
 ## Q3
 $$\displaylines{g(x)=\cos(4x+\pi)\\ \\ -4\sin\left(4g+\pi\right)\\ \\ -\dfrac{\csc(4g^{-1}x+\pi)}{4}}$$
+
+# Review
+
+## Q1
+$$\displaylines{g(x)=8x^2+x,x=8y^2+y\\ \\ x^{\prime}=16y+1\\ \\ \left(g^{-1}\right)^{\prime}\left(x\right)=\dfrac{1}{16g^{-1}(x)+1}}$$
+
+## Q2
+$$\displaylines{f(x)=4x^3-2,\\ \\ x=4y^3-2\\ \\ x^{\prime}=12y^2\\ \\ \left(f^{-1}\right)^{\prime}\left(x\right)=\dfrac{1}{12(f^{-1}(x))^2}}$$
+
+## Q3
+$$\displaylines{f(x)=\sin^3(x^2),x=\sin^3\left(y^2\right)\\ \\ x^{\prime}=3\sin^2\left(y^2\right)\cdot2y\cdot\cos\left(y^2\right)\\ \\ \left(f^{-1}\right)^{\prime}\left(x\right)=\frac{\csc^2\left(y^2\right)\sec\left(y^2\right)}{6y}=\dfrac{\csc^2\left(\left[f^{-1}(x)\right]^2\right)\sec\left(\left[f^{-1}(x)\right]^2\right)}{6f^{-1}(x)}}$$

@@ -2,7 +2,7 @@
 2026-08-14
 Math Academy
 Subject: Calculus I
-Topics:Differentiation [Derivatives](Derivatives.md)
+Topics:Differentiation [Derivatives](Derivatives.md) Related Rates
 ![](../assets/Pasted%20image%2020260814143808.png)
 
 ![](../assets/Pasted%20image%2020260814143839.png)

@@ -2,7 +2,7 @@
 2026-08-18
 Math Academy
 Subject: Calculus I Multistep
-Topics: [Introduction to Related Rates](../Calculus%20I/Introduction%20to%20Related%20Rates.md)
+Topics: [Introduction to Related Rates](../Calculus%20I/Introduction%20to%20Related%20Rates.md) Related Rates
 
 $$x(t) = \dfrac{4t}{(t^2+1)^2}, \qquad t \gt 0$$
 ## Q1

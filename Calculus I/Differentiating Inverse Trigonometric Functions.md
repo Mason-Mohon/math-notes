@@ -32,3 +32,11 @@ $$\displaylines{y=\dfrac{\arctan x}{x^2}\\ \\ y^{\prime}=\frac{\frac{x^2}{1+x^2}
 
 ## Q8
 $$\displaylines{y=e^{5x}\arcsin x.\\ \\ y^{\prime}=5e^{5x}\arcsin x+\frac{e^{5x}}{\sqrt{1-x^2}}=e^{5x}\left(5\arcsin x+\dfrac{1}{\sqrt{1-x^2}}\right)}$$
+
+# Review
+
+## Q2
+$$\displaylines{y=\ln(x^2+1)\operatorname{\mathrm{arctan}}(x^3)\\ \\ y^{\prime}=\frac{2x}{x^2+1}\cdot\arctan\left(x^3\right)+\frac{3x^2\ln\left(x^2+1\right)}{1+x^6}}$$
+
+## Q3
+$$\displaylines{y=5+4\arctan x\\ \\ y^{\prime}=\dfrac{4}{1+x^2}}$$

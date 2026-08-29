@@ -118,6 +118,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Calculating Derivatives From Graphs Using the Chain Rule](Calculus%20I/Calculating%20Derivatives%20From%20Graphs%20Using%20the%20Chain%20Rule.md)
 - [Calculating Derivatives From Graphs](Calculus%20I/Calculating%20Derivatives%20From%20Graphs.md)
 - [Calculating dydx using dxdy](Calculus%20I/Calculating%20dydx%20using%20dxdy.md)
+- [Calculating Related Rates With Circles and Squares](Calculus%20I/Calculating%20Related%20Rates%20With%20Circles%20and%20Squares.md)
 - [Calculating the Definite Integral of a Function Given Its Graph](Calculus%20I/Calculating%20the%20Definite%20Integral%20of%20a%20Function%20Given%20Its%20Graph.md)
 - [Calculating the Definite Integral of a Function's Derivative Given its Graph](Calculus%20I/Calculating%20the%20Definite%20Integral%20of%20a%20Function%27s%20Derivative%20Given%20its%20Graph.md)
 - [Calculating the Equation of a Normal Line Using Differentiation](Calculus%20I/Calculating%20the%20Equation%20of%20a%20Normal%20Line%20Using%20Differentiation.md)
@@ -165,7 +166,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Implicit Differentiation](Calculus%20I/Implicit%20Differentiation.md)
 - [Integrating Exponential Functions](Calculus%20I/Integrating%20Exponential%20Functions.md)
 - [Integrating Hyperbolic Functions](Calculus%20I/Integrating%20Hyperbolic%20Functions.md)
-- [Integrating the Reciprocal](Calculus%20I/Integrating%20the%20Reciprocal.md)
+- [Integrating the Reciprocal Function](Calculus%20I/Integrating%20the%20Reciprocal%20Function.md)
 - [Integrating Trigonometric Functions](Calculus%20I/Integrating%20Trigonometric%20Functions.md)
 - [Integration Using Inverse Hyperbolic Functions](Calculus%20I/Integration%20Using%20Inverse%20Hyperbolic%20Functions.md)
 - [Integration Using Inverse Trigonometric Functions](Calculus%20I/Integration%20Using%20Inverse%20Trigonometric%20Functions.md)
@@ -175,6 +176,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Intervals of Concavity](Calculus%20I/Intervals%20of%20Concavity.md)
 - [Introduction to Related Rates](Calculus%20I/Introduction%20to%20Related%20Rates.md)
 - [Jump Discontinuities](Calculus%20I/Jump%20Discontinuities.md)
+- [L'Hopital's Rule Applied to Tables](Calculus%20I/L%27Hopital%27s%20Rule%20Applied%20to%20Tables.md)
 - [L'Hopital's Rule](Calculus%20I/L%27Hopital%27s%20Rule.md)
 - [Left and Right Continuity](Calculus%20I/Left%20and%20Right%20Continuity.md)
 - [Left and Right Riemann Sums in Sigma Notation](Calculus%20I/Left%20and%20Right%20Riemann%20Sums%20in%20Sigma%20Notation.md)
@@ -201,6 +203,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Properties of Definite Integrals Involving the Limits of Integration](Calculus%20I/Properties%20of%20Definite%20Integrals%20Involving%20the%20Limits%20of%20Integration.md)
 - [Rates of Change in Applied Contexts](Calculus%20I/Rates%20of%20Change%20in%20Applied%20Contexts.md)
 - [Recognizing Derivatives in Limits](Calculus%20I/Recognizing%20Derivatives%20in%20Limits.md)
+- [Related Rates With Implicit Functions](Calculus%20I/Related%20Rates%20With%20Implicit%20Functions.md)
 - [Relating Concavity to the Second Derivative](Calculus%20I/Relating%20Concavity%20to%20the%20Second%20Derivative.md)
 - [Removing Discontinuities from Rational Functions](Calculus%20I/Removing%20Discontinuities%20from%20Rational%20Functions.md)
 - [Removing Jump Discontinuities](Calculus%20I/Removing%20Jump%20Discontinuities.md)
@@ -244,6 +247,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 
 ## Quizzes
 
+- [Accumulation Functions and the Second Fundamental Theorem of Calculus](Quizzes/Accumulation%20Functions%20and%20the%20Second%20Fundamental%20Theorem%20of%20Calculus.md)
 - [Applying Definitions of Derivatives and Definite Intervals](Quizzes/Applying%20Definitions%20of%20Derivatives%20and%20Definite%20Intervals.md)
 - [Applying the Rules of Differentiation and Integration](Quizzes/Applying%20the%20Rules%20of%20Differentiation%20and%20Integration.md)
 - [Continuity, Discontinuities, and Differentiability](Quizzes/Continuity%2C%20Discontinuities%2C%20and%20Differentiability.md)

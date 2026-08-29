@@ -42,5 +42,20 @@ $$\displaylines{x=81y^4-1,y=\pm\frac13\\ \\ \int_{-\frac13}^{\frac13}\left(81y^4
 ## Q3
 $$\displaylines{x=\sin(\pi y)-\cos(\pi y)=0\\ \\ \sin\left(\pi y\right)=\cos\left(\pi y\right),\tan\left(\pi y\right)=1,y=\frac14,-\frac54\\ \\ \int_{-\frac54}^{\frac14}\left(\sin(\pi y)-\cos(\pi y)\right)\differentialD y=\left\lbrack-\frac{\cos\left(\pi y\right)}{\pi}-\frac{\sin\left(\pi y\right)}{\pi}\right\rbrack_{-\frac34}^{\frac14}\\ \\ =\left\lbrack-\frac{\cos\left(\frac{\pi}{4}\right)}{\pi}-\frac{\sin\left(\frac{\pi}{4}\right)}{\pi}\right\rbrack-\left\lbrack\frac{\cos\left(\frac{3\pi}{4}\right)}{\pi}+\frac{\sin\left(\frac{3\pi}{4}\right)}{\pi}\right\rbrack\\ \\ A=\frac{2\sqrt2}{\pi}}$$
 
+# Review
+## Q1
+![](../assets/Pasted%20image%2020260828100620.png)
+$$\displaylines{y=\sqrt[3]{4x-8},y=-1,y=2\\ \\ \frac{y^3}{4}+2=x\\ \\ \int_{-1}^2\left(\frac{y^3}{4}+2\right)\differentialD y=\left\lbrack\frac{y^4}{16}+2y\right\rbrack_{-1}^2=\left(\frac{16}{16}+4\right)-\left(\frac{1}{16}-2\right)=\dfrac{111}{16}}$$
+
+## Q2
+$$\displaylines{x=4y-y^2,a=0\\ \\ x=0,y^2=4y,y=4\\ \\ \int_0^4\left(4y-y^2\right)\differentialD y=\left\lbrack2y^2-\frac{y^3}{3}\right\rbrack_0^4=\left\lbrack32-\frac{64}{3}\right\rbrack-0=\frac{32}{3}}$$
+
+## Q3
+$$\displaylines{x=16-y^4\\ \\ x=0,y=2\\ \\ \int_0^2\left(16-y^4\right)\differentialD y=\left\lbrack16y-\frac{y^5}{5}\right\rbrack_0^2=32-\frac{32}{5}-0=\frac{128}{5}}$$
+
 ## Q4
-$$$$
+$$\displaylines{x=9y-y^3\\ \\ y^3=9y,y=0,3\\ \\ \int_0^3\left(9y-y^3\right)\differentialD y=\left\lbrack\frac92y^2-\frac{y^4}{4}\right\rbrack_0^3=\frac{81}{2}-\frac{81}{4}=\frac{81}{4}}$$
+
+
+## Q5
+$$\displaylines{y=\sqrt[4]{x+1},a=0,b=1\\ \\ y^4-1=x\\ \\ \int_0^1\left(y^4-1\right)\differentialD y=\left\lbrack\frac{y^5}{5}-y\right\rbrack_0^1=\frac15-1-0=\left|-\frac45\right|}$$
