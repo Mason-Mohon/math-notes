@@ -59,3 +59,17 @@ $$\frac{C}{2}$$
 
 ## Q5
 $$\displaylines{\frac43C=\frac{10\pi}{9}\\ \\ 12C=10\pi\\ \\ C=\frac56}$$
+
+# Review
+
+## Q1
+![](../assets/Pasted%20image%2020260831094457.png)
+$$\displaylines{y=\csc{(Bx)}+D,B+D=?\\ \\ D=1\\ \\ T=3\pi,B=2\pi\cdot\frac{1}{3\pi}=\frac23\\ \\ \frac53}$$
+
+## Q2
+![](../assets/Pasted%20image%2020260831094629.png)
+$$\displaylines{y=\sec{\left(Bx+\dfrac{\pi}{6}\right)}\\ \\ T=\frac{\pi}{3}+\frac{\pi}{6}=\frac{\pi}{2}\\ \\ B=2\pi\cdot\frac{2}{\pi}=4}$$
+
+## Q3
+![](../assets/Pasted%20image%2020260831094828.png)
+$$\displaylines{y=\sec{(Bx)}+D\\ \\ D=-4\\ \\ T=6\pi,B=\frac13\\ \\ B+D=-\frac{11}{3}}$$

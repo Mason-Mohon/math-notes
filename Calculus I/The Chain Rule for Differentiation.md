@@ -43,3 +43,14 @@ $$\displaylines{f(x)=\dfrac{2}{\sqrt{x^3-2x}}\\ \\ f^{\prime}\left(x\right)=-\fr
 
 ## Q3
 $$\displaylines{f(x)=\left(x^2-x\right)^6\\ \\ f^{\prime}\left(x\right)6\left(x^2-x\right)^5\cdot\left(2x-1\right)}$$
+
+# Review
+
+## Q1
+$$\displaylines{y=-\dfrac{1}{\sqrt{x^2-6x}}\\ \\ y^{\prime}=\frac{1}{2\sqrt{u^3}}\cdot du\\ \\ =\frac{2x-6}{2\sqrt{\left(x^2-6x\right)^3}}}$$
+
+## Q2
+$$\displaylines{f(x)=\left(8x-7\right)^4\\ \\ f^{\prime}\left(x\right)=32(8x-7)^3}$$
+
+## Q3
+$$$$

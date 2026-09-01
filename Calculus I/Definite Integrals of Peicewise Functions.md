@@ -46,3 +46,14 @@ $$\frac92+3+4+2+9$$
 
 ## Q5
 $$-4-\left(4-\pi\right)+5+5=2+\pi$$
+
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle\int_{-2}^3f(x)\:\textrm{d}x=\int_{-2}^{-1}f\left(x\right)\differentialD x+\int_{-1}^3f\left(x\right)\differentialD x}\\ \\ =-\frac32+8=\frac{13}{2}}$$
+
+## Q2
+$$\displaylines{{\displaystyle\int_{-4}^4f(x)\:\textrm{d}x}\\ \\ \int_{-4}^0f(x)\:\textrm{d}x=4\\ \\ \int_0^4f\left(x\right)\differentialD x=-12+\left(2\pi\right)\\ \\ =2\pi-8}$$
+
+## Q3
+$$\displaylines{{\displaystyle\int_{-4}^4f(x)\:\textrm{d}x}\\ \\ \int_{-4}^{-2}f\left(x\right)\differentialD x=0\\ \\ \int_{-2}^1f\left(x\right)\differentialD x=\frac92+\frac62\\ \\ \int_1^4f\left(x\right)\differentialD x=-6\\ \\ \frac{15}{2}-\frac{12}{2}=\frac32}$$
