@@ -44,10 +44,10 @@ $$\displaylines{f(x)=2x^3-6x^2+6x-2\\ \\ f^{\prime}\left(x\right)=6x^2-12x+6=x^2
 # Review
 
 ## Q1
-$$f(x)=3x^4+8x^3+12,f^{\prime}\left(-2\right)=0$$
+$$\displaylines{f(x)=6x^2-4x^3,f^{\prime}\left(x\right)=12x-12x^2,f^{\doubleprime}\left(x\right)=12-24x\\ \\ f^{\doubleprime}\left(0\right)=12>0\\ \\ f^{\doubleprime}\left(1\right)=-12<0}$$
 
 ## Q2
 $$$$
 
 ## Q3
-$$$$
+$$\displaylines{f(x)=x^4+4x^3+6x^2+4x+16,f^{\prime}\left(x\right)=4x^3-12x^2+12x+4\\ \\ f^{\doubleprime}\left(x\right)=12x^2-24x+12}$$

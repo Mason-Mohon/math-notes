@@ -1,4 +1,4 @@
-Math Academy Multistep Continuity
+Math Academy Multistep Continuity, Derivatives, and Integrals
 
 ![](../assets/Pasted%20image%2020260731102230.png)
 

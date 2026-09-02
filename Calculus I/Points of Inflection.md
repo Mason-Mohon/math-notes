@@ -36,3 +36,14 @@ $$\displaylines{f(x)=x^3+3x^2-3x-12.\\ \\ f^{\prime}\left(x\right)=3x^2+6x-3\\ \
 
 ## Q5
 $$\displaylines{g(x)=e^{-x}(x^2+2x-1)\\ \\ g^{\prime}\left(x\right)=-e^{-x}(x^2+2x-1)+e^{-x}(2x+2)\\ \\ g^{\doubleprime}\left(x\right)=e^{-x}(x^2+2x-1)-e^{-x}(2x+2)-e^{-x}(2x+2)+2e^{-x}=0\\ \\ =x^2+2x-1-2x-2-2x-2+2=x^2-2x-3=\left(x-3\right)\left(x+1\right)}$$
+
+
+# Review
+## Q1
+$$\displaylines{f(x)=8x^2-2x+3+\dfrac{1}{x}\\ \\ f^{\prime}\left(x\right)=16x-2-\frac{1}{x^2}\\ \\ f^{\doubleprime}\left(x\right)16+\frac{2}{x^3}}$$
+
+## Q2
+$$$$
+
+## Q3
+$$$$

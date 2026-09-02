@@ -104,6 +104,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 
 ## Calculus I
 
+- [Alternative Forms of Pythagorean Identity](Calculus%20I/Alternative%20Forms%20of%20Pythagorean%20Identity.md)
 - [Applying the Fundamental Theorem of Calculus to Exponential and Trigonometric Functions](Calculus%20I/Applying%20the%20Fundamental%20Theorem%20of%20Calculus%20to%20Exponential%20and%20Trigonometric%20Functions.md)
 - [Approximating Areas Under Graphs of Composite Functions](Calculus%20I/Approximating%20Areas%20Under%20Graphs%20of%20Composite%20Functions.md)
 - [Approximating Areas With the Midpoint Riemann Sum](Calculus%20I/Approximating%20Areas%20With%20the%20Midpoint%20Riemann%20Sum.md)
@@ -120,6 +121,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Calculating dydx using dxdy](Calculus%20I/Calculating%20dydx%20using%20dxdy.md)
 - [Calculating Related Rates Using the Pythagorean Theorem](Calculus%20I/Calculating%20Related%20Rates%20Using%20the%20Pythagorean%20Theorem.md)
 - [Calculating Related Rates With Circles and Squares](Calculus%20I/Calculating%20Related%20Rates%20With%20Circles%20and%20Squares.md)
+- [Calculating Related Rates With Squares](Calculus%20I/Calculating%20Related%20Rates%20With%20Squares.md)
 - [Calculating Relates Rates Using Similar Triangles](Calculus%20I/Calculating%20Relates%20Rates%20Using%20Similar%20Triangles.md)
 - [Calculating the Definite Integral of a Function Given Its Graph](Calculus%20I/Calculating%20the%20Definite%20Integral%20of%20a%20Function%20Given%20Its%20Graph.md)
 - [Calculating the Definite Integral of a Function's Derivative Given its Graph](Calculus%20I/Calculating%20the%20Definite%20Integral%20of%20a%20Function%27s%20Derivative%20Given%20its%20Graph.md)
@@ -244,6 +246,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [The Squeeze Theorem](Calculus%20I/The%20Squeeze%20Theorem.md)
 - [The Sum and Constant Multiple Rule for Definite Integrals](Calculus%20I/The%20Sum%20and%20Constant%20Multiple%20Rule%20for%20Definite%20Integrals.md)
 - [The Sum and Constant Multiple Rules for Differentiation](Calculus%20I/The%20Sum%20and%20Constant%20Multiple%20Rules%20for%20Differentiation.md)
+- [The Sum and Difference Formulas for Sine](Calculus%20I/The%20Sum%20and%20Difference%20Formulas%20for%20Sine.md)
 - [The Sum Rule for Indefinite Integrals](Calculus%20I/The%20Sum%20Rule%20for%20Indefinite%20Integrals.md)
 - [Using Differentiation to Calculate Critical Points](Calculus%20I/Using%20Differentiation%20to%20Calculate%20Critical%20Points.md)
 - [Using the First Derivative Test to Classify Local Extrema](Calculus%20I/Using%20the%20First%20Derivative%20Test%20to%20Classify%20Local%20Extrema.md)

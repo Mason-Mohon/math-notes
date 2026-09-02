@@ -1,4 +1,4 @@
-Math Academy Calculus I Limits Continuity
+Math Academy Calculus I Limits Continuity, Derivatives, and Integrals
 
 ![](../assets/Pasted%20image%2020260730144022.png)
 

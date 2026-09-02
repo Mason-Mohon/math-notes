@@ -27,7 +27,7 @@ $$$$
 $$$$
 
 ## Q2
-$$$$
+$$\displaylines{\lim\limits_{x\to{\pi}/{2}}\dfrac{f(x)\sin{2x}}{x\cos{x}-g(x)}\\ \\ =\frac{f^{\prime}\left(x\right)\sin2x+2\cos2xf\left(x\right)}{\cos x-x\sin x-g^{\prime}\left(x\right)}=\frac{-2\cdot0+2\cdot-1\cdot\pi}{0-\frac{\pi}{2}\cdot1-\frac{\pi}{2}}=\frac{2\pi}{\pi}}$$
 
 ## Q3
-$$$$
+$$\lim\limits_{x\to0}\dfrac{\,f(x)-\sin x\,}{(g(x))^2-4}=\frac{f^{\prime}\left(x\right)-\cos x}{2g\left(x\right)\cdot g^{\prime}\left(x\right)}=\frac{f^{\doubleprime}\left(x\right)+\sin x}{2\left(\left(g^{\prime}\left(x\right)\right)^2+g\left(x\right)\cdot g^{\doubleprime}\left(x\right)\right)}=\frac{6}{2\left(0^2+6\right)}=\frac12$$

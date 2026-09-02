@@ -1,4 +1,4 @@
-Calculus I Math Academy Continuity
+Calculus I Math Academy Continuity, Derivatives, and Integrals
 
 ![](../assets/Pasted%20image%2020260731110500.png)
 

@@ -24,4 +24,14 @@ $$\displaylines{y=x^4-16=\left(x^2-4\right)\left(x^2+4\right)=\left(x-2\right)\l
 
 ## Q8
 $$\displaylines{y=-4x^2+8x=-4x\left(x-2\right)\\ \\ F\left(x\right)=-\frac43x^3+4x^2\\ \\ F\left(-1\right)=\frac{16}{3}\\ \\ F\left(0\right)=0\\ \\ F\left(2\right)=-\frac{32}{3}+\frac{48}{3}=\frac{16}{3}\\ \\ \frac{16}{3}-0+}$$
-****
+
+# Review
+
+## Q1
+$$\displaylines{y=\dfrac{1}{32}x^5\\ \\ A=2\cdot\int_0^2\left(\frac{1}{32}x^5\right)\differentialD x=2\cdot\frac{2^6}{192}=\frac{2^6}{96}=\frac{64}{96}=\frac23}$$
+
+## Q2
+$$\displaylines{y=16x-4x^3\\ \\ A=2\cdot\int_0^2\left(16x-4x^3\right)\differentialD x=2\cdot\left(8x^2-x^4\right)=2\cdot\left(32-16\right)=16}$$
+
+## Q3
+$$\displaylines{y=x^3-2x^2+x,a=-1,b=1\\ \\ \int_0^1\left(x^3-2x^2+x\right)\differentialD x-\int_{-1}^0\left(x^3-2x^2+x\right)\differentialD x\\ \\ \left\lbrack\frac14x^4-\frac23x^3+\frac12x^2\right\rbrack_0^1-\left\lbrack\frac14x^4-\frac23x^3+\frac12x^2\right\rbrack_{-1}^0=\left(\frac14-\frac23+\frac12\right)+\left(\frac14+\frac23+\frac12\right)=\frac32}$$

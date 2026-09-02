@@ -2,7 +2,7 @@
 2026-08-21
 Math Academy
 Subject: Calculus I
-Topics: Continuity
+Topics: Continuity, Derivatives, and Integrals
 
 ![](../assets/Pasted%20image%2020260821092626.png)![](../assets/Pasted%20image%2020260821092647.png)
 ## Q4
