@@ -2,7 +2,7 @@
 2026-08-25
 Math Academy
 Subject: Calculus I Multistep
-Topics: Continuity, Derivatives, and Integrals Differentiation
+Topics: [Continuity, Derivatives, and Integrals](../Calculus%20I/Continuity%2C%20Derivatives%2C%20and%20Integrals.md) Differentiation
 
 $$f(x) =
 \begin{cases}

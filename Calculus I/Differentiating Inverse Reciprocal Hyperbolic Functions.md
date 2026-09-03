@@ -41,10 +41,10 @@ $$\displaylines{f(x)=\dfrac{\text{arcsch}{x}}{\sqrt{x}},f^{\prime}(x)=g(x)-\dfra
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{y=4\text{arsech}\left(-3x\right)\\ \\ y^{\prime}=-\frac{4}{x\sqrt{1-9x^2}}}$$
 
 ## Q2
-$$$$
+$$\displaylines{y=-\text{arsech}(\ln{x})\\ \\ y^{\prime}=\frac{1}{x\ln x\sqrt{1-\left(\ln x\right)^2}}}$$
 
 ## Q3
-$$$$
+$$\displaylines{f(x)=e^{x}\text{arcoth}x\\ \\ f^{\prime}\left(x\right)=e^{x}\cdot\text{arcoth}x+\frac{1}{1-x^2}}$$

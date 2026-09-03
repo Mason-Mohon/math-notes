@@ -1,6 +1,6 @@
 # Stock and Commodity Prices With Piecewise Continuous Functions
 2026-08-08
-Math Academy Multistep Continuity, Derivatives, and Integrals
+Math Academy Multistep [Continuity, Derivatives, and Integrals](../Calculus%20I/Continuity%2C%20Derivatives%2C%20and%20Integrals.md)
 
 ![](../assets/Pasted%20image%2020260808135556.png)
 ## Q1

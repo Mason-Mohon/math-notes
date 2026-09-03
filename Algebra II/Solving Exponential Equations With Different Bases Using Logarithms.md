@@ -31,3 +31,14 @@ $$\displaylines{2^{x+3}=9^{8-5x}\\ \\ \left(x+3\right)\ln2=\left(8-5x\right)\ln9
 
 ## Q3
 $$\displaylines{e^{2x-2}=2\cdot9^{x}\\ \\ 2x-2=\ln2+x\ln9\\ \\ 2x-x\ln9=\ln2+2\\ \\ x=\frac{\ln2+2}{2-\ln9}}$$
+
+# Review
+
+## Q1
+$$\displaylines{e^{x+7}=7^{1-x}\\ \\ x+7=\ln7-x\ln7\\ \\ x\left(1+\ln7\right)=\ln7-7}$$
+
+## Q2
+$$\displaylines{3^{x+5}=7^{6-2x}\\ \\ x\ln3+5\ln3=6\ln7-2x\ln7\\ \\ x\left(\ln3+2\ln7\right)=6\ln7-5\ln3}$$
+
+## Q3
+$$\displaylines{4x\ln2+x\ln3=\ln3\\ \\ x=\frac{\ln3}{4\ln2+\ln3}}$$

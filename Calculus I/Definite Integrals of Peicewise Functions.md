@@ -1,4 +1,4 @@
-Math Academy Calculus I Integrals Continuity, Derivatives, and Integrals
+Math Academy Calculus I Integrals [Continuity, Derivatives, and Integrals](Continuity%2C%20Derivatives%2C%20and%20Integrals.md)
 
 ![](../assets/Pasted%20image%2020260807171651.png)
 

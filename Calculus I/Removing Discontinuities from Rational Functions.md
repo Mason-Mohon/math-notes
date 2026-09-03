@@ -2,7 +2,7 @@
 2026-08-19
 Math Academy
 Subject: Calculus I
-Topics: Continuity, Derivatives, and Integrals Limits
+Topics: [Continuity, Derivatives, and Integrals](Continuity%2C%20Derivatives%2C%20and%20Integrals.md) Limits
 
 ![](../assets/Pasted%20image%2020260819124952.png)
 
