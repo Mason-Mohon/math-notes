@@ -3,6 +3,8 @@
 Math Academy
 Subject: Calculus I
 Topics: Trigonometry
+
+[The Sume and Difference Formulas for Cosine](../Precalculus/The%20Sume%20and%20Difference%20Formulas%20for%20Cosine.md)
 ![](../assets/Pasted%20image%2020260901111347.png)
 ## Q1
 $$\displaylines{\dfrac{7\pi}{12}=\dfrac{3\pi}{4}-\dfrac{\pi}{6}\\ \\ \sin\left(\dfrac{7\pi}{12}\right)=\sin\left(\dfrac{3\pi}{4}-\dfrac{\pi}{6}\right)=\sin\frac{3\pi}{4}\cos\frac{\pi}{6}-\cos\frac{3\pi}{4}\sin\frac{\pi}{6}\\ \\ =\frac{\sqrt2}{2}\cdot\frac{\sqrt3}{2}+\frac{\sqrt2}{4}=\frac{\sqrt6+\sqrt2}{4}}$$

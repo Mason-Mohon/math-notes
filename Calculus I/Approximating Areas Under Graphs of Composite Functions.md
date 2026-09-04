@@ -44,10 +44,10 @@ $$$$
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{V=\pi\int_1^9[f(x)]^2\,\textrm{d}x,\Delta x=2\\ \\ \pi\left(9+4+4\right)\cdot2=34\pi}$$
 
 ## Q2
-$$$$
+$$\displaylines{L=\int_{-3}^3\sqrt{1+[f^{\prime}(x)]^2}\,\textrm{d}x,\Delta x=3\\ \\ 3\cdot\left(2+3+\sqrt2\right)}$$
 
 ## Q3
 $$$$

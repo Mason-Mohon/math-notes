@@ -48,3 +48,14 @@ $$\displaylines{y=-\text{arsech}(\ln{x})\\ \\ y^{\prime}=\frac{1}{x\ln x\sqrt{1-
 
 ## Q3
 $$\displaylines{f(x)=e^{x}\text{arcoth}x\\ \\ f^{\prime}\left(x\right)=e^{x}\cdot\text{arcoth}x+\frac{1}{1-x^2}}$$
+
+# Review
+
+## Q1
+$$$$
+
+## Q2
+$$\frac{x^2+x}{1-x^2}=\frac{x\left(1+x\right)}{\left(1+x\right)\left(1-x\right)}$$
+
+## Q3
+$$$$
