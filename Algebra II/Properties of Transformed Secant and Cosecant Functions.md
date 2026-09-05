@@ -32,3 +32,11 @@ $$f(x)=4\sec\left(3x-\dfrac{\pi}{5}\right)+3$$
 
 ## Q2
 $$f(x) = \csc\left(7x - \dfrac{\pi}{12} \right) + 5$$
+
+# Review
+
+## Q2
+$$\displaylines{f(x)=\dfrac23\csc\left(\dfrac{x}{4}-\dfrac{\pi}{3}\right)\\ \\ \frac{x}{4}-\frac{\pi}{3}=n\pi\\ \\ x=4n\pi+\frac{4\pi}{3}}$$
+
+## Q3
+$$$$

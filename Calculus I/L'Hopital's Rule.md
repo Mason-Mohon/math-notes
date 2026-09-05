@@ -86,3 +86,14 @@ $${\displaystyle\lim_{x\to\infty}\dfrac{\sqrt{x}}{e^{3x}}=\frac{\frac{1}{2\sqrt{
 
 ## Q3
 $$\displaystyle\lim_{x \to0^+} \dfrac{\csc(x)}{\cot(2x)} =\frac{\sin2x}{\sin x\cos\left(2x\right)}=2$$
+
+# Review
+
+## Q1
+$${{\displaystyle\lim_{x\to0}\frac{e^{x}-x-1}{\cos x-1}=}}\frac{e^{x}-1}{-\sin x}=\frac{e^{x}}{-\cos x}$$
+
+## Q2
+$${\displaystyle\lim_{x\to0^{+}}\dfrac{\ln(\sin{x})}{\csc{x}}}=\frac{\frac{\cos x}{\sin x}}{-\csc x\cot x}=-\frac{1}{\csc x}=-\sin x=0$$
+
+## Q3
+$${{\displaystyle\lim_{x\to-\infty}\dfrac{5x+1}{x^2+\sqrt[3]{x}}=}}\frac{5}{2x+\frac13x^{-\frac23}}=\frac{5}{\infty}=0$$

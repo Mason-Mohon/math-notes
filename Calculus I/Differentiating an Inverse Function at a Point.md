@@ -88,3 +88,16 @@ $$\displaylines{f(x)=x^4+3x^3+4\\ \\ f^{\prime}\left(x\right)=4x^3+9x^2\\ \\ f^{
 
 ## Q3
 $$\displaylines{\left(g\cdot f^{-1}\right)^{\prime}\left(x\right)=\frac{g\left(x\right)}{f^{\prime}\left(f^{-1}\left(x\right)\right)}\cdot g^{\prime}\left(x\right)f^{-1}\left(x\right)\\ \\ \left(g\cdot f^{-1}\right)^{\prime}\left(3\right)=\frac{-3}{f^{\prime}\left(-2\right)}+1\cdot-2=\frac34-\frac84=-\frac54}$$
+
+# Review
+
+$$\left(f^{-1}\right)^{\prime}\left(x\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(x\right)\right)}$$
+
+## Q1
+$$\displaylines{f(x)=12-6x,P\left(3,-6\right)\\ \\ f^{\prime}\left(x\right)=-6\\ \\ \left(f^{-1}\right)^{\prime}\left(-6\right)=-\frac16}$$
+
+## Q2
+$$\displaylines{f(x)=\dfrac{3}{2\sqrt{x-3}},P\left(7,\dfrac34\right)\\ \\ f^{\prime}\left(x\right)=-\frac{3}{4\sqrt{\left(x-3\right)^3}}\\ \\ \left(f^{-1}\right)^{\prime}\left(\frac34\right)=\frac{1}{f^{\prime}\left(7\right)}=\frac{1}{-\frac{3}{32}}}$$
+
+## Q3
+$$\displaylines{f(x)=3^{x}-1,(f^{-1})^{\prime}(8)=?\\ \\ f^{\prime}\left(x\right)=3^{x}\ln3\\ \\ 9=3^{x},x=2\\ \\ f^{-1}\left(8\right)=2\\ \\ \left(f^{-1}\right)^{\prime}\left(8\right)=\frac{1}{f^{\prime}\left(2\right)}=\frac{1}{9\ln3}}$$

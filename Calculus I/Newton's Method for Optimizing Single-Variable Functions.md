@@ -39,3 +39,14 @@ $$\displaylines{f(x)=x^4-4x^3+6x-2,x_0=3\\ \\ f^{\prime}\left(x\right)=4x^3-12x^
 
 ## Q3
 $$\displaylines{f(x)=e^{2x}-4e^{x}+3,x_0=1\\ \\ f^{\prime}\left(x\right)=2e^{2x}-4e^{x}\\ \\ f^{\doubleprime}\left(x\right)=4e^{2x}-4e^{x}\\ \\ x_1=x-\frac{2e^{2x}-4e^{x}}{4e^{2x}-4e^{x}}}$$
+
+# Review
+
+## Q1
+$$\displaylines{f(x)=(2-x^2)e^{-x},x\in\left\lbrack2,3\right\rbrack,x_0=2,\text{3 decimals}\\ \\ f^{\prime}\left(x\right)=-2xe^{-x}-\left(2-x^2\right)e^{-x}\\ \\ f^{\doubleprime}\left(x\right)=-2e^{-x}+2xe^{-x}+2xe^{-x}-\left(2-x^2\right)e^{-x}\\ \\ x_1=x-\frac{-2xe^{-x}-\left(2-x^2\right)e^{-x}}{-2e^{-x}+2xe^{-x}+2xe^{-x}-\left(2-x^2\right)e^{-x}}=x-\frac{x^2-2x-2}{x\left(4-x\right)}=2.5}$$
+
+## Q2
+$$\displaylines{f(x)=\ln(x^2)-4x\\ \\ x_0=0.2,x\in\left\lbrack0.2,1\right\rbrack\\ \\ f^{\prime}\left(x\right)=\frac{2}{x}-4\\ \\ f^{\doubleprime}\left(x\right)=-\frac{2}{x^2}\\ \\ x_{n}=x-\frac{\frac{2}{x}-4}{-\frac{2}{x^2}}\\ \\ x_1=0.32,x_2=0.435}$$
+
+## Q3
+$$\displaylines{f(x)=e^{x}-x^3,x\in\left\lbrack3,4\right\rbrack,x_0=3.6\\ \\ f^{\prime}\left(x\right)=e^{x}-3x^2\\ \\ f^{\doubleprime}\left(x\right)=e^{x}-6x\\ \\ x_{n}=x-\frac{e^{x}-3x^2}{e^{x}-6x}\\ \\ x_1=3.752,x_2=3.733}$$
