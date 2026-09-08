@@ -6,18 +6,7 @@ Topics: [Derivatives](Derivatives.md) Concavity [Points of Inflection](Points%20
 
 ![](../assets/Pasted%20image%2020260826110030.png)
 ![](../assets/Pasted%20image%2020260826110100.png)
-
-## Q1
-$$$$
-
-## Q2
-$$$$
-
-## Q3
-$$$$
-
-## Q4
-$$$$
+![](../assets/Pasted%20image%2020260907131025.png)
 
 # Review
 

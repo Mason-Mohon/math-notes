@@ -36,10 +36,10 @@ $$\displaylines{y^{\prime}=0.5,x=4,z=3,x^{\prime},z^{\prime}=0\\ \\ V=12y\\ \\ V
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{x=10,y=15,z=15,y^{\prime}=-1,z^{\prime}=-4,x^{\prime}=-2\\ \\ V=xyz\\ \\ V^{\prime}=x^{\prime}yz+y^{\prime}xz+z^{\prime}xy\\ \\ V^{\prime}=-450-150-600=1200}$$
 
 ## Q2
-$$$$
+$$\displaylines{x=4,y=11,z=6,x^{\prime}=-4,y^{\prime}=5,z^{\prime}=0\\ \\ S=12x+2xy+12y\\ \\ S^{\prime}=12x^{\prime}+2\left(x^{\prime}y+y^{\prime}x\right)+12y^{\prime}\\ \\ S^{\prime}=-48+2\left(-44+20\right)+60=-48-48+60=60-96=-36}$$
 
 ## Q3
-$$$$
+$$x=24,y=18,z^{\prime}=3$$
