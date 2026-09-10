@@ -96,3 +96,14 @@ print(round(x,3))
 ```
 ## Q3
 $$\displaylines{f(x)=\ln(x+2)+\cos(x)-1,x_0=1.8\\ \\ f^{\prime}\left(x\right)=\frac{1}{x+2}-\sin x\\ \\ x_{n}=x-\frac{\ln(x+2)+\cos(x)-1}{\frac{1}{x+2}-\sin x}}$$
+
+# Review
+
+## Q1
+$$\displaylines{f(x)=e^{2x}+3x^2-2,x_0=0.5\\ \\ f^{\prime}\left(x\right)=2e^{2x}+6x\\ \\ x_1=x-\frac{e^{2x}+3x^2-2}{2e^{2x}+6x}=0.326}$$
+
+## Q2
+$$\displaylines{f(x)=e^{x}-x^2-2,x_0=1.4\\ \\ f^{\prime}\left(x\right)=e^{x}-2x\\ \\ x_{n}=x-\frac{e^{x}-x^2-2}{e^{x}-2x}\\ \\ x_2=1.319}$$
+
+## Q3
+$$\displaylines{f(x)=3e^{x}-x^2+5x-2,x_0=0.6\\ \\ f^{\prime}\left(x\right)=3e^{x}-2x+5\\ \\ x_{n}=x-\frac{3e^{x}-x^2+5x-2}{3e^{x}-2x+5}\\ \\ x_1=-0.059,x_2=-0.126}$$

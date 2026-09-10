@@ -82,3 +82,15 @@ $$\displaylines{y=\dfrac{2}{x}+1,\left(1,3\right),\text{x-axis intersection}\\ \
 
 ## Q3
 $$\displaylines{y=6x-4x^2+2x^4,\left(0,0\right)\\ \\ y^{\prime}=6-8x,m=6,m^{\prime}=-\frac16\\ \\ y=-\frac16x}$$
+
+
+# Review
+
+## Q1
+$$\displaylines{y=1-x^2,\left(1,0\right)\\ \\ y^{\prime}=-2x\\ \\ m=-2,m^{\prime}=\frac12\\ \\ y=\frac12\left(x-1\right)\\ \\ 1=x-2y}$$
+
+## Q2
+$$\displaylines{y=4x-x^3,\left(1,3\right)\\ \\ y^{\prime}=4-3x^2,m=1,m^{\prime}=-1\\ \\ y-3=-x+1\\ \\ x+y=4}$$
+
+## Q3
+$$\displaylines{y=4-x^2,\left(1,3\right)\\ \\ y^{\prime}=-2x,m=-2,m^{\prime}=\frac12\\ \\ y-3=\frac12\left(x-1\right)\\ \\ -6=x-1,x=-5}$$

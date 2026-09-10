@@ -40,10 +40,11 @@ $$\displaylines{H=20,R=5,h^{\prime}=\frac{10}{3},h=12,r=3=\frac14h\\ \\ v=\frac{
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{v=\frac13\pi r^2h,r=1,v^{\prime}=4,h=3r\\ \\ v=\pi r^3,v^{\prime}=3\pi r^2r^{\prime}\\ \\ \frac{4}{3\pi}=r^{\prime}}$$
 
 ## Q2
-$$$$
+![](../assets/Pasted%20image%2020260909100325.png)
+$$\displaylines{R=60,H=420,h^{\prime}=\frac{10}{h},h=270\\ \\ \frac{42}{6}=\frac{h}{r},r=\frac{2}{15}h=36\\ \\ v=\frac{4\pi}{675}h^3\\ \\ v^{\prime}=\frac{4\pi}{225}h^2h^{\prime}=48\pi}$$
 
 ## Q3
-$$$$
+$$\displaylines{H=18,R=6,h^{\prime}=-2,h=9\\ \\ \frac13=\frac{r}{h},r=\frac13h\\ \\ v=\frac{1}{27}\pi h^3,v^{\prime}=\frac19\pi h^2h^{\prime}=18\pi}$$

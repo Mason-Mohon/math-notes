@@ -42,3 +42,11 @@ $$\displaylines{f(x)=\sinh{\left(2x-3\right)}\\ \\ x=\sinh\left(2y-3\right)\\ \\
 
 ## Q12
 $$\displaylines{f\left(x\right)=\sinh\left(x^3\right)\\ \\ x=\sinh\left(y^3\right)\\ \\ y=\sqrt[3]{\ln\left(x+\sqrt{x^2+1}\right)}}$$
+
+# Review
+
+## Q2
+$$\artanh{\left(\dfrac{t}{t+1}\right)}=\frac12\ln\left(\frac{1+\dfrac{t}{t+1}}{1-\dfrac{t}{t+1}}\right)=\frac12\ln\left(\frac{\frac{2t+1}{t+1}}{\frac{1}{t+1}}\right)=\frac12\ln\left(2t+1\right)$$
+
+## Q3
+$$\artanh\left(-\dfrac{y}{2}\right)=\frac12\ln\left(\frac{1-\frac{y}{2}}{1+\frac{y}{2}}\right)=\frac12\ln\left(\frac{2-y}{2+y}\right)$$

@@ -18,10 +18,10 @@ $$\cos\left(x-\dfrac{5\pi}{6}\right)=\cos x\cdot-\frac{\sqrt3}{2}+\sin x\cdot\fr
 # Review
 
 ## Q1
-$$$$
+$$\cos(x-\pi)=\cos x\cos\pi+\sin x\sin\pi=-\cos x$$
 
 ## Q2
-$$$$
+$$\cos\left(w-\dfrac{3\pi}{4}\right)=\cos w\cos\frac{3\pi}{4}+\sin w\sin\frac{3\pi}{4}=\dfrac{\sqrt2}{2}\left(\sin w-\cos w\right)$$
 
 ## Q3
-$$$$
+$$\cos(x+90^{\circ})=\sin x$$

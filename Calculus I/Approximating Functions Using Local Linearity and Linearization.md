@@ -7,6 +7,9 @@ Topics: Differentiation Linearization
 
 ![](../assets/Pasted%20image%2020260810135515.png)
 
+$$L\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)$$
+
+
 ![](../assets/Pasted%20image%2020260810135537.png)
 ## Q1
 $$L\left(x\right)=6-5\left(x-3\right)=-5x+21$$

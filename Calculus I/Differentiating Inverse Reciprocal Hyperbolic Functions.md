@@ -51,11 +51,19 @@ $$\displaylines{f(x)=e^{x}\text{arcoth}x\\ \\ f^{\prime}\left(x\right)=e^{x}\cdo
 
 # Review
 
-## Q1
-$$$$
 
 ## Q2
 $$\frac{x^2+x}{1-x^2}=\frac{x\left(1+x\right)}{\left(1+x\right)\left(1-x\right)}$$
 
+# Review
+## Q1
+$$\displaylines{y=\text{arcoth}\arcoth(x^2+1),\\ \\ y^{\prime}=\frac{2x}{1-\left(x^2+1\right)^2}=\frac{2x}{1-\left(x^4+2x^2+1\right)}=-\frac{2x}{x^4+2x^2}=\\ \\ -\dfrac{2}{x(x^2+2)}}$$
+
+## Q2
+$$\displaylines{y=-3\text{arsech}\left(2x\right)\\ \\ y^{\prime}=\frac{3}{x\sqrt{1-4x^2}}}$$
+
 ## Q3
-$$$$
+$$\displaylines{y=2\text{arsech}\left(x^2\right)\\ \\ y^{\prime}=-\frac{2}{x^2\sqrt{1-x^4}}}$$
+
+## Q5
+$$\displaylines{f\left(x\right)=\frac{\text{arsech}\left(x\right)}{\sqrt{x}}\\ \\ f^{\prime}\left(x\right)=\frac{1}{x}\left(-\frac{\sqrt{x}}{x\sqrt{1-x^2}}-\frac{\text{arsech}\left(x\right)}{2\sqrt{x}}\right)\\ \\ f^{\prime}(x)=-\dfrac{1}{x\sqrt{x}}\left(\frac{1}{\sqrt{1-x^2}}+\frac{\text{arsech}\left(x\right)}{2}\right)}$$
