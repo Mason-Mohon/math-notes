@@ -1,3 +1,3 @@
-Math Academy Algebra II
+Math Academy Algebra II Graph Transformations
 
 ![](../assets/Pasted%20image%2020260717143028.png)

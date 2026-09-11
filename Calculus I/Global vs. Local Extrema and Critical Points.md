@@ -1,4 +1,4 @@
-Math Academy Calculus I [Derivatives](Derivatives.md) Critical Points
+Math Academy Calculus I [Derivatives](Derivatives.md) Critical Points Extrema
 
 ![](../assets/Pasted%20image%2020260804161459.png)
 

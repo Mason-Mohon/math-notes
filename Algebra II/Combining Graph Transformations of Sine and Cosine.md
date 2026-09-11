@@ -1,4 +1,4 @@
-Math Academy Trigonometry Algebra II
+Math Academy Trigonometry Algebra II Graph Transformations
 
 $$y=2\cos\left(x+2\right)-1$$
 

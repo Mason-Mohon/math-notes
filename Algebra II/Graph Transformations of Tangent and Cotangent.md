@@ -1,4 +1,4 @@
-Math Academy Algebra II Trigonometry
+Math Academy Algebra II Trigonometry Graph Transformations
 
 $$\displaylines{\frac{\pi}{\frac{3\pi}{2}}=\frac23\\ \\ T=\frac{5\pi}{2}=\frac25}$$
 

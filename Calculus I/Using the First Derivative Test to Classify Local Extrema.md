@@ -2,7 +2,7 @@
 2026-08-10
 Math Academy
 Subject: Calculus I
-Topics: [Derivatives](Derivatives.md) Critical Points
+Topics: [Derivatives](Derivatives.md) Critical Points Extrema
 
 ![](../assets/Pasted%20image%2020260810103044.png)
 ![](../assets/Pasted%20image%2020260810103058.png)

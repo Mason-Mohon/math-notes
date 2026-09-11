@@ -1,4 +1,4 @@
-Math Academy Algebra II Trigonometry
+Math Academy Algebra II Trigonometry Extrema
 
 ![](../assets/Pasted%20image%2020260728141016.png)
 

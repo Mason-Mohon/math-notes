@@ -1,4 +1,4 @@
-Logarithms Algebra II Math Academy
+Logarithms Algebra II Math Academy Graph Transformations
 
 Function
 $$y=5\log_6\left(x-2\right)$$

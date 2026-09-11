@@ -129,6 +129,7 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Calculating Derivatives From Graphs Using the Chain Rule](Calculus%20I/Calculating%20Derivatives%20From%20Graphs%20Using%20the%20Chain%20Rule.md)
 - [Calculating Derivatives From Graphs](Calculus%20I/Calculating%20Derivatives%20From%20Graphs.md)
 - [Calculating dydx using dxdy](Calculus%20I/Calculating%20dydx%20using%20dxdy.md)
+- [Calculating Limits Using Trigonometric Identities](Calculus%20I/Calculating%20Limits%20Using%20Trigonometric%20Identities.md)
 - [Calculating Related Ratees With Rectangular Solids](Calculus%20I/Calculating%20Related%20Ratees%20With%20Rectangular%20Solids.md)
 - [Calculating Related Rates Using the Pythagorean Theorem](Calculus%20I/Calculating%20Related%20Rates%20Using%20the%20Pythagorean%20Theorem.md)
 - [Calculating Related Rates Using Trigonometry](Calculus%20I/Calculating%20Related%20Rates%20Using%20Trigonometry.md)

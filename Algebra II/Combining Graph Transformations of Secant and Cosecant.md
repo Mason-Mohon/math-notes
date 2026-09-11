@@ -1,4 +1,4 @@
-Math Academy Algebra II Trigonometry
+Math Academy Algebra II Trigonometry Graph Transformations
 
 $$y=2\sec\left(x-\frac{\pi}{8}\right)+1$$
 

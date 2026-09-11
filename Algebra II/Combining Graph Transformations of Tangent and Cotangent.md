@@ -1,4 +1,4 @@
-Math Academy Algebra II Trigonometry
+Math Academy Algebra II Trigonometry Graph Transformations
 
 ![](../assets/Pasted%20image%2020260724101557.png)
 
