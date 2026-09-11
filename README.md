@@ -1,6 +1,6 @@
 # Math Notes
 
-Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy Calculus I track, synced from Obsidian Vault daily.
+Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations II, Mathematical Foundations III, and Mathematics for Machine Learning. On the Math Academy Mathematics for Machine Learning track, synced from Obsidian Vault daily.
 
 ## Algebra II
 
@@ -111,6 +111,15 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [The Sum and Difference Formulas for Cosine](Precalculus/The%20Sum%20and%20Difference%20Formulas%20for%20Cosine.md)
 - [Trigonometric Equations Containing Transformed Tangent Functions](Precalculus/Trigonometric%20Equations%20Containing%20Transformed%20Tangent%20Functions.md)
 - [Vertical Asymptotes of Rational Functions](Precalculus/Vertical%20Asymptotes%20of%20Rational%20Functions.md)
+
+## Mathematical Foundations II
+
+- [Completing the Square With Odd Linear Terms](Mathematical%20Foundations%20II/Completing%20the%20Square%20With%20Odd%20Linear%20Terms.md)
+- [Finding Points on Transformed Curves](Mathematical%20Foundations%20II/Finding%20Points%20on%20Transformed%20Curves.md)
+- [One-To-One Functions](Mathematical%20Foundations%20II/One-To-One%20Functions.md)
+- [Recursive Sequences](Mathematical%20Foundations%20II/Recursive%20Sequences.md)
+- [Solving Systems of Nonlinear Equations](Mathematical%20Foundations%20II/Solving%20Systems%20of%20Nonlinear%20Equations.md)
+- [Using the Pythagorean Identity in the First Quadrant](Mathematical%20Foundations%20II/Using%20the%20Pythagorean%20Identity%20in%20the%20First%20Quadrant.md)
 
 ## Calculus I
 
@@ -275,6 +284,13 @@ Public notes from Algebra II, Precalculus, and Calculus I. On the Math Academy C
 - [Using Differentiation to Calculate Critical Points](Calculus%20I/Using%20Differentiation%20to%20Calculate%20Critical%20Points.md)
 - [Using the First Derivative Test to Classify Local Extrema](Calculus%20I/Using%20the%20First%20Derivative%20Test%20to%20Classify%20Local%20Extrema.md)
 - [Vertical Asymptotes of Rational Functions (Calc)](Calculus%20I/Vertical%20Asymptotes%20of%20Rational%20Functions%20%28Calc%29.md)
+
+## Mathematical Foundations III
+
+
+## Mathematics for Machine Learning
+
+- [Mathematics for Machine Learning Placement Exam](Mathematics%20for%20Machine%20Learning/Mathematics%20for%20Machine%20Learning%20Placement%20Exam.md)
 
 ## Quizzes
 
