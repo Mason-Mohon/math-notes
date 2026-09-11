@@ -14,7 +14,15 @@ from datetime import date
 from pathlib import Path
 from urllib.parse import quote
 
-NOTE_FOLDERS = ("Algebra II", "Precalculus", "Calculus I", "Quizzes")
+NOTE_FOLDERS = (
+    "Algebra II",
+    "Precalculus",
+    "Mathematical Foundations II",
+    "Calculus I",
+    "Mathematical Foundations III",
+    "Mathematics for Machine Learning",
+    "Quizzes",
+)
 OWNED_PATHS = (*NOTE_FOLDERS, "assets", "README.md")
 SCREENSHOT_PREFIXES = ("Pasted image", "Pasted Image", "Screenshot")
 IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".gif", ".webp"}
@@ -52,7 +60,10 @@ def classify_note(filename: str, content: str) -> str | None:
     ):
         return "Quizzes"
     for folder, aliases in (
+        ("Mathematics for Machine Learning", ("Mathematics for Machine Learning",)),
+        ("Mathematical Foundations III", ("Mathematical Foundations III",)),
         ("Calculus I", ("Calculus I", "Calculus")),
+        ("Mathematical Foundations II", ("Mathematical Foundations II",)),
         ("Precalculus", ("Precalculus",)),
         ("Algebra II", ("Algebra II",)),
     ):
@@ -147,8 +158,11 @@ def _readme(notes: list[Note]) -> str:
         "# Math Notes",
         "",
         (
-            "Public notes from Algebra II, Precalculus, and Calculus I. "
-            "On the Math Academy Calculus I track, synced from Obsidian Vault daily."
+            "Public notes from Algebra II, Precalculus, Calculus I, "
+            "Mathematical Foundations II, Mathematical Foundations III, "
+            "and Mathematics for Machine Learning. "
+            "On the Math Academy Mathematics for Machine Learning track, "
+            "synced from Obsidian Vault daily."
         ),
         "",
     ]
@@ -318,7 +332,8 @@ def fast_forward(repository: Path) -> None:
     status = _git(repository, "status", "--porcelain", capture=True).stdout
     if status:
         raise RuntimeError("Repository has uncommitted changes")
-    _git(repository, "pull", "--ff-only")
+    _git(repository, "fetch", "origin")
+    _git(repository, "merge", "--ff-only", "@{u}")
 
 
 def main(argv: list[str] | None = None) -> int:

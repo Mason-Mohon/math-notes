@@ -4,6 +4,7 @@ import subprocess
 from pathlib import Path
 
 from tools.publish import (
+    NOTE_FOLDERS,
     build_publication,
     classify_note,
     fast_forward,
@@ -33,6 +34,34 @@ class ClassificationTests(unittest.TestCase):
             "Calculus I",
         )
         self.assertEqual(classify_note("Alias.md", "[[Calculus]]"), "Calculus I")
+        self.assertEqual(
+            classify_note(
+                "M4ML.md",
+                "[[Mathematics for Machine Learning]] [[Calculus I]]",
+            ),
+            "Mathematics for Machine Learning",
+        )
+        self.assertEqual(
+            classify_note(
+                "Foundations.md",
+                "[[Mathematical Foundations II]] [[Calculus I]]",
+            ),
+            "Calculus I",
+        )
+        self.assertEqual(
+            classify_note(
+                "CalcVsFoundations.md",
+                "[[Mathematical Foundations III]] [[Calculus I]]",
+            ),
+            "Mathematical Foundations III",
+        )
+        self.assertEqual(
+            classify_note(
+                "FoundationsMix.md",
+                "[[Mathematical Foundations II]] [[Mathematical Foundations III]]",
+            ),
+            "Mathematical Foundations III",
+        )
 
     def test_unclassified_note_is_skipped(self):
         self.assertIsNone(classify_note("Scratch.md", "[[Math Academy]]"))
@@ -97,7 +126,8 @@ class PublisherTests(unittest.TestCase):
         readme = (self.stage / "README.md").read_text()
         self.assertIn("Derivative", readme)
         self.assertIn(
-            "On the Math Academy Calculus I track, synced from Obsidian Vault daily.",
+            "On the Math Academy Mathematics for Machine Learning track, "
+            "synced from Obsidian Vault daily.",
             readme,
         )
         validate_stage(self.stage)
@@ -151,13 +181,7 @@ class PublisherTests(unittest.TestCase):
         (repository / "Calculus I" / "stale.md").write_text("stale")
         self.stage.mkdir()
         (self.stage / "README.md").write_text("new")
-        for folder in (
-            "Algebra II",
-            "Precalculus",
-            "Calculus I",
-            "Quizzes",
-            "assets",
-        ):
+        for folder in (*NOTE_FOLDERS, "assets"):
             (self.stage / folder).mkdir()
 
         self.assertTrue(sync_owned_output(self.stage, repository))
@@ -170,13 +194,7 @@ class PublisherTests(unittest.TestCase):
         repository.mkdir()
         self.stage.mkdir()
         (self.stage / "README.md").write_text("new")
-        for folder in (
-            "Algebra II",
-            "Precalculus",
-            "Calculus I",
-            "Quizzes",
-            "assets",
-        ):
+        for folder in (*NOTE_FOLDERS, "assets"):
             (self.stage / folder).mkdir()
         with self.assertRaises(ValueError):
             sync_owned_output(self.stage, repository)
