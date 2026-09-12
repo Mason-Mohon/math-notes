@@ -20,6 +20,10 @@ NOTE_FOLDERS = (
     "Mathematical Foundations II",
     "Calculus I",
     "Mathematical Foundations III",
+    "Calculus II",
+    "Linear Algebra",
+    "Multivariable Calculus",
+    "Probability & Statistics",
     "Mathematics for Machine Learning",
     "Quizzes",
 )
@@ -61,6 +65,10 @@ def classify_note(filename: str, content: str) -> str | None:
         return "Quizzes"
     for folder, aliases in (
         ("Mathematics for Machine Learning", ("Mathematics for Machine Learning",)),
+        ("Probability & Statistics", ("Probability & Statistics",)),
+        ("Multivariable Calculus", ("Multivariable Calculus",)),
+        ("Linear Algebra", ("Linear Algebra",)),
+        ("Calculus II", ("Calculus II",)),
         ("Mathematical Foundations III", ("Mathematical Foundations III",)),
         ("Calculus I", ("Calculus I", "Calculus")),
         ("Mathematical Foundations II", ("Mathematical Foundations II",)),
@@ -160,7 +168,8 @@ def _readme(notes: list[Note]) -> str:
         (
             "Public notes from Algebra II, Precalculus, Calculus I, "
             "Mathematical Foundations II, Mathematical Foundations III, "
-            "and Mathematics for Machine Learning. "
+            "Calculus II, Linear Algebra, Multivariable Calculus, "
+            "Probability & Statistics, and Mathematics for Machine Learning. "
             "On the Math Academy Mathematics for Machine Learning track, "
             "synced from Obsidian Vault daily."
         ),

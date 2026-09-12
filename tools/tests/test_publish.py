@@ -62,6 +62,42 @@ class ClassificationTests(unittest.TestCase):
             ),
             "Mathematical Foundations III",
         )
+        self.assertEqual(
+            classify_note("C2.md", "[[Calculus II]] [[Calculus I]]"),
+            "Calculus II",
+        )
+        self.assertEqual(
+            classify_note(
+                "C2vsFoundations.md",
+                "[[Calculus II]] [[Mathematical Foundations III]]",
+            ),
+            "Calculus II",
+        )
+        self.assertEqual(
+            classify_note("LA.md", "[[Linear Algebra]] [[Calculus II]]"),
+            "Linear Algebra",
+        )
+        self.assertEqual(
+            classify_note(
+                "MV.md",
+                "[[Multivariable Calculus]] [[Linear Algebra]]",
+            ),
+            "Multivariable Calculus",
+        )
+        self.assertEqual(
+            classify_note(
+                "PS.md",
+                "[[Probability & Statistics]] [[Multivariable Calculus]]",
+            ),
+            "Probability & Statistics",
+        )
+        self.assertEqual(
+            classify_note(
+                "M4MLvsPS.md",
+                "[[Mathematics for Machine Learning]] [[Probability & Statistics]]",
+            ),
+            "Mathematics for Machine Learning",
+        )
 
     def test_unclassified_note_is_skipped(self):
         self.assertIsNone(classify_note("Scratch.md", "[[Math Academy]]"))
