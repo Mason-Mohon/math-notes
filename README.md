@@ -115,7 +115,10 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 ## Mathematical Foundations II
 
 - [Completing the Square With Odd Linear Terms](Mathematical%20Foundations%20II/Completing%20the%20Square%20With%20Odd%20Linear%20Terms.md)
+- [Extending the Trigonometric Ratios Using Angles in Radians](Mathematical%20Foundations%20II/Extending%20the%20Trigonometric%20Ratios%20Using%20Angles%20in%20Radians.md)
 - [Finding Points on Transformed Curves](Mathematical%20Foundations%20II/Finding%20Points%20on%20Transformed%20Curves.md)
+- [Further Rationalizing Denominators of Algebraic Expressions](Mathematical%20Foundations%20II/Further%20Rationalizing%20Denominators%20of%20Algebraic%20Expressions.md)
+- [Invertible Functions](Mathematical%20Foundations%20II/Invertible%20Functions.md)
 - [One-To-One Functions](Mathematical%20Foundations%20II/One-To-One%20Functions.md)
 - [Recursive Sequences](Mathematical%20Foundations%20II/Recursive%20Sequences.md)
 - [Solving Systems of Nonlinear Equations](Mathematical%20Foundations%20II/Solving%20Systems%20of%20Nonlinear%20Equations.md)
@@ -291,6 +294,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 ## Mathematics for Machine Learning
 
 - [Mathematics for Machine Learning Placement Exam](Mathematics%20for%20Machine%20Learning/Mathematics%20for%20Machine%20Learning%20Placement%20Exam.md)
+- [The "And" and "Or" Connectives](Mathematics%20for%20Machine%20Learning/The%20%22And%22%20and%20%22Or%22%20Connectives.md)
 
 ## Quizzes
 
