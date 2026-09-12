@@ -1,6 +1,6 @@
 # Math Notes
 
-Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations II, Mathematical Foundations III, and Mathematics for Machine Learning. On the Math Academy Mathematics for Machine Learning track, synced from Obsidian Vault daily.
+Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations II, Mathematical Foundations III, Calculus II, Linear Algebra, Multivariable Calculus, Probability & Statistics, and Mathematics for Machine Learning. On the Math Academy Mathematics for Machine Learning track, synced from Obsidian Vault daily.
 
 ## Algebra II
 
@@ -289,6 +289,18 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Vertical Asymptotes of Rational Functions (Calc)](Calculus%20I/Vertical%20Asymptotes%20of%20Rational%20Functions%20%28Calc%29.md)
 
 ## Mathematical Foundations III
+
+
+## Calculus II
+
+
+## Linear Algebra
+
+
+## Multivariable Calculus
+
+
+## Probability & Statistics
 
 
 ## Mathematics for Machine Learning
