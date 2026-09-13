@@ -293,6 +293,8 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 
 ## Calculus II
 
+- [Calculus II Placement Exam](Calculus%20II/Calculus%20II%20Placement%20Exam.md)
+- [Integration by Substitution With Inverse Trigonometric Functions](Calculus%20II/Integration%20by%20Substitution%20With%20Inverse%20Trigonometric%20Functions.md)
 
 ## Linear Algebra
 
