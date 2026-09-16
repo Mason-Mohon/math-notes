@@ -296,9 +296,11 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Calculus II Placement Exam](Calculus%20II/Calculus%20II%20Placement%20Exam.md)
 - [Euler's Method - Calculating One Step](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20One%20Step.md)
 - [Improper Integrals](Calculus%20II/Improper%20Integrals.md)
+- [Integrating Functions by Completing the Square](Calculus%20II/Integrating%20Functions%20by%20Completing%20the%20Square.md)
 - [Integration by Substitution With Inverse Trigonometric Functions](Calculus%20II/Integration%20by%20Substitution%20With%20Inverse%20Trigonometric%20Functions.md)
 - [Limits of Sequences](Calculus%20II/Limits%20of%20Sequences.md)
 - [Monotonic Sequences](Calculus%20II/Monotonic%20Sequences.md)
+- [Second-Degree Taylor Polynomials](Calculus%20II/Second-Degree%20Taylor%20Polynomials.md)
 
 ## Linear Algebra
 
