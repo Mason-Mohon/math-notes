@@ -294,11 +294,14 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 ## Calculus II
 
 - [Calculus II Placement Exam](Calculus%20II/Calculus%20II%20Placement%20Exam.md)
+- [Convergence of Geometric Sequences](Calculus%20II/Convergence%20of%20Geometric%20Sequences.md)
+- [Determining Limits of Sequences Using Relative Magnitudes](Calculus%20II/Determining%20Limits%20of%20Sequences%20Using%20Relative%20Magnitudes.md)
 - [Euler's Method - Calculating One Step](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20One%20Step.md)
 - [Improper Integrals](Calculus%20II/Improper%20Integrals.md)
 - [Integrating Functions by Completing the Square](Calculus%20II/Integrating%20Functions%20by%20Completing%20the%20Square.md)
 - [Integration by Substitution With Inverse Trigonometric Functions](Calculus%20II/Integration%20by%20Substitution%20With%20Inverse%20Trigonometric%20Functions.md)
 - [Limits of Sequences](Calculus%20II/Limits%20of%20Sequences.md)
+- [Modeling With First-Order ODEs](Calculus%20II/Modeling%20With%20First-Order%20ODEs.md)
 - [Monotonic Sequences](Calculus%20II/Monotonic%20Sequences.md)
 - [Second-Degree Taylor Polynomials](Calculus%20II/Second-Degree%20Taylor%20Polynomials.md)
 
@@ -336,6 +339,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Modeling Particle Motion Using Trigonometric Functions 1](Quizzes/Modeling%20Particle%20Motion%20Using%20Trigonometric%20Functions%201.md)
 - [Modeling Particle Motion Using Trigonometric Functions](Quizzes/Modeling%20Particle%20Motion%20Using%20Trigonometric%20Functions.md)
 - [Optimization Problems Involving Boxes](Quizzes/Optimization%20Problems%20Involving%20Boxes.md)
+- [Quiz 1 - Calculus II](Quizzes/Quiz%201%20-%20Calculus%20II.md)
 - [Quiz 1](Quizzes/Quiz%201.md)
 - [Quiz 10](Quizzes/Quiz%2010.md)
 - [Quiz 11](Quizzes/Quiz%2011.md)

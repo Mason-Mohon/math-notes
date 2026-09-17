@@ -32,10 +32,11 @@ $$\displaylines{{\displaystyle{\int_0^{1/5}\dfrac{20}{3+75x^2}\,\textrm{d}x}=\fr
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{\int\frac{1}{4\left|x\right|\sqrt{16x^2-1}}\differentialD x,u=4x,\frac{du}{\differentialD x}=4,\differentialD x=\frac14du\\ \\ \frac14\int_{}^{}\frac{1}{\left|u\right|\sqrt{u^2-1}}du=\dfrac{\textrm{arcsec}\left(4x\right)}{4}+C}$$
+
 
 ## Q2
-$$$$
+$$\displaylines{{\displaystyle\int_0^1\dfrac{1}{1+4x^2}\,\textrm{d}x\,,u=2x,\differentialD x=\frac12du}\\ \\ \frac12\int_0^2\frac{1}{1+u^2}du=\frac12\arctan\left(2\right)}$$
 
 ## Q3
-$$$$
+$$\displaylines{{\displaystyle\int\dfrac{3}{36+x^2}\,\textrm{d}x=}{\displaystyle\frac{1}{12}\int\dfrac{1}{1+\left(\frac{x}{6}^{}\right)^2}\,\textrm{d}x,u=\frac{x}{6}},dx=6du\\ \\ \frac12\int_{}^{}\frac{1}{1+u^2}du=\dfrac12\arctan\left(\dfrac{x}{6}\right)+C}$$

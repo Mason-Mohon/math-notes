@@ -33,10 +33,10 @@ $$\lim_{x\to-\frac{\pi}{4}}\dfrac{\sec^2{x}+2\tan{x}}{\tan{x}+1}=\frac{1+\tan^2x
 # Review
 
 ## Q1
-$$$$
+$$\lim_{x\to0}\dfrac{2\cos x-2}{\sin^2x}=\frac{2\left(\cos x-1\right)}{\left(\cos^2x-1\right)}=\frac{-2}{\cos x+1}=-1$$
 
 ## Q2
-$$$$
+$$\lim_{x\to\pi}\dfrac{6+6\cos x}{3\sin^2x}=\frac{2\left(1+\cos x\right)}{\left(1-\cos^2x\right)}=\frac{2}{1-\cos x}$$
 
 ## Q3
-$$$$
+$$\lim_{x\to\pi}\dfrac{2-2\sin^2\left(\dfrac{x}{2}\right)}{1+\cos x}=\frac{2\cos^2\left(\frac{x}{2}\right)}{2\cos^2\left(\frac{x}{2}\right)}=1$$
