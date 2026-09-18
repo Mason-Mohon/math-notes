@@ -28,10 +28,10 @@ $$$$
 # Review
 
 ## Q1
-$$$$
+$$\sin\left(x-\pi\right)=\sin x\cos\pi-\sin\pi\cos x=-\sin x$$
 
 ## Q2
-$$$$
+$$\sin(x+240^{\circ})=-\frac12\sin x-\frac{\sqrt3}{2}\cos x$$
 
 ## Q3
-$$$$
+$$\sin(x + 300^\circ) =$$

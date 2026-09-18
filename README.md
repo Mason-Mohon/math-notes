@@ -296,14 +296,17 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Calculus II Placement Exam](Calculus%20II/Calculus%20II%20Placement%20Exam.md)
 - [Convergence of Geometric Sequences](Calculus%20II/Convergence%20of%20Geometric%20Sequences.md)
 - [Determining Limits of Sequences Using Relative Magnitudes](Calculus%20II/Determining%20Limits%20of%20Sequences%20Using%20Relative%20Magnitudes.md)
+- [Equilibrium Solutions for First-Order ODEs](Calculus%20II/Equilibrium%20Solutions%20for%20First-Order%20ODEs.md)
 - [Euler's Method - Calculating One Step](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20One%20Step.md)
 - [Improper Integrals](Calculus%20II/Improper%20Integrals.md)
 - [Integrating Functions by Completing the Square](Calculus%20II/Integrating%20Functions%20by%20Completing%20the%20Square.md)
+- [Integrating Trigonometric Functions Using Substitution](Calculus%20II/Integrating%20Trigonometric%20Functions%20Using%20Substitution.md)
 - [Integration by Substitution With Inverse Trigonometric Functions](Calculus%20II/Integration%20by%20Substitution%20With%20Inverse%20Trigonometric%20Functions.md)
 - [Limits of Sequences](Calculus%20II/Limits%20of%20Sequences.md)
 - [Modeling With First-Order ODEs](Calculus%20II/Modeling%20With%20First-Order%20ODEs.md)
 - [Monotonic Sequences](Calculus%20II/Monotonic%20Sequences.md)
 - [Second-Degree Taylor Polynomials](Calculus%20II/Second-Degree%20Taylor%20Polynomials.md)
+- [Slope Fields for Directly Integrable Differential Equations](Calculus%20II/Slope%20Fields%20for%20Directly%20Integrable%20Differential%20Equations.md)
 
 ## Linear Algebra
 
