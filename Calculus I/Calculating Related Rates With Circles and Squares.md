@@ -32,10 +32,10 @@ $$\frac{dr}{\differentialD t}=\frac{1}{12\pi},r=24$$
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{A^{\prime}=40\pi,r=5\\ \\ A=\pi r^2\\ \\ A^{\prime}=2\pi rr^{\prime}\\ \\ 40\pi=10\pi r^{\prime},r^{\prime}=4}$$
 
 ## Q2
-$$$$
+$$\displaylines{V=\frac43\pi r^3\\ \\ S=4\pi r^2\\ \\ V^{\prime}=2S^{\prime}\\ \\ V^{\prime}=4\pi r^2r^{\prime}=16\pi rr^{\prime}\\ \\ r=4}$$
 
 ## Q3
-$$$$
+$$\displaylines{V^{\prime}=\frac92S^{\prime}\\ \\ 4\pi r^2r^{\prime}=36\pi rr^{\prime}\\ \\ r=9}$$
