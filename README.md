@@ -357,6 +357,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Quiz 17](Quizzes/Quiz%2017.md)
 - [Quiz 18](Quizzes/Quiz%2018.md)
 - [Quiz 19](Quizzes/Quiz%2019.md)
+- [Quiz 2 - Calculus II](Quizzes/Quiz%202%20-%20Calculus%20II.md)
 - [Quiz 2](Quizzes/Quiz%202.md)
 - [Quiz 20 Retake](Quizzes/Quiz%2020%20Retake.md)
 - [Quiz 20](Quizzes/Quiz%2020.md)

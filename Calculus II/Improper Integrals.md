@@ -35,19 +35,13 @@ $$\displaylines{{\displaystyle\int_{-\infty}^{-1}\dfrac{1}{(7x+3)^3}\,\textrm{d}
 ![](../assets/Pasted%20image%2020260914100336.png)
 ## Q9
 $${\displaystyle\int_{-\infty}^13z^2\,\textrm{d}z}\text{ is divergent}$$
-
-## Q10
-$$$$
-
-
-
 # Review
 
-## Q1
-$$$$
-
 ## Q2
-$$$$
+$$\displaylines{{\displaystyle\int_2^{\infty}\dfrac{1}{x\ln{x}}\,\textrm{d}x=\lim_{a\to\infty}\int_2^{a}\frac{1}{x\ln x}\differentialD x},u=\ln x,\frac{du}{\differentialD x}=\frac{1}{x}\\ \\ \int_{\ln2}^{\ln a}\frac{1}{u}du=\ln\left(\ln a\right)-\ln\left(\ln2\right)=\infty}$$
 
 ## Q3
+$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{3}{\sqrt{(2x+4)^3}}\,\textrm{d}x=3\lim_{a\to\infty}\int_0^{a}\frac{1}{\sqrt{\left(2x+4\right)^3}}\differentialD x,}u=2x+4,\frac{du}{\differentialD x}=2\\ \\ \frac32\int_4^{a}\left(u^{-\frac32}\right)du=-3\left\lbrack\frac{1}{\sqrt{u}}\right\rbrack_4^{a}=-3\left(0-\frac12\right)=\frac32}$$
+
+## Q4
 $$$$
