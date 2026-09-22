@@ -304,12 +304,14 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Integrating Trigonometric Functions Using Substitution](Calculus%20II/Integrating%20Trigonometric%20Functions%20Using%20Substitution.md)
 - [Integration by Substitution With Inverse Trigonometric Functions](Calculus%20II/Integration%20by%20Substitution%20With%20Inverse%20Trigonometric%20Functions.md)
 - [Integration Using Basic Trigonometric Identities](Calculus%20II/Integration%20Using%20Basic%20Trigonometric%20Identities.md)
+- [Introduction to Integration by Parts](Calculus%20II/Introduction%20to%20Integration%20by%20Parts.md)
 - [Limits of Sequences With Factorials](Calculus%20II/Limits%20of%20Sequences%20With%20Factorials.md)
 - [Limits of Sequences](Calculus%20II/Limits%20of%20Sequences.md)
 - [Modeling With First-Order ODEs](Calculus%20II/Modeling%20With%20First-Order%20ODEs.md)
 - [Monotonic Sequences](Calculus%20II/Monotonic%20Sequences.md)
 - [Second-Degree Taylor Polynomials](Calculus%20II/Second-Degree%20Taylor%20Polynomials.md)
 - [Slope Fields for Directly Integrable Differential Equations](Calculus%20II/Slope%20Fields%20for%20Directly%20Integrable%20Differential%20Equations.md)
+- [The Arc Length of a Planar Curve](Calculus%20II/The%20Arc%20Length%20of%20a%20Planar%20Curve.md)
 
 ## Linear Algebra
 
