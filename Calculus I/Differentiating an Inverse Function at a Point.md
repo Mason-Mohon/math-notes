@@ -1,5 +1,7 @@
 Math Academy Calculus I Differentiation [Differentiating Inverse Functions](Differentiating%20Inverse%20Functions.md) Inverse Functions
 
+$$\displaylines{\left(f^{-1}\cdot g\right)^{\prime}\left(x\right)=\frac{g\left(x\right)}{f^{\prime}\left(f^{-1}\left(x\right)\right)}+g^{\prime}\left(x\right)f^{-1}\left(x\right)\\ \\ \left(f^{-1}\right)^{\prime}\left(x\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(x\right)\right)}}$$
+
 ![](../assets/Pasted%20image%2020260728105658.png)
 
 ![](../assets/Pasted%20image%2020260728105705.png)
@@ -101,3 +103,19 @@ $$\displaylines{f(x)=\dfrac{3}{2\sqrt{x-3}},P\left(7,\dfrac34\right)\\ \\ f^{\pr
 
 ## Q3
 $$\displaylines{f(x)=3^{x}-1,(f^{-1})^{\prime}(8)=?\\ \\ f^{\prime}\left(x\right)=3^{x}\ln3\\ \\ 9=3^{x},x=2\\ \\ f^{-1}\left(8\right)=2\\ \\ \left(f^{-1}\right)^{\prime}\left(8\right)=\frac{1}{f^{\prime}\left(2\right)}=\frac{1}{9\ln3}}$$
+
+
+# Review
+$$\left(f^{-1}\right)^{\prime}\left(x\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(x\right)\right)}$$
+
+
+## Q1
+$$\displaylines{f(x)=x^2+2^{x},P\left(0,1\right)\\ \\ f^{\prime}\left(x\right)=2x+2^{x}\ln2\\ \\ \left(f^{-1}\right)^{\prime}\left(1\right)=\frac{1}{f^{\prime}\left(0\right)}=\frac{1}{\ln2}}$$
+
+## Q2
+$$\displaylines{\left(f^{-1}\right)^{\prime}(1)=\frac{1}{f^{\prime}\left(e\right)}=e\\ \\ f^{\prime}\left(x\right)=\frac{1}{x}}$$
+
+$$\displaylines{\left(f^{-1}\cdot g\right)^{\prime}\left(x\right)=\frac{g\left(x\right)}{f^{\prime}\left(f^{-1}\left(x\right)\right)}+g^{\prime}\left(x\right)f^{-1}\left(x\right)\\ \\ \left(f^{-1}\right)^{\prime}\left(x\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(x\right)\right)}}$$
+
+## Q3
+$$\left(g\cdot f^{-1}\right)^{\prime}(3)=\frac44+0$$

@@ -293,6 +293,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 
 ## Calculus II
 
+- [Calculating Velocity Using Integration](Calculus%20II/Calculating%20Velocity%20Using%20Integration.md)
 - [Calculus II Placement Exam](Calculus%20II/Calculus%20II%20Placement%20Exam.md)
 - [Convergence of Geometric Sequences](Calculus%20II/Convergence%20of%20Geometric%20Sequences.md)
 - [Determining Limits of Sequences Using Relative Magnitudes](Calculus%20II/Determining%20Limits%20of%20Sequences%20Using%20Relative%20Magnitudes.md)
@@ -304,6 +305,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Integrating Trigonometric Functions Using Substitution](Calculus%20II/Integrating%20Trigonometric%20Functions%20Using%20Substitution.md)
 - [Integration by Substitution With Inverse Trigonometric Functions](Calculus%20II/Integration%20by%20Substitution%20With%20Inverse%20Trigonometric%20Functions.md)
 - [Integration Using Basic Trigonometric Identities](Calculus%20II/Integration%20Using%20Basic%20Trigonometric%20Identities.md)
+- [Integration Using Pythagorean Identities](Calculus%20II/Integration%20Using%20Pythagorean%20Identities.md)
 - [Introduction to Integration by Parts](Calculus%20II/Introduction%20to%20Integration%20by%20Parts.md)
 - [Limits of Sequences With Factorials](Calculus%20II/Limits%20of%20Sequences%20With%20Factorials.md)
 - [Limits of Sequences](Calculus%20II/Limits%20of%20Sequences.md)

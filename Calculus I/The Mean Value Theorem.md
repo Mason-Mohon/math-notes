@@ -26,17 +26,17 @@ $$\displaylines{f(x)=2\log_2x,\left\lbrack1,4\right\rbrack\\ \\ f^{\prime}\left(
 ## Q5
 $$\displaylines{f(x)=x^2-2x+5,\left\lbrack1,4\right\rbrack\\ \\ f^{\prime}\left(x\right)=2x-2\\ \\ f^{\prime}\left(c\right)=\frac{13-4}{3}=3\\ \\ 3=2c-2\\ \\ c=\frac52}$$
 
-## Q6
-$$$$
+
+$$f^{\prime}\left(c\right)=\frac{f\left(b\right)-f\left(a\right)}{b-a}$$
 
 
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{f(x)=5x^3+3x,\left\lbrack0,2\right\rbrack\\ \\ f^{\prime}\left(c\right)=\frac{46}{2}=23\\ \\ f^{\prime}\left(x\right)=15x^2+3\\ \\ 23=15x^2+3\\ \\ \frac43=x^2,x=\frac{2}{\sqrt3}}$$
 
 ## Q2
-$$$$
+$$\displaylines{\left\lbrack2,4\right\rbrack\\ \\ f(x)=e^{x}+1,f^{\prime}\left(c\right)=\frac{e^4-e^2}{2}=f^{\prime}\left(x\right)=e^{x}\\ \\ g\left(x\right)=\ln x,f^{\prime}\left(c\right)=\frac{\ln4-\ln2}{2}=\frac{\ln2}{2}=\frac{1}{x},x=\frac{2}{\ln2}\\ \\ h\left(x\right)=\frac{1}{x+1},f^{\prime}\left(c\right)=\frac{\frac15-\frac13}{2}=-\frac{2}{15}\cdot\frac12=-\frac{1}{15}=f^{\prime}\left(x\right)}$$
 
 ## Q3
 $$$$
