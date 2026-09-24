@@ -2,7 +2,7 @@
 2026-09-21
 Math Academy
 Subject: Calculus II
-Topics: Integrals
+Topics: Integrals Integration by Parts
 
 ![](../assets/Pasted%20image%2020260921093400.png)
 ![](../assets/Pasted%20image%2020260921093413.png)

@@ -313,7 +313,9 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Monotonic Sequences](Calculus%20II/Monotonic%20Sequences.md)
 - [Second-Degree Taylor Polynomials](Calculus%20II/Second-Degree%20Taylor%20Polynomials.md)
 - [Slope Fields for Directly Integrable Differential Equations](Calculus%20II/Slope%20Fields%20for%20Directly%20Integrable%20Differential%20Equations.md)
+- [Solving First-Order ODEs Using Direct Integration](Calculus%20II/Solving%20First-Order%20ODEs%20Using%20Direct%20Integration.md)
 - [The Arc Length of a Planar Curve](Calculus%20II/The%20Arc%20Length%20of%20a%20Planar%20Curve.md)
+- [Using Integration by Parts to Calculate Integrals With Logarithms](Calculus%20II/Using%20Integration%20by%20Parts%20to%20Calculate%20Integrals%20With%20Logarithms.md)
 
 ## Linear Algebra
 
@@ -374,6 +376,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Quiz 27](Quizzes/Quiz%2027.md)
 - [Quiz 28](Quizzes/Quiz%2028.md)
 - [Quiz 29](Quizzes/Quiz%2029.md)
+- [Quiz 3 - Calculus II](Quizzes/Quiz%203%20-%20Calculus%20II.md)
 - [Quiz 3](Quizzes/Quiz%203.md)
 - [Quiz 30](Quizzes/Quiz%2030.md)
 - [Quiz 31](Quizzes/Quiz%2031.md)
