@@ -293,6 +293,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 
 ## Calculus II
 
+- [Applying the Integration by Parts Twice](Calculus%20II/Applying%20the%20Integration%20by%20Parts%20Twice.md)
 - [Calculating Velocity Using Integration](Calculus%20II/Calculating%20Velocity%20Using%20Integration.md)
 - [Calculus II Placement Exam](Calculus%20II/Calculus%20II%20Placement%20Exam.md)
 - [Convergence of Geometric Sequences](Calculus%20II/Convergence%20of%20Geometric%20Sequences.md)
@@ -314,6 +315,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Second-Degree Taylor Polynomials](Calculus%20II/Second-Degree%20Taylor%20Polynomials.md)
 - [Slope Fields for Directly Integrable Differential Equations](Calculus%20II/Slope%20Fields%20for%20Directly%20Integrable%20Differential%20Equations.md)
 - [Solving First-Order ODEs Using Direct Integration](Calculus%20II/Solving%20First-Order%20ODEs%20Using%20Direct%20Integration.md)
+- [Solving First-Order ODEs Using Separation of Variables](Calculus%20II/Solving%20First-Order%20ODEs%20Using%20Separation%20of%20Variables.md)
 - [The Arc Length of a Planar Curve](Calculus%20II/The%20Arc%20Length%20of%20a%20Planar%20Curve.md)
 - [Using Integration by Parts to Calculate Integrals With Logarithms](Calculus%20II/Using%20Integration%20by%20Parts%20to%20Calculate%20Integrals%20With%20Logarithms.md)
 

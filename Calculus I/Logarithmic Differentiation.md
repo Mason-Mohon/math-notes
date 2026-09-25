@@ -47,3 +47,14 @@ $$\displaylines{y=(\ln x)^{5x}\\ \\ \ln y=5x\ln\left(\ln x\right)\\ \\ \frac{y^{
 
 ## Q3
 $$\displaylines{y=(-2x^5)^{x}\\ \\ \ln y=x\ln\left(-2x^5\right)\\ \\ \frac{y^{\prime}}{y}=\frac{-10x^4}{-2x^4}+\ln\left(-2x^5\right)=5+\ln\left(-2x^5\right)}$$
+
+# Review
+
+## Q1
+$$\displaylines{y=(x+1)^{x},y^{\prime}=(x+1)^{x-1}\cdot g(x)\\ \\ \ln y=x\ln\left(x+1\right)\\ \\ \frac{y^{\prime}}{y}=\ln\left(x+1\right)+\frac{x}{x+1}\\ \\ y^{\prime}=\left(\ln\left(x+1\right)+\frac{x}{x+1}\right)\left(x+1\right)^{x}\\ \\ y^{\prime}=\left(x+1\right)^{x-1}\left((x+1)\ln(x+1)+x\right)}$$
+
+## Q2
+$$\displaylines{y=(x^2+3x)^{x}\\ \\ \ln y=x\ln\left(x^2+3x\right)\\ \\ \frac{y^{\prime}}{y}=\ln\left(x^2+3x\right)+x\cdot\frac{1}{x^2+3x}\cdot\left(2x+3\right)\\ \\ y^{\prime}=\left(x^2+3x\right)^{x}\left(\ln\left(x^2+3x\right)+\frac{2x^2+3x}{x^2+3x}\right)\\ \\ y^{\prime}=\left(x^2+3x\right)^{x-1}\left((x^2+3x)\ln(x^2+3x)+2x^2+3x\right)}$$
+
+## Q3
+$$\displaylines{y=(\sin(2x))^{x}\\ \\ \frac{y^{\prime}}{y}=\ln\sin\left(2x\right)+\frac{2x\cos\left(2x\right)}{\sin\left(2x\right)}\\ \\ y^{\prime}=\left(\sin\left(2x\right)\right)^{x}\left(\ln\sin\left(2x\right)+2x\cot\left(2x\right)\right)}$$
