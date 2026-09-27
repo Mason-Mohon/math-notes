@@ -19,20 +19,15 @@ $$\displaylines{f(x)=\dfrac{1}{(x-1)^2},x=-3\\ \\ f^{\prime}\left(x\right)=-\fra
 ## Q4
 $$\displaylines{f(x)=\cos{(2\pi x)},x=\frac13\\ \\ f^{\prime}\left(x\right)=-2\pi\sin\left(2\pi x\right)\\ \\ f^{\doubleprime}\left(x\right)=-4\pi^2\cos\left(2\pi x\right)\\ \\ f^{\doubleprime}\left(\frac13\right)=-4\pi^2\cdot-\frac12=2\pi^2}$$
 
-## Q5
-$$-\frac12$$
 
-## Q6
-$$$$
-
-
+$$P_2\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)+\frac12f^{\doubleprime}\left(a\right)\left(x-a\right)^2$$
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{f(x)=e^{-2x},x=0\\ \\ f^{\prime}\left(x\right)=-2e^{-2x},f^{\doubleprime}\left(x\right)=4e^{-2x}\\ \\ P_2\left(x\right)=1-2x+2x^2}$$
 
 ## Q2
-$$$$
+$$\displaylines{f(x)=\dfrac{x+1}{x},x=5\\ \\ f^{\prime}\left(x\right)=\frac{x-x-1}{x^2}=-\frac{1}{x^2},f^{\doubleprime}\left(x\right)=\frac{2}{x^3}\\ \\ }$$
 
 ## Q3
 $$$$

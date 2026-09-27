@@ -294,6 +294,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 ## Calculus II
 
 - [Applying the Integration by Parts Twice](Calculus%20II/Applying%20the%20Integration%20by%20Parts%20Twice.md)
+- [Calculating the Position Function of a Particle Using Integration](Calculus%20II/Calculating%20the%20Position%20Function%20of%20a%20Particle%20Using%20Integration.md)
 - [Calculating Velocity Using Integration](Calculus%20II/Calculating%20Velocity%20Using%20Integration.md)
 - [Calculus II Placement Exam](Calculus%20II/Calculus%20II%20Placement%20Exam.md)
 - [Convergence of Geometric Sequences](Calculus%20II/Convergence%20of%20Geometric%20Sequences.md)
