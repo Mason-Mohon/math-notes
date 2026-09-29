@@ -317,9 +317,11 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Monotonic Sequences](Calculus%20II/Monotonic%20Sequences.md)
 - [Second-Degree Taylor Polynomials](Calculus%20II/Second-Degree%20Taylor%20Polynomials.md)
 - [Slope Fields for Directly Integrable Differential Equations](Calculus%20II/Slope%20Fields%20for%20Directly%20Integrable%20Differential%20Equations.md)
+- [Solving First-Order IVPs Using Separation of Variables](Calculus%20II/Solving%20First-Order%20IVPs%20Using%20Separation%20of%20Variables.md)
 - [Solving First-Order ODEs Using Direct Integration](Calculus%20II/Solving%20First-Order%20ODEs%20Using%20Direct%20Integration.md)
 - [Solving First-Order ODEs Using Separation of Variables](Calculus%20II/Solving%20First-Order%20ODEs%20Using%20Separation%20of%20Variables.md)
 - [The Arc Length of a Planar Curve](Calculus%20II/The%20Arc%20Length%20of%20a%20Planar%20Curve.md)
+- [The Average Value of a Function](Calculus%20II/The%20Average%20Value%20of%20a%20Function.md)
 - [Using Integration by Parts to Calculate Integrals With Logarithms](Calculus%20II/Using%20Integration%20by%20Parts%20to%20Calculate%20Integrals%20With%20Logarithms.md)
 
 ## Linear Algebra
@@ -387,6 +389,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Quiz 31](Quizzes/Quiz%2031.md)
 - [Quiz 32](Quizzes/Quiz%2032.md)
 - [Quiz 33](Quizzes/Quiz%2033.md)
+- [Quiz 4 - Calculus II](Quizzes/Quiz%204%20-%20Calculus%20II.md)
 - [Quiz 4](Quizzes/Quiz%204.md)
 - [Quiz 5 1](Quizzes/Quiz%205%201.md)
 - [Quiz 5 2](Quizzes/Quiz%205%202.md)
