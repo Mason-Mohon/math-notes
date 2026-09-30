@@ -17,3 +17,23 @@ $${\displaystyle{\lim_{x\to0}\left(1+7x\right)^{1/x}}=}e^7$$
 
 ## Q7
 $$x=\sin y$$
+
+# Retake
+
+## Q1
+$${\displaystyle{\int_{\pi/2}^{\pi}}6\cos^2x\,\textrm{d}x=}3\int_{\frac{\pi}{2}}^{\pi}\left(1+\cos2x\right)\differentialD x=$$
+
+## Q2
+$$\displaylines{a(t)=6t-2,v\left(1\right)=-1,v\left(3\right)=?\\ \\ v\left(t\right)=3t^2-2t+C,-1=3-2+C\\ \\ v\left(3\right)=27-6-2=19}$$
+
+## Q3
+$${\displaystyle{\int\dfrac{5}{x\ln^2(3x)}\,\textrm{d}x}=5\int u^{-2}du=-\dfrac{5}{\ln(3x)}+C}$$
+
+## Q4
+$$\displaylines{{{\displaystyle\int_{-1}^1}}\sqrt{1+\dfrac{4x^2}{3-2x^2}}\,\textrm{d}x.\\ \\ L=\int_{a}^{b}\sqrt{1+\left\lbrack f^{\prime}\left(x\right)\right\rbrack^2}\differentialD x\\ \\ \left\lbrack f^{\prime}\left(x\right)\right\rbrack^2=\dfrac{4x^2}{3-2x^2}\\ \\ f^{\prime}\left(x\right)=\frac{2x}{\sqrt{3-2x^2}}}$$
+
+## Q5
+$$$$
+
+## Q6
+$$\displaystyle{\lim_{x \to \infty} \left(1+\dfrac{4}{5x}\right)^{x}} =$$

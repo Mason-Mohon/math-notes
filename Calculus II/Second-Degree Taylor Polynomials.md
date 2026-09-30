@@ -29,5 +29,13 @@ $$\displaylines{f(x)=e^{-2x},x=0\\ \\ f^{\prime}\left(x\right)=-2e^{-2x},f^{\dou
 ## Q2
 $$\displaylines{f(x)=\dfrac{x+1}{x},x=5\\ \\ f^{\prime}\left(x\right)=\frac{x-x-1}{x^2}=-\frac{1}{x^2},f^{\doubleprime}\left(x\right)=\frac{2}{x^3}\\ \\ }$$
 
+$$P_2\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)+\frac12f^{\doubleprime}\left(a\right)\left(x-a\right)^2$$
+
+## Q1
+$$\displaylines{f(x)=e^{-x^2},x=1\\ \\ f^{\prime}\left(x\right)=-2xe^{-x^2},f^{\doubleprime}\left(x\right)=-2e^{-x^2}+4x^2e^{-x^2}\\ \\ P_2\left(x\right)=e^{-1}-2e^{-1}\left(x-1\right)+e^{-1}\left(x-1\right)^2}$$
+
+## Q2
+$$\displaylines{f(x)=e^{3x},x=-1\\ \\ f^{\doubleprime}\left(x\right)=9e^{3x}}$$
+
 ## Q3
-$$$$
+$$\displaylines{f(x)=\dfrac{1}{\sqrt{1+x}},x=0\\ \\ f^{\prime}\left(x\right)=-\frac{1}{2\sqrt{\left(1+x\right)^3}}=-\frac12\\ \\ f^{\doubleprime}\left(x\right)=\frac34}$$

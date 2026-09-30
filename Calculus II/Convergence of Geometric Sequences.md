@@ -20,10 +20,10 @@ $$\displaylines{a_{n+1}=\dfrac34a_{n},\qquad a_1=20,\qquad n\geq1\\ \\ a_2=15\\ 
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{a_{n+1}=\dfrac32a_{n},\qquad a_1=0.007,\qquad n\geq1.\\ \\ a_2=\frac32\cdot0.007\\ \\ r=\frac32>1}$$
 
 ## Q2
-$$$$
+$$a_{n+1} = a_n, \qquad a_1 = -\dfrac{2}{5}, \qquad n\geq 1.$$
 
 ## Q3
-$$$$
+$$a_n=2^n$$

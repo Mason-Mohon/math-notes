@@ -59,3 +59,15 @@ $$\displaylines{x=9y-y^3\\ \\ y^3=9y,y=0,3\\ \\ \int_0^3\left(9y-y^3\right)\diff
 
 ## Q5
 $$\displaylines{y=\sqrt[4]{x+1},a=0,b=1\\ \\ y^4-1=x\\ \\ \int_0^1\left(y^4-1\right)\differentialD y=\left\lbrack\frac{y^5}{5}-y\right\rbrack_0^1=\frac15-1-0=\left|-\frac45\right|}$$
+
+
+# Review
+
+## Q1
+$$\displaylines{y=-\sqrt{x-2},y=-2,y=0\\ \\ x=\left(y\right)^2+2\\ \\ A=\int_{-2}^0\left(y\right)^2+2\differentialD y=\left\lbrack\frac13\left(y\right)^3+2y\right\rbrack_{-2}^0=-\left(-\frac83-\frac{12}{3}\right)=\frac{20}{3}}$$
+
+## Q2
+$$\displaylines{y=\sqrt{4-x},y=0,1\\ \\ x=4-y^2\\ \\ A=\left\lbrack4y-\frac13y^3\right\rbrack_0^1=\frac{12}{3}-\frac13=\frac{11}{3}}$$
+
+## Q3
+$$\displaylines{y=\ln\left(\dfrac{x}{2}\right),y=1,3\\ \\ x=2e^{y},A=2e^3-2e}$$
