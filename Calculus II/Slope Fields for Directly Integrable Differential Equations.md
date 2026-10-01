@@ -2,7 +2,7 @@
 2026-09-17
 Math Academy
 Subject: Calculus II
-Topics: Differentiation
+Topics: Differentiation Slope Fields
 ![](../assets/Pasted%20image%2020260917103614.png)
 
 ![](../assets/Pasted%20image%2020260917103701.png)

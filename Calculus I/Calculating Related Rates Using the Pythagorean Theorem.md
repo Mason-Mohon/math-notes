@@ -21,10 +21,10 @@ $$\displaylines{y^{\prime}=-24,x^{\prime}=18,y=14,x=20\\ \\ z^2=400+196=596,z=24
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{x=12,z=13,z^{\prime}=1200,y^{\prime}=?\\ \\ 169=144+y^2,y=5\\ \\ z^2=12+y^2\\ \\ 2zz^{\prime}=2yy^{\prime}\\ \\ 26\cdot1200=10y^{\prime}\\ \\ y^{\prime}=3120}$$
 
 ## Q2
-$$$$
+$$\displaylines{y^{\prime}=-3,y=1.2,x=1.6,z^{\prime}=2.2\\ \\ z^2=1.44+2.56=4,z=2\\ \\ 5}$$
 
 ## Q3
-$$$$
+$$\displaylines{y^{\prime}=6,x^{\prime}=8,y=12,x=16,z=20\\ \\ 40z^{\prime}=24\cdot6+32\cdot8,z^{\prime}=10}$$

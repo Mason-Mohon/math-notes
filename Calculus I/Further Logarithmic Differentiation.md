@@ -53,3 +53,17 @@ $$\displaylines{y=(\tan x)^{2x}\\ \\ \ln y=2x\ln\tan x\\ \\ \frac{y^{\prime}}{y}
 
 ## Q3
 $$\displaylines{y=(\ln(2x))^{x}\\ \\ \ln y=x\ln\left(\ln\left(2x\right)\right)\\ \\ \frac{y^{\prime}}{y}=\ln\left(\ln\left(2x\right)\right)+\frac{x}{\ln\left(2x\right)}\cdot\frac{1}{2x}\cdot2=\ln\left(\ln\left(2x\right)\right)+\frac{1}{\ln\left(2x\right)}\\ \\ y^{\prime}=\left(\ln\left(2x\right)\right)^{x-1}\left(\left(\ln\left(2x\right)\right)\ln\left(\ln\left(2x\right)\right)+1\right)}$$
+
+# Review
+
+## Q1
+$$\displaylines{y=(x-3)^7\sqrt{\cos x}\\ \\ y^{\prime}=\dfrac{(x-3)^6}{2\sqrt{\cos x}}\big(g(x)\cos x-h(x)\sin x\big),g\left(x\right)+h\left(x\right)=?\\ \\ \ln y=7\ln\left(x-3\right)+\frac12\ln\left(\cos x\right)\\ \\ y^{\prime}=y\cdot\left(\frac{7}{x-3}-\frac{\sin x}{2\cos x}\right)=y\cdot\left(\frac{14\cos x-\left(x-3\right)\sin x}{\left(x-3\right)2\cos x}\right)\\ \\ 11+x}$$
+
+## Q2
+$$\displaylines{y=\dfrac{(x+1)^{x^2}}{e^{2-4x}},y^{\prime}=\dfrac{(x+1)^{x^2-1}}{e^{2-4x}}\big((x+2)^2+g(x)\big),g\left(x\right)=?\\ \\ \ln y=x^2\ln\left(x+1\right)-2+4x\\ \\ y^{\prime}=y\cdot\left(2x\ln\left(x+1\right)+\frac{x^2}{x+1}+4\right)=y\cdot\left(\frac{\left(x+2\right)^2+\left(2x^2+2x\right)\ln\left(x+1\right)}{x+1}\right)}$$
+
+## Q3
+$$\displaylines{y=\dfrac{e^{\cos x}}{x^4\left(5-2x\right)^3},\\ \\ \ln y=\cos x-4\ln x-3\ln\left(5-2x\right)\\ \\ y^{\prime}=y\cdot\left(-\sin x-\frac{4}{x}-\frac{6}{5-2x}\right)\\ \\ y^{\prime}=\dfrac{e^{\cos x}}{x^5\left(5-2x\right)^4}\left(-x\left(5-2x\right)\sin x-20+8x\right)}$$
+
+## Q4
+$$\displaylines{y=(x^2+3)^{\frac52}(x-2)^3\\ \\ \ln y=\frac52\ln\left(x^2+3\right)+3\ln\left(x-2\right)\\ \\ y^{\prime}=y\cdot\left(\frac{10x}{2\left(x^2+3\right)}+\frac{3}{x-2}\right)=\frac{y}{\left(x^2+3\right)\left(x-2\right)}\cdot\left(\frac{10x^2-20x+6x^2+18}{2}\right)}$$
