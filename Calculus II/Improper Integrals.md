@@ -43,5 +43,13 @@ $$\displaylines{{\displaystyle\int_2^{\infty}\dfrac{1}{x\ln{x}}\,\textrm{d}x=\li
 ## Q3
 $$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{3}{\sqrt{(2x+4)^3}}\,\textrm{d}x=3\lim_{a\to\infty}\int_0^{a}\frac{1}{\sqrt{\left(2x+4\right)^3}}\differentialD x,}u=2x+4,\frac{du}{\differentialD x}=2\\ \\ \frac32\int_4^{a}\left(u^{-\frac32}\right)du=-3\left\lbrack\frac{1}{\sqrt{u}}\right\rbrack_4^{a}=-3\left(0-\frac12\right)=\frac32}$$
 
-## Q4
-$$$$
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{1}{3x+1}\,\textrm{d}x=\lim_{a\to\infty}}\int_0^{a}\frac{1}{3x+1}\differentialD x=\\ \\ \frac13\lim_{a\to\infty}\int_1^{3a+1}\frac{1}{u}du=\left\lbrack\frac{\ln u}{3}\right\rbrack_1^{a}=\frac{\infty}{3}-\frac{\ln1}{3}=\infty}$$
+
+## Q2
+$${\displaystyle\int_{-\infty}^{-1}\dfrac{\textrm{d}t}{\sqrt{2-3t}}=-\frac13\lim_{a\to-\infty}\int_{a}^5\frac{1}{\sqrt{u}}}du=\left\lbrack-\frac{\sqrt{u}}{6}\right\rbrack_{a}^5=\infty$$
+
+## Q3
+$${\displaystyle\int_0^{\infty}\dfrac{x}{\sqrt{(x^2+1)^3}}\,\textrm{d}x=\frac12\lim_{a\to\infty}\int_1^{a}\frac{1}{u^{\frac32}}du=\left\lbrack-\frac{1}{\sqrt{u}}\right\rbrack_1^{a}=1}$$

@@ -294,6 +294,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 ## Calculus II
 
 - [Applying the Integration by Parts Twice](Calculus%20II/Applying%20the%20Integration%20by%20Parts%20Twice.md)
+- [Calculating the Displacement of a Particle Using Integration](Calculus%20II/Calculating%20the%20Displacement%20of%20a%20Particle%20Using%20Integration.md)
 - [Calculating the Position Function of a Particle Using Integration](Calculus%20II/Calculating%20the%20Position%20Function%20of%20a%20Particle%20Using%20Integration.md)
 - [Calculating Velocity Using Integration](Calculus%20II/Calculating%20Velocity%20Using%20Integration.md)
 - [Calculus II Placement Exam](Calculus%20II/Calculus%20II%20Placement%20Exam.md)
@@ -303,6 +304,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Euler's Method - Calculating Multiple Steps](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20Multiple%20Steps.md)
 - [Euler's Method - Calculating One Step](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20One%20Step.md)
 - [Exponential Growth and Decay Models With First-Order ODEs](Calculus%20II/Exponential%20Growth%20and%20Decay%20Models%20With%20First-Order%20ODEs.md)
+- [Further Determining Limits of Sequences Using Relative Magnitudes](Calculus%20II/Further%20Determining%20Limits%20of%20Sequences%20Using%20Relative%20Magnitudes.md)
 - [Improper Integrals](Calculus%20II/Improper%20Integrals.md)
 - [Integrating Functions by Completing the Square](Calculus%20II/Integrating%20Functions%20by%20Completing%20the%20Square.md)
 - [Integrating Logarithmic Functions Using Substitution](Calculus%20II/Integrating%20Logarithmic%20Functions%20Using%20Substitution.md)
@@ -395,6 +397,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Quiz 33](Quizzes/Quiz%2033.md)
 - [Quiz 4 - Calculus II](Quizzes/Quiz%204%20-%20Calculus%20II.md)
 - [Quiz 4](Quizzes/Quiz%204.md)
+- [Quiz 5 - Calculus II](Quizzes/Quiz%205%20-%20Calculus%20II.md)
 - [Quiz 5 1](Quizzes/Quiz%205%201.md)
 - [Quiz 5 2](Quizzes/Quiz%205%202.md)
 - [Quiz 5](Quizzes/Quiz%205.md)
