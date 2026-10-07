@@ -32,11 +32,11 @@ $$\displaylines{{\displaystyle{\int_{-1+2/\sqrt3}^1\dfrac{5}{|x+1|\sqrt{x^2+2x}}
 
 # Review
 
-## Q1
-$$$$
-
 ## Q2
-$$$$
+$$\displaylines{{\displaystyle{\int_{-7/2}^{-5/2}\dfrac{1}{\sqrt{-x^2-6x-8}}\,\textrm{d}x}}={\displaystyle{\int_{-7/2}^{-5/2}\dfrac{1}{\sqrt{-\left(x^2+6x+9-9+8\right)}}\,\textrm{d}x}}\\ \\ =\int_{-\frac72}^{-\frac52}\frac{1}{\sqrt{-\left(x+3\right)^2+1}},u=\left(x+3\right)\\ \\ =\int_{-\frac12}^{\frac12}\frac{1}{\sqrt{1-u^2}}du=\arcsin\left(\frac12\right)-\arcsin\left(-\frac12\right)=\frac{\pi}{6}+\frac{\pi}{6}=\frac{\pi}{3}}$$
+
+## Q3
+$$\displaylines{{\displaystyle{\int_1^3\dfrac{8}{x^2-2x+5}\,\textrm{d}x},u=\left(x-1\right)}\\ \\ 8\int_0^2\frac{1}{u^2+4}du=\int\frac{1}{u^2+a^2}du=\frac{1}{a}\arctan\left(\frac{u}{a}\right)\\ \\ 8\left\lbrack\frac12\arctan\left(\frac{u}{2}\right)\right\rbrack_0^2=4\left(\arctan\left(1\right)-\arctan\left(0\right)\right)=\pi}$$
 
 ## Q3
 $$$$

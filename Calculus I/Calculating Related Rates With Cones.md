@@ -48,3 +48,15 @@ $$\displaylines{R=60,H=420,h^{\prime}=\frac{10}{h},h=270\\ \\ \frac{42}{6}=\frac
 
 ## Q3
 $$\displaylines{H=18,R=6,h^{\prime}=-2,h=9\\ \\ \frac13=\frac{r}{h},r=\frac13h\\ \\ v=\frac{1}{27}\pi h^3,v^{\prime}=\frac19\pi h^2h^{\prime}=18\pi}$$
+
+# Review
+
+## Q1
+$$\displaylines{v=\frac13\pi r^2h\\ \\ v^{\prime}=5,r=2h,h=5,r=10\\ \\ v=\frac{4\pi}{3}h^3\\ \\ v^{\prime}=4\pi h^2h^{\prime}\\ \\ \frac{5}{4\pi}=25h^{\prime}\\ \\ h^{\prime}=\frac{1}{20\pi}}$$
+
+## Q2
+![](../assets/Pasted%20image%2020261006093304.png)
+$$\displaylines{v^{\prime}=108\pi,H=120,R=60,v=144\pi\\ \\ \frac{H}{R}=\frac{h}{r}=\frac{120}{60},h=2r\\ \\ v^{\prime}=\frac14\pi h^2h^{\prime}\\ \\ \frac{432}{h^2}=h^{\prime}\\ \\ 144\cdot12=h^3,h=12\\ \\ h^{\prime}=3}$$
+
+## Q3
+$$\displaylines{R=\frac32,H=4,h^{\prime}=\frac14,h=2\\ \\ \frac{R}{H}=\frac{r}{h}=\frac38,r=\frac38h=\frac34\\ \\ v=\frac{3\pi}{64}h^3\\ \\ v^{\prime}=\frac{9\pi}{64}\cdot4\cdot\frac14=\frac{9\pi}{64}}$$

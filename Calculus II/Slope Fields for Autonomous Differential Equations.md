@@ -2,7 +2,7 @@
 2026-09-30
 Math Academy
 Subject: Calculus II
-Topics: Slope Fields Differentiation
+Topics: Slope Fields Differentiation Autonomous Differential Equations
 
 ![](../assets/Pasted%20image%2020260930111044.png)
 ![](../assets/Pasted%20image%2020260930111049.png)

@@ -293,6 +293,8 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 
 ## Calculus II
 
+- [Analyzing Second-Degree Taylor Polynomials](Calculus%20II/Analyzing%20Second-Degree%20Taylor%20Polynomials.md)
+- [Analyzing Slope Fields for Autonomous Differential Equations](Calculus%20II/Analyzing%20Slope%20Fields%20for%20Autonomous%20Differential%20Equations.md)
 - [Applying the Integration by Parts Twice](Calculus%20II/Applying%20the%20Integration%20by%20Parts%20Twice.md)
 - [Calculating the Displacement of a Particle Using Integration](Calculus%20II/Calculating%20the%20Displacement%20of%20a%20Particle%20Using%20Integration.md)
 - [Calculating the Position Function of a Particle Using Integration](Calculus%20II/Calculating%20the%20Position%20Function%20of%20a%20Particle%20Using%20Integration.md)
