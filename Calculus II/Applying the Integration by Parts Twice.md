@@ -34,11 +34,13 @@ $$\displaylines{\int_1^{e}\ln^2\left(x^3\right)\cdot1\cdot\differentialD x\\ \\ 
 
 # Review
 
+$$\int uv^{\prime}dx=uv-\int vu^{\prime}dx$$
+
 ## Q1
-$$$$
+$$\displaylines{{\displaystyle\int_1^{e}4t(\ln t)^2\,\textrm{d}t}\\ \\ u=\left(\ln t\right)^2\Rightarrow u^{\prime}=\frac{2\ln t}{t}\\ \\ v=2t^2\Rightarrow v^{\prime}=4t\\ \\ =2t^2\left(\ln t\right)^2-\int4t\ln tdt\\ \\ u=\ln t\Rightarrow u^{\prime}=\frac{1}{t}\\ \\ v=2t^2\Rightarrow v^{\prime}=4t\\ \\ =\left\lbrack2t^2\left(\ln t\right)^2-2t^2\ln t+t^2\right\rbrack_1^{e}\\ \\ =2e^2-2e^2+e^2-1=e^2-1}$$
 
 ## Q2
-$$$$
+$$\displaylines{{\displaystyle{\int4x^2\cos x\,\textrm{d}x}}\\ \\ u=4x^2\Rightarrow u^{\prime}=8x\\ \\ v=\sin x\Rightarrow v^{\prime}=\cos x\\ \\ 4x^2\sin x-\int8x\sin xdx\\ \\ u=8x\Rightarrow u^{\prime}=8\\ \\ v=-\cos x\Rightarrow v^{\prime}=\sin x\\ \\ 4x^2\sin x+8x\cos x+8\int\cos xdx\\ \\ =4x^2\sin x+8x\cos x-8\sin x+C=4\left((x^2-2)\sin{x}+2x\cos{x}\right)+C}$$
 
 ## Q3
-$$$$
+$$\displaylines{{\displaystyle\int_1^{e}9x^2(\log_2x)^2\,\textrm{d}x.}\\ \\ u=\left(\log_2x\right)^2\Rightarrow u^{\prime}=\frac{2\log_2x}{x\ln2}\\ \\ v=3x^3\Rightarrow v^{\prime}=9x^2\\ \\ =3x^3\left(\log_2x\right)^2-\frac{6}{\ln2}\int x^2\log_2x\\ \\ u=\log_2x\Rightarrow u^{\prime}=\frac{1}{x\ln2}\\ \\ v=\frac13x^3\Rightarrow v^{\prime}=x^2\\ \\ =3x^3\left(\log_2x\right)^2-\frac{6}{\ln2}\left(\frac13x^3\log_2x-\frac{1}{3\ln2}\int x^2dx\right)\\ \\ =\left\lbrack3x^3\left(\log_2x\right)^2-\frac{2}{\ln2}x^3\log_2x+\frac{2}{3\left(\ln2\right)^2}x^3\right\rbrack_1^{e}\\ \\ =\dfrac{5e^3-2}{3\ln^22}}$$

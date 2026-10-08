@@ -307,6 +307,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Euler's Method - Calculating One Step](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20One%20Step.md)
 - [Exponential Growth and Decay Models With First-Order ODEs](Calculus%20II/Exponential%20Growth%20and%20Decay%20Models%20With%20First-Order%20ODEs.md)
 - [Further Determining Limits of Sequences Using Relative Magnitudes](Calculus%20II/Further%20Determining%20Limits%20of%20Sequences%20Using%20Relative%20Magnitudes.md)
+- [Higher-Degree Taylor Polynomials](Calculus%20II/Higher-Degree%20Taylor%20Polynomials.md)
 - [Improper Integrals](Calculus%20II/Improper%20Integrals.md)
 - [Integrating Functions by Completing the Square](Calculus%20II/Integrating%20Functions%20by%20Completing%20the%20Square.md)
 - [Integrating Logarithmic Functions Using Substitution](Calculus%20II/Integrating%20Logarithmic%20Functions%20Using%20Substitution.md)
@@ -329,6 +330,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Solving First-Order ODEs Using Separation of Variables](Calculus%20II/Solving%20First-Order%20ODEs%20Using%20Separation%20of%20Variables.md)
 - [The Arc Length of a Planar Curve](Calculus%20II/The%20Arc%20Length%20of%20a%20Planar%20Curve.md)
 - [The Average Value of a Function](Calculus%20II/The%20Average%20Value%20of%20a%20Function.md)
+- [Third-Degree Taylor Polynomials](Calculus%20II/Third-Degree%20Taylor%20Polynomials.md)
 - [Using Integration by Parts to Calculate Integrals With Logarithms](Calculus%20II/Using%20Integration%20by%20Parts%20to%20Calculate%20Integrals%20With%20Logarithms.md)
 
 ## Linear Algebra

@@ -31,10 +31,10 @@ $$\displaylines{\left(\dfrac{1}{xy}-\dfrac{1}{x}\right)\dfrac{\textrm{d}y}{\text
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{\dfrac{\textrm{d}y}{\textrm{d}x}=\dfrac{y^2}{x^2+1},y\left(1\right)=1\\ \\ -\frac{1}{y^{}}=\arctan x+C\\ \\ y=-\frac{1}{\arctan x}+C,C=-1-\frac{\pi}{4}\\ \\ y=\dfrac{4}{{\pi}+4-4\arctan(x)}}$$
 
 ## Q2
-$$$$
+$$\displaylines{3y^2\dfrac{\textrm{d}y}{\textrm{d}x}=4x+2xy^3=2x\left(2+y^3\right)\\ \\ \int\frac{3y^2}{2+y^3}\differentialD y=\int2xdx\\ \\ =3\int\frac{1}{u}du=x^2+C\\ \\ \ln\left|2+y^3\right|=x^2+C\\ \\ y=\sqrt[3]{Ke^{x^2}-2},y\left(0\right)=1\\ \\ 1=K-2,K=3}$$
 
 ## Q3
-$$$$
+$$\displaylines{\dfrac{\textrm{d}y}{\textrm{d}x}=3y^2x^2-4y^2x^3\\ \\ \int\frac{1}{y^2}\differentialD y=\int3x^2-4x^3dx\\ \\ -\frac{1}{y}=x^3-x^4+C\\ \\ y=-\frac{1}{x^3-x^4+C}\\ \\ \frac18=-\frac{1}{8-16+C}=\frac{1}{8+C},C=0}$$
