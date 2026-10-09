@@ -16,3 +16,14 @@ $$\displaylines{f(x)=5+54x-2x^3\\ \\ f^{\prime}\left(x\right)=54-6x^2=0=-6\left(
 
 ## Q3
 $$\displaylines{f(x)=13-9x^2+2x^3,\left\lbrack-1,2\right\rbrack\\ \\ f^{\prime}\left(x\right)=-18x+6x^2=0=-6x\left(x-3\right),x=0,3\\ \\ f^{\doubleprime}\left(x\right)=-18+12x\\ \\ f^{\doubleprime}\left(0\right)=-18<0\text{ max}\\ \\ f^{\doubleprime}\left(3\right)=18>0\text{ min}\\ \\ }$$
+
+# Review
+
+## Q1
+$$\displaylines{f(x)=-x^3-6x^2-9x+3\\ \\ f^{\prime}\left(x\right)=-3x^2-12x-9=0=x^2+4x+3=\left(x+1\right)\left(x+3\right)\\ \\ f^{\doubleprime}\left(x\right)=-6x-12\\ \\ f^{\doubleprime}\left(-1\right)=-6<0\text{ max}\\ \\ f^{\doubleprime}\left(-3\right)=6>0\text{ min}\\ \\ f\left(-1\right)=1-6+9+3=7}$$
+
+## Q2
+$$\displaylines{f(x)=-\ln(x+3),-2\le x\le0,\\ \\ f^{\prime}\left(x\right)=-\frac{1}{x+3}\\ \\ f^{\doubleprime}\left(x\right)=\frac{1}{\left(x+3\right)^2}\text{strictly decreasing}}$$
+
+## Q3
+$$\displaylines{f(x)=3x^4-6x^3+1,-1\le x\le1\\ \\ f^{\prime}\left(x\right)=12x^3-18x^2=0=6x^2\left(2x-3\right),x=0,\frac32}$$

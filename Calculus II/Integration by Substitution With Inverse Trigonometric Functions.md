@@ -40,3 +40,14 @@ $$\displaylines{{\displaystyle\int_0^1\dfrac{1}{1+4x^2}\,\textrm{d}x\,,u=2x,\dif
 
 ## Q3
 $$\displaylines{{\displaystyle\int\dfrac{3}{36+x^2}\,\textrm{d}x=}{\displaystyle\frac{1}{12}\int\dfrac{1}{1+\left(\frac{x}{6}^{}\right)^2}\,\textrm{d}x,u=\frac{x}{6}},dx=6du\\ \\ \frac12\int_{}^{}\frac{1}{1+u^2}du=\dfrac12\arctan\left(\dfrac{x}{6}\right)+C}$$
+
+# Review
+
+## Q1
+$${\displaystyle\int\dfrac{1}{9+x^2}\,\textrm{d}x=}\dfrac13\arctan\left(\dfrac{x}{3}\right)+C$$
+
+## Q2
+$${{\displaystyle\int\dfrac{8\,\textrm{d}x}{|8x|\sqrt{(8x)^2-1}}=}}\textrm{arcsec}(8x)+C$$
+
+## Q3
+$$\displaylines{{{\displaystyle\int\dfrac{8}{|x|\sqrt{8x^2-1}}\,\textrm{d}x=8\sqrt8\int\frac{1}{\left|\sqrt8x\right|\sqrt{\left(\sqrt8x\right)^2-1}}\differentialD x}},u=\sqrt8x,\frac{du}{\differentialD x}=\sqrt8\\ \\ \differentialD x=\frac{1}{\sqrt8}du\\ \\ 8\,\textrm{arcsec}{(\sqrt8x)}+C}$$
