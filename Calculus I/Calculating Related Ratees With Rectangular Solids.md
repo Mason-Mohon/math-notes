@@ -43,3 +43,14 @@ $$\displaylines{x=4,y=11,z=6,x^{\prime}=-4,y^{\prime}=5,z^{\prime}=0\\ \\ S=12x+
 
 ## Q3
 $$x=24,y=18,z^{\prime}=3$$
+
+# Review
+$$\displaylines{S=2xz+2xy+2yz\\ \\ V=xyz}$$
+## Q1
+$$\displaylines{x=15,y=10,z^{\prime}=-2\\ \\ V=150z\\ \\ V^{\prime}=150z^{\prime}=-300}$$
+
+## Q2
+$$\displaylines{y=20,z=30,x^{\prime}=10\\ \\ S^{\prime}=100x^{\prime}=1000}$$
+
+## Q3
+$$\displaylines{x=9,x^{\prime}=0.3,z=0.2,z^{\prime}=0.1,y=3\\ \\ S=2xz+6x+6z\\ \\ S^{\prime}=2zx^{\prime}+2xz^{\prime}+6x^{\prime}+6z^{\prime}\\ \\ S^{\prime}=0.12+1.8+1.8+0.6=4.32}$$

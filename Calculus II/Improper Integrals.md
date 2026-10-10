@@ -53,3 +53,11 @@ $${\displaystyle\int_{-\infty}^{-1}\dfrac{\textrm{d}t}{\sqrt{2-3t}}=-\frac13\lim
 
 ## Q3
 $${\displaystyle\int_0^{\infty}\dfrac{x}{\sqrt{(x^2+1)^3}}\,\textrm{d}x=\frac12\lim_{a\to\infty}\int_1^{a}\frac{1}{u^{\frac32}}du=\left\lbrack-\frac{1}{\sqrt{u}}\right\rbrack_1^{a}=1}$$
+
+# Review
+
+## Q1
+$${\displaystyle\int_1^{\infty}-\dfrac{6}{\sqrt[5]{x}}\,\textrm{d}x=}-6\lim_{a\to\infty}\int_1^{a}x^{-\frac15}dx=-6\lim_{a\to\infty}\left\lbrack\frac54x^{\frac45}\right\rbrack_1^{a}=-\infty$$
+
+## Q2
+$${\displaystyle\int_{-\infty}^{-1}\dfrac{1}{x^3}\,\textrm{d}x=}\lim_{a\to-\infty}\left\lbrack-\frac{1}{2x^2}\right\rbrack_{a}^{-1}=-\frac12-0$$
