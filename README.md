@@ -334,6 +334,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Solving First-Order ODEs Using Separation of Variables](Calculus%20II/Solving%20First-Order%20ODEs%20Using%20Separation%20of%20Variables.md)
 - [The Arc Length of a Planar Curve](Calculus%20II/The%20Arc%20Length%20of%20a%20Planar%20Curve.md)
 - [The Average Value of a Function](Calculus%20II/The%20Average%20Value%20of%20a%20Function.md)
+- [The Sum of a Finite Geometric Series](Calculus%20II/The%20Sum%20of%20a%20Finite%20Geometric%20Series.md)
 - [Third-Degree Taylor Polynomials](Calculus%20II/Third-Degree%20Taylor%20Polynomials.md)
 - [Using Integration by Parts to Calculate Integrals With Logarithms](Calculus%20II/Using%20Integration%20by%20Parts%20to%20Calculate%20Integrals%20With%20Logarithms.md)
 
