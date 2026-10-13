@@ -13,3 +13,5 @@ $$\displaystyle\int_0^4 q(t) \, \textrm{d}t \approx\frac12\cdot\left\lbrack q\le
 
 ## Q4
 $$\displaylines{\frac{1}{b-a}\int_{a}^{b}q\left(t\right)\differentialD t\\ \\ \frac{348}{4}=87}$$
+
+$$\displaylines{F(t)=250+\int_0^{t}(8x-24)\,\textrm{d}x,\\ \\ N(t)=60+\int_0^{t}(48-3x^2)\,\textrm{d}x\\ \\ \\ N\left(4\right)=60+\int_0^4\left(48-3x^2\right)\differentialD x=60+48\left(4\right)-\left(4\right)^3}$$

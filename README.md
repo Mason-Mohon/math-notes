@@ -113,6 +113,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [The Polar Form of a Complex Number](Precalculus/The%20Polar%20Form%20of%20a%20Complex%20Number.md)
 - [The Sum and Difference Formulas for Cosine](Precalculus/The%20Sum%20and%20Difference%20Formulas%20for%20Cosine.md)
 - [Trigonometric Equations Containing Transformed Tangent Functions](Precalculus/Trigonometric%20Equations%20Containing%20Transformed%20Tangent%20Functions.md)
+- [Unit Vectors](Precalculus/Unit%20Vectors.md)
 - [Vertical Asymptotes of Rational Functions](Precalculus/Vertical%20Asymptotes%20of%20Rational%20Functions.md)
 
 ## Mathematical Foundations II
@@ -305,6 +306,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Calculus II Placement Exam](Calculus%20II/Calculus%20II%20Placement%20Exam.md)
 - [Convergence of Geometric Sequences](Calculus%20II/Convergence%20of%20Geometric%20Sequences.md)
 - [Determining Limits of Sequences Using Relative Magnitudes](Calculus%20II/Determining%20Limits%20of%20Sequences%20Using%20Relative%20Magnitudes.md)
+- [Differentiating Parametric Curves](Calculus%20II/Differentiating%20Parametric%20Curves.md)
 - [Equilibrium Solutions for First-Order ODEs](Calculus%20II/Equilibrium%20Solutions%20for%20First-Order%20ODEs.md)
 - [Euler's Method - Calculating Multiple Steps](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20Multiple%20Steps.md)
 - [Euler's Method - Calculating One Step](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20One%20Step.md)
@@ -312,6 +314,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Further Determining Limits of Sequences Using Relative Magnitudes](Calculus%20II/Further%20Determining%20Limits%20of%20Sequences%20Using%20Relative%20Magnitudes.md)
 - [Higher-Degree Taylor Polynomials](Calculus%20II/Higher-Degree%20Taylor%20Polynomials.md)
 - [Identifying Monotonic Sequences Using Ratios](Calculus%20II/Identifying%20Monotonic%20Sequences%20Using%20Ratios.md)
+- [Improper Integrals Involving Exponential Functions](Calculus%20II/Improper%20Integrals%20Involving%20Exponential%20Functions.md)
 - [Improper Integrals](Calculus%20II/Improper%20Integrals.md)
 - [Integrating Functions by Completing the Square](Calculus%20II/Integrating%20Functions%20by%20Completing%20the%20Square.md)
 - [Integrating Logarithmic Functions Using Substitution](Calculus%20II/Integrating%20Logarithmic%20Functions%20Using%20Substitution.md)

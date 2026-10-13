@@ -21,10 +21,10 @@ $$\displaylines{P_4(x)=x-\dfrac12x^2+\dfrac13x^3-\dfrac{1}{4}x^4.\\ \\ f^{\left(
 # Review
 
 ## Q1
-$$$$
+$$P_4\left(x\right)=$$
 
 ## Q2
 $$$$
 
 ## Q3
-$$$$
+$$\displaylines{x^{\frac73}\\ \\ \frac73x^{\frac43}\\ \\ \frac{28}{9}x^{\frac13}\\ \\ }$$
