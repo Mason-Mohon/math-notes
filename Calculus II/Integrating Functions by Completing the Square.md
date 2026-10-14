@@ -38,5 +38,13 @@ $$\displaylines{{\displaystyle{\int_{-7/2}^{-5/2}\dfrac{1}{\sqrt{-x^2-6x-8}}\,\t
 ## Q3
 $$\displaylines{{\displaystyle{\int_1^3\dfrac{8}{x^2-2x+5}\,\textrm{d}x},u=\left(x-1\right)}\\ \\ 8\int_0^2\frac{1}{u^2+4}du=\int\frac{1}{u^2+a^2}du=\frac{1}{a}\arctan\left(\frac{u}{a}\right)\\ \\ 8\left\lbrack\frac12\arctan\left(\frac{u}{2}\right)\right\rbrack_0^2=4\left(\arctan\left(1\right)-\arctan\left(0\right)\right)=\pi}$$
 
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle\int\dfrac{1}{\sqrt{21-4x-x^2}}\textrm{d}x=}\int\frac{1}{\sqrt{-\left(x^2+4x+4-4-21\right)}}\differentialD x=\int\frac{1}{\sqrt{25-\left(x+2\right)^2}}\differentialD x\\ \\ u=\left(\frac{x+2}{5}\right),\frac{du}{\differentialD x}=\frac15,\differentialD x=5du\\ \\ =\int\frac{1}{\sqrt{1-u^2}}du=\arcsin\left(\dfrac{x+2}{5}\right)+C}$$
+
+## Q2
+$$\displaylines{{\displaystyle\int\dfrac{1}{2x^2+12x+26}\,\textrm{d}x=}\frac12\int\frac{1}{x^2+6x+9-9+13}\differentialD x=\frac18\int\frac{1}{\left(\frac{x+3}{2}\right)^2+1}\differentialD x\\ \\ u=\left(\frac{x+3}{2}\right),\differentialD x=2du\\ \\ \frac14\int\frac{1}{u^2+1}du=\dfrac14\arctan\left(\dfrac{x+3}{2}\right)+C}$$
+
 ## Q3
-$$$$
+$${\displaystyle{\int\dfrac{10}{|x-6|\sqrt{x^2-12x+35}}\,\textrm{d}x}=}10\int\frac{1}{\left|x-6\right|\sqrt{\left(x-6\right)^2-1}}\differentialD x=10\,\textrm{arcsec}{(x-6)}+C$$

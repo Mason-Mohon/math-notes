@@ -72,6 +72,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 
 - [Alternate Forms of Secant-Tangent Identity](Precalculus/Alternate%20Forms%20of%20Secant-Tangent%20Identity.md)
 - [Argument of a Complex Number](Precalculus/Argument%20of%20a%20Complex%20Number.md)
+- [Calculating Related Rates Using Similar Triangles](Precalculus/Calculating%20Related%20Rates%20Using%20Similar%20Triangles.md)
 - [Complex Conjugate](Precalculus/Complex%20Conjugate.md)
 - [Converting from Polar to Cartesian Coordinates](Precalculus/Converting%20from%20Polar%20to%20Cartesian%20Coordinates.md)
 - [Dividing Complex Numbers 1](Precalculus/Dividing%20Complex%20Numbers%201.md)
@@ -329,6 +330,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Limits of Sequences](Calculus%20II/Limits%20of%20Sequences.md)
 - [Modeling With First-Order ODEs](Calculus%20II/Modeling%20With%20First-Order%20ODEs.md)
 - [Monotonic Sequences](Calculus%20II/Monotonic%20Sequences.md)
+- [Second Derivatives of Parametric Equations](Calculus%20II/Second%20Derivatives%20of%20Parametric%20Equations.md)
 - [Second-Degree Taylor Polynomials](Calculus%20II/Second-Degree%20Taylor%20Polynomials.md)
 - [Slope Fields for Autonomous Differential Equations](Calculus%20II/Slope%20Fields%20for%20Autonomous%20Differential%20Equations.md)
 - [Slope Fields for Directly Integrable Differential Equations](Calculus%20II/Slope%20Fields%20for%20Directly%20Integrable%20Differential%20Equations.md)
@@ -414,6 +416,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Quiz 5 2](Quizzes/Quiz%205%202.md)
 - [Quiz 5](Quizzes/Quiz%205.md)
 - [Quiz 6 - Calculus II](Quizzes/Quiz%206%20-%20Calculus%20II.md)
+- [Quiz 7 - Calculus II](Quizzes/Quiz%207%20-%20Calculus%20II.md)
 - [Quiz 7](Quizzes/Quiz%207.md)
 - [Quiz 9](Quizzes/Quiz%209.md)
 - [Related Rates Involving the Motion of a Particle](Quizzes/Related%20Rates%20Involving%20the%20Motion%20of%20a%20Particle.md)

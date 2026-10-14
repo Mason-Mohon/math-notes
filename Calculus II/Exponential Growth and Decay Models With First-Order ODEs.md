@@ -29,12 +29,13 @@ $$\displaylines{6000=10000e^{-5k}\\ \\ k=\frac{\ln\left(\frac35\right)}{5}}$$
 
 
 # Review
+$$\displaylines{\frac{dP}{\differentialD t}=rP,P=P\left(t\right),r>0\\ \\ P\left(t\right)=P_0e^{rt},P_0=P\left(0\right)}$$
 
 ## Q1
-$$$$
+$$\displaylines{\dfrac{\textrm{d} L}{\textrm{d} t}=-0.5L,t=8,L_0=32000\\ \\ L\left(8\right)=32000\cdot e^{-4}=586}$$
 
 ## Q2
-$$$$
+$$\displaylines{\dfrac{\textrm{d}M}{\textrm{d}t}=-kM,M_0=125,M\left(12\right)=1\\ \\ 1=125e^{-12k}\\ \\ \ln\left(\frac{1}{125}\right)\cdot-\frac{1}{12}=k=0.40=40\%}$$
 
 ## Q3
-$$$$
+$$\displaylines{\dfrac{\textrm{d}U}{\textrm{d}t}=kU,U\left(3\right)=12000,U_0=9000\\ \\ \frac{12000}{9000}=\frac43=e^{3k}\\ \\ k=\ln\left(\frac43\right)\cdot\frac13=0.096=10\%}$$
