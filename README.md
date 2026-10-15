@@ -116,6 +116,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Trigonometric Equations Containing Transformed Tangent Functions](Precalculus/Trigonometric%20Equations%20Containing%20Transformed%20Tangent%20Functions.md)
 - [Unit Vectors](Precalculus/Unit%20Vectors.md)
 - [Vertical Asymptotes of Rational Functions](Precalculus/Vertical%20Asymptotes%20of%20Rational%20Functions.md)
+- [Writing Geometric Series in Sigma Notation](Precalculus/Writing%20Geometric%20Series%20in%20Sigma%20Notation.md)
 
 ## Mathematical Foundations II
 
@@ -337,6 +338,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Solving First-Order IVPs Using Separation of Variables](Calculus%20II/Solving%20First-Order%20IVPs%20Using%20Separation%20of%20Variables.md)
 - [Solving First-Order ODEs Using Direct Integration](Calculus%20II/Solving%20First-Order%20ODEs%20Using%20Direct%20Integration.md)
 - [Solving First-Order ODEs Using Separation of Variables](Calculus%20II/Solving%20First-Order%20ODEs%20Using%20Separation%20of%20Variables.md)
+- [The Arc Length of a Parametric Curve](Calculus%20II/The%20Arc%20Length%20of%20a%20Parametric%20Curve.md)
 - [The Arc Length of a Planar Curve](Calculus%20II/The%20Arc%20Length%20of%20a%20Planar%20Curve.md)
 - [The Average Value of a Function](Calculus%20II/The%20Average%20Value%20of%20a%20Function.md)
 - [The Sum of a Finite Geometric Series](Calculus%20II/The%20Sum%20of%20a%20Finite%20Geometric%20Series.md)

@@ -34,12 +34,12 @@ $${\displaystyle\int5\sin^2x\,\textrm{d}x=}\frac52\int\left(1-\cos2x\right)\diff
 
 
 # Review
-
+$$\displaylines{\cos\left(2x\right)=\\ \\ =\cos^2x-\sin^2x\\ \\ =2\cos^2x-1\\ \\ =1-2\sin^2x}$$
 ## Q1
-$$$$
+$$\int_{-\pi}^0\left(3\cos^2{x}-x\right)\differentialD x=\frac32\int\left(1+\cos2x\right)\differentialD x-\int xdx=\left\lbrack\frac32x+\frac34\sin\left(2x\right)-\frac12x^2\right\rbrack_{-\pi}^0=\dfrac{\pi(3+\pi)}{2}$$
 
 ## Q2
-$$$$
+$$\displaylines{{\displaystyle\int\left(5-8\cos^2{2x}\right)\textrm{d}x=}\int\left(1-4\cos\left(4x\right)\right)\differentialD x,u=4x,\frac{du}{\differentialD x}=4\\ \\ =x-\sin{4x}+C}$$
 
 ## Q3
-$$$$
+$$\displaylines{{\displaystyle{\int}\left(\sin^2{x}+\cos{2x}\right)\textrm{d}x=}{\displaystyle{\int}\left(\sin^2{x}+1-2\sin^2x{}\right)\textrm{d}x=}{\displaystyle{\int}\left(1-\sin^2x{}\right)\textrm{d}x}=\int\left(\cos^2x\right)\differentialD x\\ \\ =\frac12\int\left(2\cos^2x-1+1\right)\differentialD x=\frac12\int\left(\cos2x+1\right)\differentialD x=\dfrac{x}{2}+\dfrac14\sin{2x}+C}$$

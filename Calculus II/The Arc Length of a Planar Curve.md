@@ -2,7 +2,7 @@
 2026-09-21
 Math Academy
 Subject: Calculus II
-Topics: Integrals
+Topics: Integrals Arc Length
 ![](../assets/Pasted%20image%2020260921114826.png)
 
 $$L=\int_{a}^{b}\sqrt{1+\left\lbrack f^{\prime}\left(x\right)\right\rbrack^2}\differentialD x$$

@@ -47,3 +47,14 @@ $${\displaystyle{\int}\dfrac{\csc{x}}{\cot^2{x}\sin{x}+\sin{x}}\,\textrm{d}x=}\i
 
 ## Q3
 $$\displaylines{{\displaystyle\int\dfrac{1}{\cos^4(3x+2)+\cos^2(3x+2)\sin^2(3x+2)}\,\textrm{d}x=}\frac13\int\frac{1}{\cos^2u\left(\cos^2u+\sin^2u\right)}du\\ \\ =\frac13\int\sec^2\left(u\right)du=\frac13\tan u+C=\dfrac13\tan(3x+2)+C}$$
+
+# Review
+
+## Q1
+$${\displaystyle{\int}\dfrac{1}{\cos x+\tan^2x\cos x}\,\textrm{d}x=\int\cos xdx=\sin x+C}$$
+
+## Q2
+$$\displaylines{{\displaystyle{\int}\dfrac{\cot^5{x}-\cot{x}}{(1-\cot^2{x})\csc{x}}\,\textrm{d}x=\int\frac{\cot x\left(\cot^2x+1\right)\left(\cot^2x-1\right)}{(1-\cot^2{x})\csc x}}dx\\ \\ =-\int\cot x\csc xdx=\csc{x}+C}$$
+
+## Q3
+$$\displaylines{{\displaystyle{\int_{\pi/4}^{3\pi/4} \sqrt{1 - \sin^{2}{\left(x - \dfrac{\pi}{4}\right)}} \, \textrm{d}x},u=x-\frac{\pi}{4}}\\ \\ \int_0^{\frac{\pi}{2}}\cos udu=\sin\left(\frac{\pi}{2}\right)-\sin\left(0\right)=1}$$

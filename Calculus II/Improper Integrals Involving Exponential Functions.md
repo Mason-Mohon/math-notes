@@ -26,12 +26,12 @@ $$\displaylines{{\displaystyle\int_{-\infty}^0\dfrac{e^{3/x}}{x^2}\,\textrm{d}x,
 
 
 # Review
-
+$$\displaylines{\int e^{px+q}dx=\frac{1}{p}e^{px+q}+C\\ \\ \int b^{px+q}dx=\frac{1}{p\ln b}b^{px+q}+C}$$
 ## Q1
-$$$$
+$$\displaystyle\int_0^\infty5^{-x} \,\textrm{d}x=\lim_{a\to\infty}\left\lbrack-\frac{1}{\ln5}5^{-x}\right\rbrack=\frac{1}{\infty}-\left(-\frac{1}{\ln5}\cdot1\right)=\frac{1}{\ln5}$$
 
 ## Q2
-$$$$
+$$\displaylines{{\displaystyle\int_{-\infty}^04x^3e^{-x^4}\,\textrm{d}x,u=x^4,\frac{du}{\differentialD x}=4x^3}\\ \\ \lim_{a\to\infty}\int_{a}^0e^{-u}du=\left(-e^0\right)-\left(-e^{-\infty}\right)=-1}$$
 
 ## Q3
-$$$$
+$${\displaystyle\int_{-\infty}^12^{x}\,\textrm{d}x=}\lim_{a\to-\infty}\left\lbrack\frac{1}{\ln2}\cdot2^{x}\right\rbrack_{a}^1=\frac{2}{\ln2}$$
