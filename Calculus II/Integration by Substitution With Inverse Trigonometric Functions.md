@@ -2,7 +2,7 @@
 2026-09-12
 Math Academy
 Subject: Calculus II
-Topics: Integrals Trigonometry Inverse Functions
+Topics: Integrals Trigonometry Inverse Functions Inverse Trigonometric Functions
 ![](../assets/Pasted%20image%2020260912205427.png)
 ## Q1
 $$\displaylines{{\displaystyle\int\dfrac{1}{\sqrt{1-4x^2}}\,\textrm{d}x=}\dfrac{\arcsin\left(2x\right)}{2}+C\\ \\ u=2x,\differentialD x=\frac12du\\ \\ \int_{}^{}\frac{1}{\sqrt{1-u^2}}\cdot\left(\frac12du\right)}$$

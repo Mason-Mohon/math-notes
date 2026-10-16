@@ -27,10 +27,10 @@ $$\displaylines{{\displaystyle\int_0^{\pi/3}\sec^3\!x\,\tan x\,\textrm{d}x=}{\di
 # Review
 
 ## Q1
-$$$$
+$${\displaystyle\int\dfrac{\sec{3x}}{\cos{3x}}\,\textrm{d}x=\int\left(\sec^23x\right)\differentialD x=\dfrac13\tan{3x}+C}$$
 
 ## Q2
-$$$$
+$${\displaystyle\int\dfrac{1}{\sec^2{2x}\cos{2x}}\,\textrm{d}x=\int\left(\cos2x\right)\differentialD x=\dfrac12\sin{2x}+C}$$
 
 ## Q3
-$$$$
+$${\displaystyle\int_{\pi/6}^{\pi/4}\dfrac{\cot{x}}{\csc{x}}\,\textrm{d}x=}\int\left(\frac{\cos x}{\sin x}\cdot\sin x\right)\differentialD x=\sin\frac{\pi}{4}-\sin\frac{\pi}{6}=\frac{\sqrt2-1}{2}$$

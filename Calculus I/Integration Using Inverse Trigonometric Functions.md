@@ -1,4 +1,4 @@
-Math Academy Calculus I Trigonometry Integrals
+Math Academy Calculus I Trigonometry Integrals Inverse Trigonometric Functions
 
 ![](../assets/Pasted%20image%2020260731123400.png)
 

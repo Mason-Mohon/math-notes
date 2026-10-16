@@ -1,4 +1,4 @@
-Math Academy Calculus I Trigonometry Differentiation [Derivatives](Derivatives.md)
+Math Academy Calculus I Trigonometry Differentiation [Derivatives](Derivatives.md) Inverse Trigonometric Functions
 
 ![](../assets/Pasted%20image%2020260730144419.png)
 

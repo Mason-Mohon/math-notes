@@ -1,4 +1,4 @@
-Math Academy Algebra II Trigonometry Limits
+Math Academy Algebra II Trigonometry Limits Inverse Trigonometric Functions
 
 If it does not lie in the domain it does not exist
 

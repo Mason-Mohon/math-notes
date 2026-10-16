@@ -1,4 +1,4 @@
-Math Academy Precalculus Trigonometry
+Math Academy Precalculus Trigonometry Inverse Trigonometric Functions
 
 ![](../assets/Pasted%20image%2020260708160234.png)
 
