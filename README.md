@@ -320,6 +320,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Improper Integrals Involving Arctangent](Calculus%20II/Improper%20Integrals%20Involving%20Arctangent.md)
 - [Improper Integrals Involving Exponential Functions](Calculus%20II/Improper%20Integrals%20Involving%20Exponential%20Functions.md)
 - [Improper Integrals](Calculus%20II/Improper%20Integrals.md)
+- [Infinite Series and Partial Sums](Calculus%20II/Infinite%20Series%20and%20Partial%20Sums.md)
 - [Integrating Functions by Completing the Square](Calculus%20II/Integrating%20Functions%20by%20Completing%20the%20Square.md)
 - [Integrating Logarithmic Functions Using Substitution](Calculus%20II/Integrating%20Logarithmic%20Functions%20Using%20Substitution.md)
 - [Integrating Products of Trigonometric Functions](Calculus%20II/Integrating%20Products%20of%20Trigonometric%20Functions.md)
@@ -346,6 +347,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [The Sum of a Finite Geometric Series](Calculus%20II/The%20Sum%20of%20a%20Finite%20Geometric%20Series.md)
 - [Third-Degree Taylor Polynomials](Calculus%20II/Third-Degree%20Taylor%20Polynomials.md)
 - [Using Integration by Parts to Calculate Integrals With Logarithms](Calculus%20II/Using%20Integration%20by%20Parts%20to%20Calculate%20Integrals%20With%20Logarithms.md)
+- [Writing an Infinite Geometric Series in Sigma Notation](Calculus%20II/Writing%20an%20Infinite%20Geometric%20Series%20in%20Sigma%20Notation.md)
 
 ## Linear Algebra
 
@@ -422,6 +424,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Quiz 6 - Calculus II](Quizzes/Quiz%206%20-%20Calculus%20II.md)
 - [Quiz 7 - Calculus II](Quizzes/Quiz%207%20-%20Calculus%20II.md)
 - [Quiz 7](Quizzes/Quiz%207.md)
+- [Quiz 8 - Calculus II](Quizzes/Quiz%208%20-%20Calculus%20II.md)
 - [Quiz 9](Quizzes/Quiz%209.md)
 - [Related Rates Involving the Motion of a Particle](Quizzes/Related%20Rates%20Involving%20the%20Motion%20of%20a%20Particle.md)
 - [Rules for Differentiating and Critical Points](Quizzes/Rules%20for%20Differentiating%20and%20Critical%20Points.md)
