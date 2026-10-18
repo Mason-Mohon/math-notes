@@ -115,6 +115,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [The Polar Form of a Complex Number](Precalculus/The%20Polar%20Form%20of%20a%20Complex%20Number.md)
 - [The Sum and Difference Formulas for Cosine](Precalculus/The%20Sum%20and%20Difference%20Formulas%20for%20Cosine.md)
 - [Trigonometric Equations Containing Transformed Tangent Functions](Precalculus/Trigonometric%20Equations%20Containing%20Transformed%20Tangent%20Functions.md)
+- [Two-Dimensional Vectors Expressed in Component Form](Precalculus/Two-Dimensional%20Vectors%20Expressed%20in%20Component%20Form.md)
 - [Unit Vectors](Precalculus/Unit%20Vectors.md)
 - [Vertical Asymptotes of Rational Functions](Precalculus/Vertical%20Asymptotes%20of%20Rational%20Functions.md)
 - [Writing Geometric Series in Sigma Notation](Precalculus/Writing%20Geometric%20Series%20in%20Sigma%20Notation.md)

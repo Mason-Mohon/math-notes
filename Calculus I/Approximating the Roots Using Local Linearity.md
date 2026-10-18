@@ -7,7 +7,7 @@ Topics: Linearization Differentiation
 ![](../assets/Pasted%20image%2020260812135421.png)
 ## Q1
 ![](../assets/Pasted%20image%2020260812135446.png)
-$$\displaylines{y=\sqrt{x}\\ \\ L\left(x\right)=f\left(1\right)+f^{\prime}\left(1\right)\left(x-1\right)=1+1\left(x-1\right)=x}$$
+$$\displaylines{y=\sqrt{x}\\ \\ L\left(x\right)=f\left(1\right)+f^{\prime}\left(1\right)\left(x-1\right)=1+1\left(x-1\right)=x\\ \\ L\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)}$$
 
 ![](../assets/Pasted%20image%2020260812140308.png)
 
@@ -41,3 +41,15 @@ $$\displaylines{f\left(x\right)=3\sqrt{x},x=144,f^{\prime}\left(x\right)=\frac{3
 
 ## Q3
 $$\displaylines{f\left(x\right)=x^{\frac13},x=125,f^{\prime}\left(x\right)=\frac{1}{3x^{\frac23}}\\ \\ L\left(x\right)=5+\frac{1}{75}\left(x-125\right)=5+\frac{x}{75}-\frac53=\frac{10}{3}+\frac{x}{75}}$$
+
+# Review
+$$L\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)$$
+
+## Q1
+$$\displaylines{f(x)=7\sqrt{x},x=225,7\sqrt{228.4}\\ \\ f^{\prime}\left(x\right)=\frac{7}{2\sqrt{x}}\\ \\ L\left(228.4\right)=105+\frac{7}{30}\left(3.4\right)=\frac{15869}{150}}$$
+
+## Q2
+$$\displaylines{f(x)=3\sqrt[3]{x}\,,\,x=27,\,3\sqrt[3]{28.7}\,=?\\ \\ f^{\prime}\left(x\right)=\frac{1}{\sqrt[3]{x^2}\,}\\ \\ L\left(x\right)=9+\frac19\left(1.7\right)=9.1889}$$
+
+## Q3
+$$\displaylines{\sqrt[3]{x},x=64\\ \\ \frac{1}{3\sqrt[3]{x^2}\,}\\ \\ L\left(x\right)=4+\frac{1}{48}\left(x-64\right)=\frac{192-64+x}{48}=\frac{128+x}{48}}$$

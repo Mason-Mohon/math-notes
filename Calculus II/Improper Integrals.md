@@ -61,3 +61,12 @@ $${\displaystyle\int_1^{\infty}-\dfrac{6}{\sqrt[5]{x}}\,\textrm{d}x=}-6\lim_{a\t
 
 ## Q2
 $${\displaystyle\int_{-\infty}^{-1}\dfrac{1}{x^3}\,\textrm{d}x=}\lim_{a\to-\infty}\left\lbrack-\frac{1}{2x^2}\right\rbrack_{a}^{-1}=-\frac12-0$$
+
+
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle\int_{-\infty}^{-1}\dfrac{x^2}{\sqrt{8-x^3}}\,\textrm{d}x=\lim_{a\to-\infty}\int_{a}^{-1}\frac{x^2}{\sqrt{8-x^3}}\differentialD x}\\ \\ u=8-x^3\Rightarrow\frac{\differentialD u}{\differentialD x}=-3x^2\Rightarrow-\frac13du=x^2dx\\ \\ -\frac13\lim_{b\to\infty}\int_{b}^9\frac{1}{\sqrt{u}}\differentialD u=-\frac13\lim_{b\to\infty}\left\lbrack2\sqrt{u}\right\rbrack_{b}^9=\infty}$$
+
+## Q3
+$${\displaystyle\int_2^{\infty}\dfrac{1}{\sqrt{(2+x)^3}}\,\textrm{d}x=\lim_{a\to\infty}\int_4^{a}\frac{1}{u^{\frac32}}du=}\lim_{a\to\infty}\left\lbrack-\frac{2}{u^{\frac12}}\right\rbrack_4^{a}=0-\left(-1\right)=1$$
