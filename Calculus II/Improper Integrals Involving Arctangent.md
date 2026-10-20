@@ -38,12 +38,12 @@ $$\displaylines{{\displaystyle\int_{-\infty}^0\dfrac{5x^4}{x^{10}+25}\,\textrm{d
 
 
 # Review
-
+$$\displaylines{\int\frac{1}{1+x^2}\differentialD x=\arctan\left(x\right)+C\\ \\ \lim_{x\to\infty}\left\lbrack\arctan\left(x\right)\right\rbrack=\frac{\pi}{2}\\ \\ \lim_{x\to-\infty}\left\lbrack\arctan\left(x\right)\right\rbrack=-\frac{\pi}{2}\\ \\ \int\frac{1}{1+\left(kx\right)^2}\differentialD x=\frac{1}{k}\arctan\left(kx\right)+C\\ \\ \int\frac{1}{k^2+x^2}\differentialD x=\frac{1}{k}\arctan\left(\frac{x}{k}\right)+C}$$
 ## Q1
-$$$$
+$${{\displaystyle\int_0^{\infty}\dfrac{2}{z^2+9}\,\textrm{d}z=2\lim_{a\to\infty}\int_0^{a}\frac{1}{z^2+9}dz=\lim_{a\to\infty}\left\lbrack\frac23\arctan\left(\frac{z}{3}\right)\right\rbrack_0^{a}}}=\frac{\pi}{3}-0$$
 
 ## Q2
-$$$$
+$$\displaylines{{{\displaystyle\int_0^{\infty}\dfrac{e^{x}}{1+3e^{2x}}\,\textrm{d}x=\lim_{a\to\infty}\int_1^{a}\frac{1}{1+\left(\sqrt3u\right)^2}du}}\\ \\ u=e^{x},\frac{du}{\differentialD x}=e^{x}\\ \\ =\left\lbrack\frac{1}{\sqrt3}\arctan\left(\sqrt3u\right)\right\rbrack_1^{a}=\frac{3\pi}{6\sqrt3}-\frac{2\pi}{6\sqrt3}=\frac{\sqrt3\pi}{18}}$$
 
 ## Q3
-$$$$
+$$\displaylines{{\displaystyle\int_{-\infty}^{1/2}\dfrac{12}{1+4x^2}\,\textrm{d}x=}\lim_{a\to-\infty}12\int_{a}^{\frac12}\frac{1}{1+\left(2x\right)^2}\differentialD x\\ \\ =\left(6\arctan\left(1\right)-6\arctan\left(2a\right)\right)=\frac{3\pi}{2}+\frac{6\pi}{2}=\frac{9\pi}{2}}$$

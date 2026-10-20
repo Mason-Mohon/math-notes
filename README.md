@@ -70,6 +70,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 
 ## Precalculus
 
+- [Addition and Scalar Multiplication of Cartesian Vectors in 2D](Precalculus/Addition%20and%20Scalar%20Multiplication%20of%20Cartesian%20Vectors%20in%202D.md)
 - [Alternate Forms of Secant-Tangent Identity](Precalculus/Alternate%20Forms%20of%20Secant-Tangent%20Identity.md)
 - [Argument of a Complex Number](Precalculus/Argument%20of%20a%20Complex%20Number.md)
 - [Calculating Related Rates Using Similar Triangles](Precalculus/Calculating%20Related%20Rates%20Using%20Similar%20Triangles.md)
@@ -315,6 +316,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Euler's Method - Calculating Multiple Steps](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20Multiple%20Steps.md)
 - [Euler's Method - Calculating One Step](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20One%20Step.md)
 - [Exponential Growth and Decay Models With First-Order ODEs](Calculus%20II/Exponential%20Growth%20and%20Decay%20Models%20With%20First-Order%20ODEs.md)
+- [Finding the Sum of an Infinite Geometric Series](Calculus%20II/Finding%20the%20Sum%20of%20an%20Infinite%20Geometric%20Series.md)
 - [Further Determining Limits of Sequences Using Relative Magnitudes](Calculus%20II/Further%20Determining%20Limits%20of%20Sequences%20Using%20Relative%20Magnitudes.md)
 - [Higher-Degree Taylor Polynomials](Calculus%20II/Higher-Degree%20Taylor%20Polynomials.md)
 - [Identifying Monotonic Sequences Using Ratios](Calculus%20II/Identifying%20Monotonic%20Sequences%20Using%20Ratios.md)
@@ -380,6 +382,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Limits and Continuity Functions From Graphs](Quizzes/Limits%20and%20Continuity%20Functions%20From%20Graphs.md)
 - [Limits of Trigonometric Functions and Instantaneous Rates of Change 1](Quizzes/Limits%20of%20Trigonometric%20Functions%20and%20Instantaneous%20Rates%20of%20Change%201.md)
 - [Limits of Trigonometric Functions and Instantaneous Rates of Change](Quizzes/Limits%20of%20Trigonometric%20Functions%20and%20Instantaneous%20Rates%20of%20Change.md)
+- [Limits of Trigonometric Functions, Instantaneous Rates of Change, and Infinite Geometric Series](Quizzes/Limits%20of%20Trigonometric%20Functions%2C%20Instantaneous%20Rates%20of%20Change%2C%20and%20Infinite%20Geometric%20Series.md)
 - [Maxima and Minima of Functions, Critical Points, Concavity, and Inflection Points](Quizzes/Maxima%20and%20Minima%20of%20Functions%2C%20Critical%20Points%2C%20Concavity%2C%20and%20Inflection%20Points.md)
 - [Modeling a Particle Using Trigonometric Functions](Quizzes/Modeling%20a%20Particle%20Using%20Trigonometric%20Functions.md)
 - [Modeling Particle Motion Using Trigonometric Functions 1](Quizzes/Modeling%20Particle%20Motion%20Using%20Trigonometric%20Functions%201.md)

@@ -32,12 +32,13 @@ $${\displaystyle\int_0^{\pi/4}\sin(5x)\cos(x)\,\text{d}x=}\left\lbrack-\frac18\c
 
 
 # Review
+$$\displaylines{\cos\left(x-y\right)=\cos x\cos y+\sin x\sin y\\ \\ \cos\left(x+y\right)=\cos x\cos y-\sin x\sin y\\ \\ \cos\left(x-y\right)+\cos\left(x+y\right)=2\cos x\cos y\\ \\ \cos x\cos y=\frac12\left(\cos\left(x-y\right)+\cos\left(x+y\right)\right)\\ \\ \sin x\sin y=\frac12\left(\cos\left(x-y\right)-\cos\left(x+y\right)\right)\\ \\ \sin x\cos y=\frac12\left(\sin\left(x+y\right)+\sin\left(x-y\right)\right)}$$
 
 ## Q1
-$$$$
+$${\displaystyle\int\sin(10x)\sin(x)\,\text{d}x=}\frac12\int\left(\cos\left(9x\right)-\cos\left(11x\right)\right)\differentialD x=\dfrac{1}{18}\sin(9x)-\dfrac{1}{22}\sin(11x)+C$$
 
 ## Q2
-$$$$
+$$\displaylines{{\displaystyle\int_0^{\pi/2}\cos(x)\cos(4x)\,\text{d}x=}\frac12\int_0^{\frac{\pi}{2}}\left(\cos\left(3x\right)+\cos\left(5x\right)\right)\differentialD x\\ \\ =\left\lbrack\frac16\sin\left(3x\right)+_{}\frac{1}{10}\sin\left(5x\right)\right\rbrack_0^{\frac{\pi}{2}}=-\frac{1}{15}}$$
 
 ## Q3
-$$$$
+$${\displaystyle\int_0^{\pi/4}\sin(7x)\sin(3x)\,\text{d}x=}\left\lbrack\frac18\sin\left(4x\right)-\frac{1}{20}\sin\left(3x\right)\right\rbrack_0^{\frac{\pi}{4}}=-\frac{1}{20}$$
