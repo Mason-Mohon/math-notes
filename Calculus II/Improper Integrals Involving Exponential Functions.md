@@ -35,3 +35,16 @@ $$\displaylines{{\displaystyle\int_{-\infty}^04x^3e^{-x^4}\,\textrm{d}x,u=x^4,\f
 
 ## Q3
 $${\displaystyle\int_{-\infty}^12^{x}\,\textrm{d}x=}\lim_{a\to-\infty}\left\lbrack\frac{1}{\ln2}\cdot2^{x}\right\rbrack_{a}^1=\frac{2}{\ln2}$$
+
+# Review
+
+$$\displaylines{\int e^{px+q}dx=\frac{1}{p}e^{px+q}+C\\ \\ \int b^{px+q}dx=\frac{1}{p\ln b}b^{px+q}+C}$$
+
+## Q1
+$${\displaystyle\int_{-\infty}^05^{x/2}\,\textrm{d}x=}\lim_{a\to-\infty}\left\lbrack\frac{2}{\ln5}5^{\frac{x}{2}}\right\rbrack_{a}^0=\frac{2}{\ln5}$$
+
+## Q2
+$${\displaystyle\int_{-\infty}^07^{3x}\,\textrm{d}x=}\frac{1}{3\ln7}$$
+
+## Q3
+$${\displaystyle\int_{-\infty}^03^{2x+2}\,\textrm{d}x=}\frac{1}{2\ln3}$$

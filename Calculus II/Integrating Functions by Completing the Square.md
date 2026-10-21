@@ -48,3 +48,15 @@ $$\displaylines{{\displaystyle\int\dfrac{1}{2x^2+12x+26}\,\textrm{d}x=}\frac12\i
 
 ## Q3
 $${\displaystyle{\int\dfrac{10}{|x-6|\sqrt{x^2-12x+35}}\,\textrm{d}x}=}10\int\frac{1}{\left|x-6\right|\sqrt{\left(x-6\right)^2-1}}\differentialD x=10\,\textrm{arcsec}{(x-6)}+C$$
+
+
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle{\int_4^5\dfrac{2}{x^2-8x+17}\,\textrm{d}x}}=2\int_4^5\dfrac{1}{1+\left(x-4\right)^2}\,\textrm{d}x=\left\lbrack2\arctan\left(x-4\right)\right\rbrack_4^5\\ \\ 2\arctan\left(1\right)-2\arctan\left(0\right)=\frac{\pi}{2}}$$
+
+## Q2
+$${\displaystyle\int\dfrac{1}{|x+3|\sqrt{x^2+6x+8}}\,\textrm{d}x=}\textrm{arcsec}(x+3)+C$$
+
+## Q3
+$$\displaylines{{\displaystyle{\int_{-3-\sqrt2}^{-3+\sqrt2}\dfrac{20}{\sqrt{-1-x(x+6)}}\,\textrm{d}x}=20{\displaystyle{\int_{-3-\sqrt2}^{-3+\sqrt2}\dfrac{1}{\sqrt{-1-\left(x^2+6x+9-9\right)}}\,\textrm{d}x}}}=\\ \\ \frac{10}{\sqrt2}{\displaystyle{\int_{-3-\sqrt2}^{-3+\sqrt2}\dfrac{1}{\sqrt{1-\left(\frac{x+3}{2\sqrt2}\right)^2}}\,\textrm{d}x}}\\ \\ u=\frac{x+3}{2\sqrt2}\Rightarrow\frac{du}{\differentialD x}=\frac{1}{2\sqrt2}\\ \\ 20\int_{-\frac12}^{\frac12}\frac{1}{\sqrt{1-u^2}}du=20\arcsin\left(\frac12\right)-20\arcsin\left(-\frac12\right)=\frac{20\pi}{3}}$$
