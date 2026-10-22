@@ -21,7 +21,7 @@ $$\displaylines{\int_{-\infty}^{\infty}\dfrac{e^{x}}{1+3e^{2x}}\differentialD x\
 # Review
 
 ## Q1
-$$$$
+$$\displaystyle \int_{-\infty}^\infty \dfrac{x}{\left(3+x^2\right)^2}\,\textrm{d}x.$$
 
 ## Q2
 $$$$

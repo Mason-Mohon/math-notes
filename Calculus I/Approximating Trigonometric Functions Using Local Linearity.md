@@ -33,10 +33,10 @@ $$\displaylines{f\left(x\right)=\sin x,x=45\degree,\sin47\degree=\\ \\ L\left(x\
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{\tan{x},x=0\\ \\ L\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)\\ \\ 0+\sec^2\left(0\right)\left(x-0\right)=x}$$
 
 ## Q2
-$$$$
+$$\displaylines{\sin\left(\dfrac{6\pi}{5}\right),f(x)=\sin{x},x=\dfrac{5\pi}{4}.\\ \\ L\left(x\right)=-\frac{\sqrt2}{2}-\frac{\sqrt2}{2}\left(x-\frac{5\pi}{4}\right)\\ \\ L\left(\dfrac{6\pi}{5}\right)=-\frac{\sqrt2}{2}-\frac{\sqrt2}{2}\left(\dfrac{24\pi}{20}-\frac{25\pi}{20}\right)=-\dfrac{\sqrt2}{2}+\dfrac{\pi\sqrt2}{40}}$$
 
 ## Q3
-$$$$
+$$\displaylines{\tan x,x=\dfrac{\pi}{6}\\ \\ \frac{\sqrt3}{3}+\frac43\left(x-\frac{\pi}{6}\right)=\frac43x+\frac{\sqrt3}{3}-\frac{2\pi}{9}}$$

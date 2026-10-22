@@ -30,11 +30,12 @@ $$\displaylines{x=3\cos{t}-\cos(3t),\quad y=3\sin{t}-\sin(3t),\quad t\in\left[0,
 
 # Review
 
+$$\displaylines{x=x\left(t\right),y=y\left(t\right),t\in\left\lbrack t_1,t_2\right\rbrack\\ \\ L=\int_{t_1}^{t_2}\sqrt{\left(\frac{\differentialD x}{\differentialD t}\right)^2+\left(\frac{\differentialD y}{\differentialD t}\right)^2}\differentialD t}$$
 ## Q1
-$$$$
+$$\displaylines{x=1+3t,\quad y=2t^{3/2},\quad t\in[0,1].\\ \\ L=\int_0^1\sqrt{9+9t}\differentialD t=3\int_0^1\sqrt{1+t}\differentialD t\\ \\ u=1+t\\ \\ 3\int_1^2\sqrt{u}\differentialD t=3\left\lbrack\frac23\sqrt{u^3}\right\rbrack_1^2=4\sqrt2-2}$$
 
 ## Q2
-$$$$
+$$\displaylines{x=\cos(3t),\,y=3\sin(t)\\ \\ L=3\int_0^{\frac{\pi}{2}}\sqrt{\sin^2\left(3t\right)+\cos^2\left(t\right)}\mathrm{d}t}$$
 
 ## Q3
-$$$$
+$$\displaylines{x=4\sin{t}+5,\quad y=4(\cos{t}+1),\quad t\in\left[0,\dfrac{\pi}{2}\right].\\ \\ L=\int_0^{\frac{\pi}{2}}\sqrt{\left(4\cos t\right)^2+\left(-4\sin t\right)^2}\mathrm{d}t=4\int_0^{\frac{\pi}{2}}dt=2\pi}$$
