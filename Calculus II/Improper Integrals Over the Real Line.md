@@ -21,10 +21,10 @@ $$\displaylines{\int_{-\infty}^{\infty}\dfrac{e^{x}}{1+3e^{2x}}\differentialD x\
 # Review
 
 ## Q1
-$$\displaystyle \int_{-\infty}^\infty \dfrac{x}{\left(3+x^2\right)^2}\,\textrm{d}x.$$
+$$\displaylines{\displaystyle\int_{-\infty}^\infty\dfrac{x}{\left(3+x^2\right)^2}\,\textrm{d}x.\\ \\ u=3+x^2\Rightarrow\frac{du}{\differentialD x}2x\\ \\ \lim_{a\to\infty}\frac12\int_3^{a}\frac{1}{u^2}du=\lim_{a\to\infty}\left\lbrack-\frac{1}{2u}\right\rbrack_0^{a}=0+\frac16\\ \\ \frac16-\frac16}$$
 
 ## Q2
-$$$$
+$$\int_{-\infty}^{\infty}2e^{-|x|+3}dx$$
 
 ## Q3
-$$$$
+$$y =  \dfrac{3x^2}{1+2x^6}$$
