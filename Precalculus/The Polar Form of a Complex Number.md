@@ -4,6 +4,8 @@ Math Academy Precalculus Polar Coordinates Complex Numbers
 
 ![](../assets/Pasted%20image%2020260707144614.png)
 
+$$\displaylines{z=x+iy\\ \\ z=\left|z\right|\left(\cos\theta+i\sin\theta\right)\\ \\ \left|z\right|=\sqrt{x^2+y^2}\\ \\ \theta=\arctan\left(\frac{y}{x}\right)\\ \\ z=\sqrt{x^2+y^2}\left(\cos\left(\arctan\left(\frac{y}{x}\right)\right)+i\sin\left(\arctan\left(\frac{y}{x}\right)\right)\right)}$$
+
 ## Q1
 $$\displaylines{z=\dfrac{1-\textrm{i}}{4},r(\cos\theta+\textrm{i}\sin\theta)\\ \\ \left|z\right|=\sqrt{\frac{1}{16}+\frac{1}{16}}=\frac{\sqrt2}{\sqrt{16}}=\frac{\sqrt2}{4}\\ \\ \theta=\arctan\left(1\right)=\frac{7\pi}{4}\\ \\ z=\dfrac{\sqrt2}{4}\left(\cos\left(\dfrac{7\pi}{4}\right)+\textrm{i}\sin\left(\dfrac{7\pi}{4}\right)\right)}$$
 
@@ -67,5 +69,10 @@ $$\displaylines{z=6\left(\cos\left(\dfrac{2\pi}{3}\right)+\textrm{i}\sin\left(\d
 ## Q2
 $$z=5(\cos(\pi) + \textrm{i}\sin(\pi))$$
 
-## Q3
-$$$$
+# Review
+$$\displaylines{z=x+iy\\ \\ z=\left|z\right|\left(\cos\theta+i\sin\theta\right)\\ \\ \left|z\right|=\sqrt{x^2+y^2}\\ \\ \theta=\arctan\left(\frac{y}{x}\right)\\ \\ z=\sqrt{x^2+y^2}\left(\cos\left(\arctan\left(\frac{y}{x}\right)\right)+i\sin\left(\arctan\left(\frac{y}{x}\right)\right)\right)}$$
+## Q1
+$$\displaylines{z=\dfrac{5}{3-2\textrm{i}}\cdot\frac{3+2i}{3+2i}=\frac{15+10i}{13}=\frac{15}{13}+\frac{10}{13}i\\ \\ z=\sqrt{\left(\frac{15}{13}\right)^2+\left(\frac{10}{13}\right)^2}\cdot\left(\cos\left(\arctan\left(\frac23\right)\right)+i\sin\left(\arctan\left(\frac23\right)\right)\right)\\ \\ z=\dfrac{5\sqrt{13}}{13}(\cos(0.588)+\textrm{i}\sin(0.588))}$$
+
+## Q2
+$$\displaylines{z=\sqrt2\left(\cos\left(\dfrac{3\pi}{4}\right)+\textrm{i}\sin\left(\dfrac{3\pi}{4}\right)\right)\\ \\ \frac{3\pi}{4}=\arctan\left(-1\right),-1=\frac{y}{x}\Rightarrow y=-x\\ \\ \sqrt2=\sqrt{x^2+\left(-x\right)^2}=\sqrt{2x^2}\Rightarrow x\sqrt2=\sqrt2\Rightarrow x=1\\ \\ y=-1\\ \\ }$$
