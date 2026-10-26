@@ -122,6 +122,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Trigonometric Equations Containing Transformed Tangent Functions](Precalculus/Trigonometric%20Equations%20Containing%20Transformed%20Tangent%20Functions.md)
 - [Two-Dimensional Vectors Expressed in Component Form](Precalculus/Two-Dimensional%20Vectors%20Expressed%20in%20Component%20Form.md)
 - [Unit Vectors](Precalculus/Unit%20Vectors.md)
+- [Velocity and Acceleration for Plane Motion](Precalculus/Velocity%20and%20Acceleration%20for%20Plane%20Motion.md)
 - [Vertical Asymptotes of Rational Functions](Precalculus/Vertical%20Asymptotes%20of%20Rational%20Functions.md)
 - [Writing Geometric Series in Sigma Notation](Precalculus/Writing%20Geometric%20Series%20in%20Sigma%20Notation.md)
 

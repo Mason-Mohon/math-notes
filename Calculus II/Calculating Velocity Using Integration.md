@@ -2,7 +2,7 @@
 2026-09-22
 Math Academy
 Subject: Calculus II
-Topics: Integrals
+Topics: Integrals Velocity
 
 $$\displaylines{a\left(t\right)=\frac{dv}{\differentialD t}\\ \\ v\left(t\right)=\int_{}^{}a\left(t\right)\differentialD t}$$
 
