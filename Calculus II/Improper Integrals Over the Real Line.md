@@ -28,3 +28,14 @@ $$\int_{-\infty}^{\infty}2e^{-|x|+3}dx$$
 
 ## Q3
 $$y =  \dfrac{3x^2}{1+2x^6}$$
+
+# Review
+
+## Q1
+$$\int_{-\infty}^{\infty}\dfrac{4}{36+x^2}=\frac29\lim_{a\to\infty}\int_0^{a}\frac{1}{1+\left(\frac{x}{6}\right)^2}=\frac43\left\lbrack\arctan\left(\frac{x}{6}\right)\right\rbrack_0^{a}=\frac43\cdot\frac{\pi}{2}=\frac{2\pi}{3}$$
+
+## Q2
+$${\displaystyle\int_{-\infty}^{\infty}\dfrac{1}{4+x^2}\,\textrm{d}x=\frac12\lim_{a\to\infty}\int_0^{a}\frac{1}{1+\left(\frac{x}{2}\right)^2}}dx=\frac{\pi}{2}$$
+
+## Q3
+$$\displaylines{{\displaystyle\int_{-\infty}^{\infty}\dfrac{3}{9+2x^2}\,\textrm{d}x}\\ \\ \frac23\lim_{a\to\infty}\int_0^{a}\frac{1}{1+\left(\frac{\sqrt2}{3}x\right)^2}\differentialD x=\lim_{a\to\infty}\frac23\left\lbrack\frac{3}{\sqrt2}\arctan\left(\frac{\sqrt2}{3}x\right)\right\rbrack_0^{a}=\frac{\pi}{\sqrt2}}$$

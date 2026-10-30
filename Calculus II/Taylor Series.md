@@ -27,11 +27,14 @@ $$f(x)=x^{-1/2},x=4,\frac{1}{\sqrt3}$$
 
 # Review
 
+$$\displaylines{f\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)+\frac{f^{\doubleprime}\left(a\right)}{2!}\left(x-a\right)^2+\frac{f^{\prime\prime\prime}\left(a\right)}{3!}\left(x-a\right)^3+\cdots\\ \\ =\sum_{k=0}^{\infty}\frac{f^{\left(k\right)}\left(a\right)}{k!}\left(x-a\right)^{k}}$$
+
+
 ## Q1
-$$$$
+$$\displaylines{f(x)=\ln{x},x=e^2,\ln8=?\\ \\ f\left(e^2\right)=2\\ \\ f^{\prime}\left(x\right)=\frac{1}{x}\Rightarrow f^{\prime}\left(e^2\right)=\frac{1}{e^2}\\ \\ f^{\doubleprime}\left(x\right)=-\frac{1}{x^2}\Rightarrow f^{\doubleprime}\left(e^2\right)=-\frac{1}{e^4}\\ \\ \ln8=2+\frac{1}{e^2}\left(8-e^2\right)-\frac{1}{2e^4}\left(8-e^2\right)^2\\ \\ =2.079264087}$$
 
 ## Q2
-$$$$
+$$\displaylines{f\left(x\right)=xe^{x}\Rightarrow f\left(-1\right)=-\frac{1}{e}\\ \\ f^{\prime}\left(x\right)=xe^{x}+e^{x}\Rightarrow f^{\prime}\left(-1\right)=-\frac{1}{e}+\frac{1}{e}=0\\ \\ f^{\doubleprime}\left(x\right)=xe^{x}+2e^{x}\Rightarrow f^{\doubleprime}\left(-1\right)-\frac{1}{e}+\frac{2}{e}=\frac{1}{e}\\ \\ f^{\prime\prime\prime}\left(x\right)=xe^{x}+3e^{x}\Rightarrow f^{\prime\prime\prime}\left(-1\right)=\frac{2}{e}\\ \\ xe^{x}=-\dfrac{1}{e}+\dfrac{1}{2e}(x+1)^2+\dfrac{1}{3e}(x+1)^3\cdots}$$
 
 ## Q3
-$$$$
+$$\displaylines{\sec(\pi+0.2)=?\\ \\ f\left(x\right)=\sec x\Rightarrow f\left(\pi\right)=-1\\ \\ f^{\prime}\left(x\right)=\sec x\tan x\Rightarrow f^{\prime}\left(\pi\right)=0\\ \\ f^{\doubleprime}\left(x\right)=\sec x\tan^2x+\sec^3x\Rightarrow f^{\doubleprime}\left(\pi\right)=-1\\ \\ f\left(x\right)=-1-\frac12\left(x-\pi\right)^2\\ \\ \sec(\pi+0.2)\approx-1-\frac12\left(0.2\right)^2=-1.02}$$

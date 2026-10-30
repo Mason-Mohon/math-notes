@@ -97,3 +97,35 @@ $${\displaystyle\lim_{x\to0^{+}}\dfrac{\ln(\sin{x})}{\csc{x}}}=\frac{\frac{\cos 
 
 ## Q3
 $${{\displaystyle\lim_{x\to-\infty}\dfrac{5x+1}{x^2+\sqrt[3]{x}}=}}\frac{5}{2x+\frac13x^{-\frac23}}=\frac{5}{\infty}=0$$
+
+# Redo
+
+## Q1
+$${{\displaystyle\lim_{x\to9}\frac{\sqrt{x}-3}{x^2-10x+9}=}}\lim_{x\to9}\frac{\frac{1}{2\sqrt{x}}}{2x-10}=\frac16\cdot\frac18=\frac{1}{48}$$
+
+## Q2
+$${{\displaystyle\lim_{x\to0}\dfrac{e^{3x}-1}{x}=}}\lim_{x\to0}3e^{3x}=3$$
+
+## Q3
+$${{\displaystyle\lim_{x\to0}\frac{xe^{2x}-x+3x^2}{\sin^2{x}}=}}\lim_{x\to0}\frac{2xe^{2x}+e^{2x}-1+6x}{2\sin x\cos x}=\lim_{x\to0}\frac{4xe^{2x}+4e^{2x}+6}{2\left(\cos^2x-\sin^2x\right)}=\frac{10}{2}=5$$
+
+## Q4
+$$\displaylines{{{\displaystyle\lim_{x\to0}\frac{1-\cos(4x)+\sin^2(2x)}{1-\cos(3x)}=\lim_{x\to0}}}\frac{4\sin\left(4x\right)+4\sin\left(2x\right)\cos\left(2x\right)}{3\sin\left(3x\right)}\\ \\ =\lim_{x\to0}\frac{16\cos\left(4x\right)+8\left(\cos^2\left(2x\right)-\sin^2\left(2x\right)\right)}{9\cos\left(3x\right)}=\frac83}$$
+
+## Q5
+$$\displaylines{{{\displaystyle\lim_{x\to0}\frac{4^{x}-9^{x}-(\ln4-\ln9)x}{1-\cos(3x)}=\lim_{x\to0}}}\frac{4^{x}\ln4-9^{x}\ln9-\left(\ln4-\ln9\right)}{3\sin\left(3x\right)}\\ \\ =\lim_{x\to0}\frac{4^{x}\left(\ln4\right)^2-9^{x}\left(\ln9\right)^2}{9\cos\left(3x\right)}\\ \\ =\frac19\left(\left(\ln4\right)^2-\left(\ln9\right)^2\right)}$$
+
+## Q6
+$${{\displaystyle\lim_{x\to0}\frac{5^{x}-1-(\ln5)x}{x^2\ln5}=}}\lim_{x\to0}\frac{5^{x}-1}{2x}=\lim_{x\to0}\frac{5^{x}\ln5}{2}=\frac{\ln5}{2}$$
+
+## Q7
+$${\displaystyle\lim_{x\to0^{+}}\dfrac{\left(-\dfrac{1}{x}\right)}{e^{2/x}}=}\lim_{x\to0^{+}}\frac{\left(\dfrac{1}{x^2}\right)}{\left(-\dfrac{2}{x^2}\right)e^{\frac{2}{x}}}=\lim_{x\to0^{+}}-\frac{1}{2e^{\frac{2}{x}}}=\frac{1}{\infty}=0$$
+
+## Q8
+$${\displaystyle\lim_{x\to0^{+}}\dfrac{\ln(\sin{x})}{\cot{x}}=\lim_{x\to0^{+}}-\frac{\cot x}{\csc^2x}}=-\frac{\cos x}{\sin x}\cdot\sin^2x=-\cos x\sin x=0$$
+
+## Q9
+$${{\displaystyle\lim_{x\to\infty}\dfrac{\sqrt{x}+4x+3}{2x+3}=}}\lim_{x\to\infty}\frac{\left(\dfrac{1}{2\sqrt{x}}\right)+4}{2}=2$$
+
+## Q10
+$${\displaystyle\lim_{x\to\infty}\dfrac{\sqrt{x}}{\ln^2x}=\frac{\left(\dfrac{1}{2\sqrt{x}}\right)}{\left(\dfrac{2\ln x}{x}\right)}}=\lim_{x\to\infty}\frac{\sqrt{x}}{4\ln x}=\lim_{x\to\infty}\frac{\sqrt{x}}{8}=\infty$$

@@ -42,3 +42,15 @@ $$\displaylines{{\displaystyle\int_0^{\pi/2}\cos(x)\cos(4x)\,\text{d}x=}\frac12\
 
 ## Q3
 $${\displaystyle\int_0^{\pi/4}\sin(7x)\sin(3x)\,\text{d}x=}\left\lbrack\frac18\sin\left(4x\right)-\frac{1}{20}\sin\left(3x\right)\right\rbrack_0^{\frac{\pi}{4}}=-\frac{1}{20}$$
+
+# Review
+$$\displaylines{\cos\left(x-y\right)=\cos x\cos y+\sin x\sin y\\ \\ \cos\left(x+y\right)=\cos x\cos y-\sin x\sin y\\ \\ \cos\left(x-y\right)+\cos\left(x+y\right)=2\cos x\cos y\\ \\ \cos x\cos y=\frac12\left(\cos\left(x-y\right)+\cos\left(x+y\right)\right)\\ \\ \sin x\sin y=\frac12\left(\cos\left(x-y\right)-\cos\left(x+y\right)\right)\\ \\ \sin x\cos y=\frac12\left(\sin\left(x+y\right)+\sin\left(x-y\right)\right)}$$
+
+## Q1
+$$\displaylines{{\displaystyle\int\sin(13x)\sin(5x)\,\text{d}x=}\frac12\int\left(\cos\left(8x\right)-\cos\left(18x\right)\right)\differentialD x\\ \\ \dfrac{1}{16}\sin(8x)-\dfrac{1}{36}\sin(18x)+C}$$
+
+## Q2
+$$\displaylines{{\displaystyle\int_0^{\pi/2}\sin(2x)\sin(5x)\,\text{d}x=}\left\lbrack-\frac16\sin\left(-3x\right)-\frac{1}{14}\sin\left(7x\right)\right\rbrack_0^{\frac{\pi}{2}}\\ \\ -\frac16\sin\left(-\frac{3\pi}{2}\right)-\frac{1}{14}\sin\left(\frac{7\pi}{2}\right)=-\frac16+\frac{1}{14}=-\frac{2}{21}}$$
+
+## Q3
+$$\displaylines{{\displaystyle\int_{\pi/4}^{\pi}\sin(5x)\sin(3x)\,\text{d}x=}\left\lbrack\frac14\sin\left(2x\right)-\frac{1}{16}\sin\left(8x\right)\right\rbrack_{\frac{\pi}{4}}^{\pi}\\ \\ 0-\left(\frac14\sin\left(\frac{\pi}{2}\right)-\frac{1}{16}\sin\left(2\pi\right)\right)=-\frac14}$$

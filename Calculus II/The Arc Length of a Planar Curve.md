@@ -30,10 +30,10 @@ $$\displaylines{{{\displaystyle\int_0^1}}\sqrt{1+\dfrac{9}{16}e^{6x}}\,\textrm{d
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{y=\dfrac23x^{3/2},x\in[0,3].\\ \\ L=\int_0^3\sqrt{1+x}\differentialD x=\left\lbrack\frac23\sqrt{\left(1+x\right)^3}\right\rbrack_0^3=\frac{16}{3}-\frac23=\frac{14}{3}}$$
 
 ## Q2
-$$$$
+$$\displaylines{{{\displaystyle\int_0^{\pi/8}}}\sqrt{1+4\sec^4(2x)}\,\textrm{d}x.\\ \\ \left\lbrack f^{\prime}\left(x\right)\right\rbrack^2=4\sec^4(2x)\\ \\ f^{\prime}\left(x\right)=2\sec^2\left(2x\right),f\left(x\right)=\tan\left(2x\right)+C}$$
 
 ## Q3
-$$$$
+$$\displaylines{{{\displaystyle\int_0^{1/2}}}\sqrt{1+\dfrac{1}{(1-x)^2}}\,\textrm{d}x.\\ \\ f^{\prime}\left(x\right)=\frac{1}{1-x},f\left(x\right)=\ln\left(1-x\right)+C}$$
