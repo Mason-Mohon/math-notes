@@ -16,7 +16,7 @@ $${\displaystyle\int_{-1}^7(x^2-e^{x})\,\textrm{d}x=}\frac{x^3}{3}-e^{x}\,\,\Big
 $$\begin{align*} & {\displaystyle\int_0^1\left(\sqrt{x}+e^{x}\right)\textrm{d}x=\frac{2\sqrt{x^3}}{3}}\Bigg|_0^1+e^{x}\Bigg|_0^1=\left(\frac23-0\right)+\left(e-1\right)=e-\frac13\end{align*}$$
 
 ## Q5
-$$\displaylines{{\displaystyle\int_{-1}^4\left(-3y+2\right)\,\textrm{d}y=}-3\int_{-1}^4\left(y\right)\differentialD y+2\int_{-1}^4\left(1\right)\differentialD y=-\frac{3y^2}{2}\Bigg|_{-1}^4+2y\Bigg|_{-1}^4\\ \\ =\left(-\frac{48}{2}+\frac32\right)+10=-\frac{25}{2}}$$
+$$\displaylines{{\displaystyle\int_{-1}^4\left(-3y+2\right)\,\textrm{d}y=}-3\int_{-1}^4\left(y\right)\mathrm{d} y+2\int_{-1}^4\left(1\right)\mathrm{d} y=-\frac{3y^2}{2}\Bigg|_{-1}^4+2y\Bigg|_{-1}^4\\ \\ =\left(-\frac{48}{2}+\frac32\right)+10=-\frac{25}{2}}$$
 
 ## Q6
 $$\displaylines{{\displaystyle\int_{-2}^2\left(3x-5\right)\,\textrm{d}x=}\frac32x^2-5x\\ \\ =6-6-\left(10+10\right)=-20}$$

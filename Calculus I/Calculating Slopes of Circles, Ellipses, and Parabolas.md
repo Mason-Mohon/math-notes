@@ -8,7 +8,7 @@ Topics: Parabolas Ellipses
 ![](../assets/Pasted%20image%2020260907214806.png)
 ## Q1
 ![](../assets/Pasted%20image%2020260907214819.png)
-$$x^2+y^2=18,\frac{\differentialD y}{\differentialD x}=-\frac{x}{y}$$
+$$x^2+y^2=18,\frac{\mathrm{d} y}{\mathrm{d} x}=-\frac{x}{y}$$
 
 ## Q7
 $$\displaylines{y^2=4px\\ \\ 1=-12p\\ \\ p=\frac{1}{36}\\ \\ y^2=\frac19x\\ \\ 2yy^{\prime}=\frac19\\ \\ y^{\prime}=\frac{1}{18y}}$$

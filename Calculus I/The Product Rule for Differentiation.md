@@ -25,7 +25,7 @@ $$\displaylines{f(x)=\sqrt{x}\ln x\\ \\ f^{\prime}\left(x\right)=\frac{\ln x}{2\
 $$\displaylines{f(x)=3^{x}\cos(x)\\ \\ f^{\prime}\left(x\right)=3^{x}\ln3\cos\left(x\right)-3^{x}\sin x}$$
 
 ## Q8
-$$\displaylines{y=(x-1)\ln(4x-3),x=1\\ \\ \frac{\differentialD y}{\differentialD x}=\ln\left(4x-3\right)+\frac{4x-4}{4x-3}\\ \\ \ln\left(1\right)=0}$$
+$$\displaylines{y=(x-1)\ln(4x-3),x=1\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=\ln\left(4x-3\right)+\frac{4x-4}{4x-3}\\ \\ \ln\left(1\right)=0}$$
 
 ## Q9
-$$\displaylines{y=e^{x}\tan{x},x=0\\ \\ \frac{\differentialD y}{\differentialD x}=e^{x}\tan x+e^{x}\sec^2\left(x\right)=e^{x}\tan x+\frac{e^{x}}{\cos^2\left(x\right)}\\ \\ =\tan\left(0\right)+\frac{1}{\cos^2\left(0\right)}=1}$$
+$$\displaylines{y=e^{x}\tan{x},x=0\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=e^{x}\tan x+e^{x}\sec^2\left(x\right)=e^{x}\tan x+\frac{e^{x}}{\cos^2\left(x\right)}\\ \\ =\tan\left(0\right)+\frac{1}{\cos^2\left(0\right)}=1}$$

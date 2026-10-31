@@ -27,11 +27,13 @@ $$\displaylines{a_5=40,a_8=5\\ \\ r^3=\frac{5}{40}=\frac18,r=\frac12\\ \\ S_{\in
 
 # Review
 
+$$S_{\infty}=\frac{a_1}{1-r},\left|r\right|<1$$
+
 ## Q1
-$$$$
+$$\displaylines{20+19+18.05+17.1475+\cdots\\ \\ S_{\infty}=\frac{20}{\frac{1}{20}}=400\\ \\ r=\frac{19}{20}}$$
 
 ## Q2
-$$$$
+$$\displaylines{a_1=60,a_3=15\\ \\ S_{\infty}=\frac{60}{0.5}=120}$$
 
 ## Q3
-$$$$
+$$\displaylines{a_1=48,a_4=\frac34\\ \\ r^{n-m}=\frac{a_{n}}{a_{m}}\Rightarrow r^3=\frac34\cdot\frac{1}{48}=\frac{1}{64}\Rightarrow r=\frac14\\ \\ S_{\infty}=48\cdot\frac43=64}$$

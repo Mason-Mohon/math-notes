@@ -47,7 +47,7 @@ $$\displaylines{f(x)=\dfrac{x+4}{x-1},\left(f^{-1}\right)^{\prime}\left(2\right)
 $$\displaylines{f(x)=x^2\ln(x-2),\left(f^{-1}\right)^{\prime}\left(0\right)=?\\ \\ f^{\prime}\left(x\right)=2x\ln\left(x-2\right)+\frac{x^2}{x-2}\\ \\ f\left(x\right)=0=x^2\ln\left(x-2\right),\ln\left(x-2\right)=0,x-2=1,x=3\\ \\ \left(f^{-1}\right)^{\prime}\left(0\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(0\right)\right)}=\frac{1}{f^{\prime}\left(3\right)}=\frac19}$$
 
 ## Q11
-$$\displaylines{f(x)=-3+5e^{x+1},\left(f^{-1}\right)^{\prime}\left(2\right)=?\\ \\ f^{\prime}\left(x\right)=5\exponentialE^{x+1}\\ \\ f\left(x\right)=2,1=e^{x+1},x=-1\\ \\ \left(f^{-1}\right)^{\prime}\left(2\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(2\right)\right)}=\frac{1}{f^{\prime}\left(-1\right)}=\frac15}$$
+$$\displaylines{f(x)=-3+5e^{x+1},\left(f^{-1}\right)^{\prime}\left(2\right)=?\\ \\ f^{\prime}\left(x\right)=5\mathrm{e}^{x+1}\\ \\ f\left(x\right)=2,1=e^{x+1},x=-1\\ \\ \left(f^{-1}\right)^{\prime}\left(2\right)=\frac{1}{f^{\prime}\left(f^{-1}\left(2\right)\right)}=\frac{1}{f^{\prime}\left(-1\right)}=\frac15}$$
 
 
 # Review

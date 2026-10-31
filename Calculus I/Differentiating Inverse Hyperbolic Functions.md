@@ -5,7 +5,7 @@ Subject: Calculus I
 Topics: Hyperbolic Functions Trigonometry Differentiation
 ![](../assets/Pasted%20image%2020260826094037.png)
 
-$$\displaylines{\frac{d}{\differentialD x}\left(\operatorname{\mathrm{arsinh}}x\right)=\frac{1}{\sqrt{x^2+1}}\\ \\ \frac{d}{\differentialD x}\left(\operatorname{\mathrm{arcosh}}x\right)=\frac{1}{\sqrt{x^2-1}}\\ \\ \frac{d}{\differentialD x}\left(\operatorname{\mathrm{artanh}}x\right)=\frac{1}{1-x^2}}$$
+$$\displaylines{\frac{d}{\mathrm{d} x}\left(\operatorname{\mathrm{arsinh}}x\right)=\frac{1}{\sqrt{x^2+1}}\\ \\ \frac{d}{\mathrm{d} x}\left(\operatorname{\mathrm{arcosh}}x\right)=\frac{1}{\sqrt{x^2-1}}\\ \\ \frac{d}{\mathrm{d} x}\left(\operatorname{\mathrm{artanh}}x\right)=\frac{1}{1-x^2}}$$
 
 ## Q1
 $$\displaylines{y=\arsinh(2x+1)\\ \\ y^{\prime}=\frac{2}{\sqrt{\left(2x+1\right)^2+1}}=\frac{2}{\sqrt{\left(4x^2+4x+1\right)+1}}=\frac{2}{\sqrt2\cdot\sqrt{2x^2+2x+1}}\\ \\ =\frac{\sqrt2}{\sqrt{2x^2+2x+1}}}$$

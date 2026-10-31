@@ -28,8 +28,8 @@ $$\displaylines{y=8x^2-5,\left(1,3\right)\text{ y axis intersection}\\ \\ y^{\pr
 # Review
 
 ## Q1
-$$\displaylines{y=2x^2+x,\left(1,3\right)\\ \\ \frac{\differentialD y}{\differentialD x}=4x+1\\ \\ m=5\\ \\ y-3=5x-5}$$
+$$\displaylines{y=2x^2+x,\left(1,3\right)\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=4x+1\\ \\ m=5\\ \\ y-3=5x-5}$$
 ## Q2
-$$\displaylines{y=2x^2+8x,\left(2,24\right)\\ \\ \frac{\differentialD y}{\differentialD x}=4x+8\\ \\ m=16\\ \\ y=16x-32+24=16x-8}$$
+$$\displaylines{y=2x^2+8x,\left(2,24\right)\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=4x+8\\ \\ m=16\\ \\ y=16x-32+24=16x-8}$$
 ## Q3
-$$\displaylines{y=x^5+2,\left(-1,1\right),\text{x axis intersection}\\ \\ \frac{\differentialD y}{\differentialD x}=5x^4\\ \\ m=5\\ \\ y=5x+6\\ \\ x=-\frac65}$$
+$$\displaylines{y=x^5+2,\left(-1,1\right),\text{x axis intersection}\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=5x^4\\ \\ m=5\\ \\ y=5x+6\\ \\ x=-\frac65}$$

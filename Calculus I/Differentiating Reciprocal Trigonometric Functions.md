@@ -19,7 +19,7 @@ $$\displaylines{g(x)=3\tan(x)-\cot(x),g^{\prime}\left(\frac{\pi}{4}\right)=?\\ \
 $$\displaylines{f(x)=\dfrac{\cot x}{x^2}\\ \\ f^{\prime}\left(x\right)=\frac{\left(-\csc^2x\right)\left(x^2\right)-2x\cot x}{x^4}\\ \\ =\dfrac{-x\csc^2x-2\cot x}{x^3}}$$
 ![](../assets/Pasted%20image%2020260722171012.png)
 ## Q8
-$$\displaylines{y=x^3\sec x\\ \\ \frac{\differentialD y}{\differentialD x}=3x^2\sec x+x^3\left(\sec x\tan x\right)\\ \\ =x^2\sec x\left(3+x^{}\tan x\right)}$$
+$$\displaylines{y=x^3\sec x\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=3x^2\sec x+x^3\left(\sec x\tan x\right)\\ \\ =x^2\sec x\left(3+x^{}\tan x\right)}$$
 ## Q9
 $$\displaylines{f(x)=\csc x\sec x.\\ \\ f^{\prime}\left(x\right)=-\csc x\cot x\sec x+\csc x\tan x\sec x\\ \\ =\csc x\sec x\left(\tan x-\cot x\right)}$$
 ## Q10

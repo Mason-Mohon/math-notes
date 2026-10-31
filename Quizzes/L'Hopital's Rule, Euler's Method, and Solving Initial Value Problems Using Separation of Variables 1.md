@@ -19,7 +19,7 @@ $$$$
 $$\lim\limits_{x \to 0} \dfrac{y(x)-1}{\tan x} =$$
 
 ## Q6
-$$\displaylines{\frac{\differentialD y}{\differentialD x}=\frac{x}{y}\\ \\ y^2=x^2+C}$$
+$$\displaylines{\frac{\mathrm{d} y}{\mathrm{d} x}=\frac{x}{y}\\ \\ y^2=x^2+C}$$
 
 
 ## Q1

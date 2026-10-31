@@ -107,3 +107,14 @@ $$\displaylines{f(x)=e^{x}-x^2-2,x_0=1.4\\ \\ f^{\prime}\left(x\right)=e^{x}-2x\
 
 ## Q3
 $$\displaylines{f(x)=3e^{x}-x^2+5x-2,x_0=0.6\\ \\ f^{\prime}\left(x\right)=3e^{x}-2x+5\\ \\ x_{n}=x-\frac{3e^{x}-x^2+5x-2}{3e^{x}-2x+5}\\ \\ x_1=-0.059,x_2=-0.126}$$
+
+# Review
+
+## Q1
+$$\displaylines{f(x)=x^3-x-1,x\in\left\lbrack1,2\right\rbrack,x_0=1\\ \\ f^{\prime}\left(x\right)=3x^2-1\\ \\ x_{n}=x-\frac{x^3-x-1}{3x^2-1}\\ \\ x_2=1.348}$$
+
+## Q2
+$$\displaylines{f(x)=\ln(x^2+1)-2x+1,x\in\left\lbrack0,1\right\rbrack,x_0=0.5\\ \\ f^{\prime}\left(x\right)=\frac{2x}{x^2+1}-2\\ \\ x_{n}=x-\frac{\ln(x^2+1)-2x+1}{\frac{2x}{x^2+1}-2}\\ \\ x_1=0.686}$$
+
+## Q3
+$$\displaylines{f(x)=x^4-8x-3,x_0=2,x\in\left\lbrack1,3\right\rbrack\\ \\ f^{\prime}\left(x\right)=4x^3-8\\ \\ x_{n}=x-\frac{x^4-8x-3}{4x^3-8}\\ \\ x=2.11}$$

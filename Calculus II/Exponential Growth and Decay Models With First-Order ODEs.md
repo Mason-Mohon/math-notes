@@ -4,7 +4,7 @@ Math Academy
 Subject: Calculus II
 Topics: ODEs Differentiation
 
-$$\displaylines{\frac{dP}{\differentialD t}=rP,P=P\left(t\right),r>0\text{ is a constant of proportionality}\\ \\ P\left(t\right)=P_0e^{rt},P_0=P\left(0\right)\text{ is the general solution}}$$
+$$\displaylines{\frac{dP}{\mathrm{d} t}=rP,P=P\left(t\right),r>0\text{ is a constant of proportionality}\\ \\ P\left(t\right)=P_0e^{rt},P_0=P\left(0\right)\text{ is the general solution}}$$
 
 **exponential growth differential equation** or **exponential growth model.**
 ## Q1
@@ -29,7 +29,7 @@ $$\displaylines{6000=10000e^{-5k}\\ \\ k=\frac{\ln\left(\frac35\right)}{5}}$$
 
 
 # Review
-$$\displaylines{\frac{dP}{\differentialD t}=rP,P=P\left(t\right),r>0\\ \\ P\left(t\right)=P_0e^{rt},P_0=P\left(0\right)}$$
+$$\displaylines{\frac{dP}{\mathrm{d} t}=rP,P=P\left(t\right),r>0\\ \\ P\left(t\right)=P_0e^{rt},P_0=P\left(0\right)}$$
 
 ## Q1
 $$\displaylines{\dfrac{\textrm{d} L}{\textrm{d} t}=-0.5L,t=8,L_0=32000\\ \\ L\left(8\right)=32000\cdot e^{-4}=586}$$

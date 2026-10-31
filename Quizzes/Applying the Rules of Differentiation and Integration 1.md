@@ -12,7 +12,7 @@ h(x)=-4\sin{x}$$
 $$\displaylines{p(x)=\begin{cases}k+10, & \quad x\leq3,\\[3 pt] g(x), & \quad x\gt3.\end{cases}\\ \\ g\left(3\right)=24-18=k+10\\ \\ -4=k}$$
 
 ## Q2
-$$\frac{dh}{\differentialD x}=-4\cos x$$
+$$\frac{dh}{\mathrm{d} x}=-4\cos x$$
 
 ## Q3
 $$\displaylines{g(x)=8x-\dfrac23x^3\\ \\ g^{\prime}\left(x\right)=8-2x^2\\ \\ g^{\doubleprime}\left(x\right)=-4x}$$

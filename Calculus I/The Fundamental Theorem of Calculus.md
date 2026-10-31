@@ -6,7 +6,7 @@ $$\displaylines{f\left(x\right)=x^2\\ \\ \int_1^2x^2dx}$$
 
 ## The Theorem:
 
-$$\int_{a}^{b}f\left(x\right)\differentialD x=F\left(b\right)-F\left(a\right)$$
+$$\int_{a}^{b}f\left(x\right)\mathrm{d} x=F\left(b\right)-F\left(a\right)$$
 
 ![](../assets/Pasted%20image%2020260801131414.png)
 

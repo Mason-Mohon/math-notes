@@ -5,38 +5,38 @@ Subject: Calculus II
 Topics: Integrals Trigonometry Inverse Functions Inverse Trigonometric Functions
 ![](../assets/Pasted%20image%2020260912205427.png)
 ## Q1
-$$\displaylines{{\displaystyle\int\dfrac{1}{\sqrt{1-4x^2}}\,\textrm{d}x=}\dfrac{\arcsin\left(2x\right)}{2}+C\\ \\ u=2x,\differentialD x=\frac12du\\ \\ \int_{}^{}\frac{1}{\sqrt{1-u^2}}\cdot\left(\frac12du\right)}$$
+$$\displaylines{{\displaystyle\int\dfrac{1}{\sqrt{1-4x^2}}\,\textrm{d}x=}\dfrac{\arcsin\left(2x\right)}{2}+C\\ \\ u=2x,\mathrm{d} x=\frac12du\\ \\ \int_{}^{}\frac{1}{\sqrt{1-u^2}}\cdot\left(\frac12du\right)}$$
 
 ## Q2
-$$\displaylines{{\displaystyle\int\dfrac{8}{\sqrt{1-3x^2}}\,\textrm{d}x}\\ \\ u=\sqrt3x,\frac{du}{\differentialD x}=\sqrt3,\differentialD x=\frac{du}{\sqrt3}\\ \\ 8\int_{}^{}\frac{1}{\sqrt{1-u^2}}\cdot\left(\frac{1}{\sqrt3}du\right)=\dfrac{8\sqrt3}{3}\arcsin\left(\sqrt3x\right)+C}$$
+$$\displaylines{{\displaystyle\int\dfrac{8}{\sqrt{1-3x^2}}\,\textrm{d}x}\\ \\ u=\sqrt3x,\frac{du}{\mathrm{d} x}=\sqrt3,\mathrm{d} x=\frac{du}{\sqrt3}\\ \\ 8\int_{}^{}\frac{1}{\sqrt{1-u^2}}\cdot\left(\frac{1}{\sqrt3}du\right)=\dfrac{8\sqrt3}{3}\arcsin\left(\sqrt3x\right)+C}$$
 
 ![](../assets/Pasted%20image%2020260912210505.png)
 ## Q3
 $$\displaylines{{\displaystyle\int\dfrac{1}{1+6x^2}\,\textrm{d}x,u=\sqrt6}x\\ \\ =\dfrac{\sqrt6}{6}\arctan(\sqrt6x)+C}$$
 
 ## Q4
-$$\displaylines{{\displaystyle\int\dfrac{4}{1+2x^2}\,\textrm{d}x=4\int_{}^{}\frac{1}{1+\left(x\sqrt2\right)^2}\differentialD x=}4\frac{1}{1+u^2}\differentialD x\\ }$$
+$$\displaylines{{\displaystyle\int\dfrac{4}{1+2x^2}\,\textrm{d}x=4\int_{}^{}\frac{1}{1+\left(x\sqrt2\right)^2}\mathrm{d} x=}4\frac{1}{1+u^2}\mathrm{d} x\\ }$$
 ![](../assets/Pasted%20image%2020260912211845.png)
 ## Q5
-$$\displaylines{{{\displaystyle\int\dfrac{3\,\textrm{d}x}{|9x|\sqrt{(9x)^2-1}},u=9x,\differentialD x=\frac19du}}\\ \\ =\dfrac{\textrm{arcsec}(9x)}{3}+C}$$
+$$\displaylines{{{\displaystyle\int\dfrac{3\,\textrm{d}x}{|9x|\sqrt{(9x)^2-1}},u=9x,\mathrm{d} x=\frac19du}}\\ \\ =\dfrac{\textrm{arcsec}(9x)}{3}+C}$$
 
 ## Q6
-$$\displaylines{{\displaystyle\int\dfrac{7}{|x|\sqrt{7x^2-1}}\,\textrm{d}x=}{\displaystyle\int\dfrac{7\sqrt7}{|\sqrt7x|\sqrt{7x^2-1}}\,\textrm{d}x,u=\sqrt7x,\frac{du}{\differentialD x}=\sqrt7}\\ \\ 7\sqrt7\int_{}^{}\frac{1}{\left|u\right|\sqrt{u^2-1}}\cdot\left(\frac{1}{\sqrt7}du\right)=7\,\textrm{arcsec}{(\sqrt7x)}+C}$$
+$$\displaylines{{\displaystyle\int\dfrac{7}{|x|\sqrt{7x^2-1}}\,\textrm{d}x=}{\displaystyle\int\dfrac{7\sqrt7}{|\sqrt7x|\sqrt{7x^2-1}}\,\textrm{d}x,u=\sqrt7x,\frac{du}{\mathrm{d} x}=\sqrt7}\\ \\ 7\sqrt7\int_{}^{}\frac{1}{\left|u\right|\sqrt{u^2-1}}\cdot\left(\frac{1}{\sqrt7}du\right)=7\,\textrm{arcsec}{(\sqrt7x)}+C}$$
 
 ## Q7
-$$\displaylines{{\displaystyle\int_0^5\dfrac{6}{\sqrt{100-x^2}}\,\textrm{d}x=}{\displaystyle{\displaystyle\frac35\int_0^5\dfrac{1}{\sqrt{1-\left(\frac{x}{10}\right)^2}}\,\textrm{d}x,\frac{du}{\differentialD x}=\frac{1}{10},\differentialD x=10du}}\\ \\ 6\cdot\left\lbrack\operatorname{\arcsin}\left(\frac{x}{10}\right)\right\rbrack_0^5\\ \\ 6\cdot\left(\frac{\pi}{6}\right)=\pi}$$
+$$\displaylines{{\displaystyle\int_0^5\dfrac{6}{\sqrt{100-x^2}}\,\textrm{d}x=}{\displaystyle{\displaystyle\frac35\int_0^5\dfrac{1}{\sqrt{1-\left(\frac{x}{10}\right)^2}}\,\textrm{d}x,\frac{du}{\mathrm{d} x}=\frac{1}{10},\mathrm{d} x=10du}}\\ \\ 6\cdot\left\lbrack\operatorname{\arcsin}\left(\frac{x}{10}\right)\right\rbrack_0^5\\ \\ 6\cdot\left(\frac{\pi}{6}\right)=\pi}$$
 
 ## Q8
-$$\displaylines{{\displaystyle{\int_0^{1/5}\dfrac{20}{3+75x^2}\,\textrm{d}x}=\frac{20}{3}\int_0^{\frac15}\frac{1}{1+\left(5x\right)^2}\differentialD x,u=5x,\differentialD x=\frac15du}\\ \\ \frac43\left\lbrack\arctan\left(u\right)\right\rbrack_0^1=\frac43\left(\frac{\pi}{4}-0\right)=\frac{\pi}{3}}$$
+$$\displaylines{{\displaystyle{\int_0^{1/5}\dfrac{20}{3+75x^2}\,\textrm{d}x}=\frac{20}{3}\int_0^{\frac15}\frac{1}{1+\left(5x\right)^2}\mathrm{d} x,u=5x,\mathrm{d} x=\frac15du}\\ \\ \frac43\left\lbrack\arctan\left(u\right)\right\rbrack_0^1=\frac43\left(\frac{\pi}{4}-0\right)=\frac{\pi}{3}}$$
 
 # Review
 
 ## Q1
-$$\displaylines{\int\frac{1}{4\left|x\right|\sqrt{16x^2-1}}\differentialD x,u=4x,\frac{du}{\differentialD x}=4,\differentialD x=\frac14du\\ \\ \frac14\int_{}^{}\frac{1}{\left|u\right|\sqrt{u^2-1}}du=\dfrac{\textrm{arcsec}\left(4x\right)}{4}+C}$$
+$$\displaylines{\int\frac{1}{4\left|x\right|\sqrt{16x^2-1}}\mathrm{d} x,u=4x,\frac{du}{\mathrm{d} x}=4,\mathrm{d} x=\frac14du\\ \\ \frac14\int_{}^{}\frac{1}{\left|u\right|\sqrt{u^2-1}}du=\dfrac{\textrm{arcsec}\left(4x\right)}{4}+C}$$
 
 
 ## Q2
-$$\displaylines{{\displaystyle\int_0^1\dfrac{1}{1+4x^2}\,\textrm{d}x\,,u=2x,\differentialD x=\frac12du}\\ \\ \frac12\int_0^2\frac{1}{1+u^2}du=\frac12\arctan\left(2\right)}$$
+$$\displaylines{{\displaystyle\int_0^1\dfrac{1}{1+4x^2}\,\textrm{d}x\,,u=2x,\mathrm{d} x=\frac12du}\\ \\ \frac12\int_0^2\frac{1}{1+u^2}du=\frac12\arctan\left(2\right)}$$
 
 ## Q3
 $$\displaylines{{\displaystyle\int\dfrac{3}{36+x^2}\,\textrm{d}x=}{\displaystyle\frac{1}{12}\int\dfrac{1}{1+\left(\frac{x}{6}^{}\right)^2}\,\textrm{d}x,u=\frac{x}{6}},dx=6du\\ \\ \frac12\int_{}^{}\frac{1}{1+u^2}du=\dfrac12\arctan\left(\dfrac{x}{6}\right)+C}$$
@@ -50,4 +50,4 @@ $${\displaystyle\int\dfrac{1}{9+x^2}\,\textrm{d}x=}\dfrac13\arctan\left(\dfrac{x
 $${{\displaystyle\int\dfrac{8\,\textrm{d}x}{|8x|\sqrt{(8x)^2-1}}=}}\textrm{arcsec}(8x)+C$$
 
 ## Q3
-$$\displaylines{{{\displaystyle\int\dfrac{8}{|x|\sqrt{8x^2-1}}\,\textrm{d}x=8\sqrt8\int\frac{1}{\left|\sqrt8x\right|\sqrt{\left(\sqrt8x\right)^2-1}}\differentialD x}},u=\sqrt8x,\frac{du}{\differentialD x}=\sqrt8\\ \\ \differentialD x=\frac{1}{\sqrt8}du\\ \\ 8\,\textrm{arcsec}{(\sqrt8x)}+C}$$
+$$\displaylines{{{\displaystyle\int\dfrac{8}{|x|\sqrt{8x^2-1}}\,\textrm{d}x=8\sqrt8\int\frac{1}{\left|\sqrt8x\right|\sqrt{\left(\sqrt8x\right)^2-1}}\mathrm{d} x}},u=\sqrt8x,\frac{du}{\mathrm{d} x}=\sqrt8\\ \\ \mathrm{d} x=\frac{1}{\sqrt8}du\\ \\ 8\,\textrm{arcsec}{(\sqrt8x)}+C}$$

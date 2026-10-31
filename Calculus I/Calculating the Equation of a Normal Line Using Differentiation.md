@@ -33,22 +33,22 @@ $$\displaylines{f(x)=3x^2-4x+1,\left(2,5\right)\\ \\ f^{\prime}\left(x\right)=6x
 $$\displaylines{f(x)=2\sqrt{x}-2x,\left(1,0\right)\\ \\ f^{\prime}\left(x\right)=\frac{1}{\sqrt{x}}-2\\ \\ m=-1,m^{\prime}=1\\ \\ y=x-1}$$
 
 ## Q2
-$$\displaylines{y=\dfrac{4}{\sqrt{x}},\left(1,4\right),x+py=q,q-p=?\\ \\ \frac{\differentialD y}{\differentialD x}=-\frac{2}{\sqrt{x^3}}\\ \\ m=-2,m^{\prime}=\frac12\\ \\ y-4=\frac12\left(x-1\right)\\ \\ 2y-8=x-1\\ \\ x-2y=-7\\ \\ q-p=-5}$$
+$$\displaylines{y=\dfrac{4}{\sqrt{x}},\left(1,4\right),x+py=q,q-p=?\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=-\frac{2}{\sqrt{x^3}}\\ \\ m=-2,m^{\prime}=\frac12\\ \\ y-4=\frac12\left(x-1\right)\\ \\ 2y-8=x-1\\ \\ x-2y=-7\\ \\ q-p=-5}$$
 
 ## Q3
-$$\displaylines{y=\sqrt{x}-x^2,\left(1,0\right),p-q=?\\ \\ \frac{\differentialD y}{\differentialD x}=\frac{1}{2\sqrt{x}}-2x\\ \\ m=-\frac32,m^{\prime}=\frac23\\ \\ y-0=\frac23\left(x-1\right)\\ \\ x-\frac32y=1\\ \\ 1+\frac32=\frac52}$$
+$$\displaylines{y=\sqrt{x}-x^2,\left(1,0\right),p-q=?\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=\frac{1}{2\sqrt{x}}-2x\\ \\ m=-\frac32,m^{\prime}=\frac23\\ \\ y-0=\frac23\left(x-1\right)\\ \\ x-\frac32y=1\\ \\ 1+\frac32=\frac52}$$
 
 # Review
 
 ## Q1
-$$\displaylines{y=x^2+3x,\left(-2,-2\right)\\ \\ \frac{\differentialD y}{\differentialD x}=2x+3\\ \\ m^{\prime}=1\\ \\ y+2=x+2\\ \\ y=x\\ \\ }$$
+$$\displaylines{y=x^2+3x,\left(-2,-2\right)\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=2x+3\\ \\ m^{\prime}=1\\ \\ y+2=x+2\\ \\ y=x\\ \\ }$$
 
 
 ## Q2
-$$\displaylines{y=\dfrac{1}{x}+3,\left(1,4\right)\\ \\ \frac{\differentialD y}{\differentialD x}=-\frac{1}{x^2}\\ \\ m=-1,m^{\prime}=1\\ \\ y-4=x-1\\ \\ y=x+3}$$
+$$\displaylines{y=\dfrac{1}{x}+3,\left(1,4\right)\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=-\frac{1}{x^2}\\ \\ m=-1,m^{\prime}=1\\ \\ y-4=x-1\\ \\ y=x+3}$$
 
 ## Q3
-$$\displaylines{y=\dfrac18x^6-\dfrac74x^3,\left(2,-6\right)\\ \\ \frac{\differentialD y}{\differentialD x}=\frac34x^5-\frac{21}{4}x^2\\ \\ m=24-21=3,m^{\prime}=-\frac13\\ \\ y+6=-\frac13\left(x-2\right)\\ \\ -3y-18=x-2\\ \\ -16=x+3y}$$
+$$\displaylines{y=\dfrac18x^6-\dfrac74x^3,\left(2,-6\right)\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=\frac34x^5-\frac{21}{4}x^2\\ \\ m=24-21=3,m^{\prime}=-\frac13\\ \\ y+6=-\frac13\left(x-2\right)\\ \\ -3y-18=x-2\\ \\ -16=x+3y}$$
 
 # Review
 

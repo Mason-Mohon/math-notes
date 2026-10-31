@@ -5,7 +5,7 @@ Math Academy Calculus I Trigonometry Differentiation [Derivatives](Derivatives.m
 
 ![](../assets/Pasted%20image%2020260730124423.png)
 
-$$\displaylines{\frac{d}{\differentialD x}\left(\arcsin x\right)=\frac{1}{\sqrt{1-x^2}}\\ \\ \frac{d}{\differentialD x}\left(\arccos x\right)=-\frac{1}{\sqrt{1-x^2}}\\ \\ \frac{d}{\differentialD x}\left(\arctan x\right)=\frac{1}{1+x^2}}$$
+$$\displaylines{\frac{d}{\mathrm{d} x}\left(\arcsin x\right)=\frac{1}{\sqrt{1-x^2}}\\ \\ \frac{d}{\mathrm{d} x}\left(\arccos x\right)=-\frac{1}{\sqrt{1-x^2}}\\ \\ \frac{d}{\mathrm{d} x}\left(\arctan x\right)=\frac{1}{1+x^2}}$$
 
 
 ## Q1

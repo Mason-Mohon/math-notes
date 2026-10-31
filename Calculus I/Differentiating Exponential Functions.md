@@ -2,7 +2,7 @@ Calculus I Math Academy Differentiation
 
 ![](../assets/Pasted%20image%2020260715163503.png)
 
-$$\frac{d}{\differentialD x}\left(e^{x}\right)=e^{x}$$
+$$\frac{d}{\mathrm{d} x}\left(e^{x}\right)=e^{x}$$
 
 
 ![](../assets/Pasted%20image%2020260715163630.png)

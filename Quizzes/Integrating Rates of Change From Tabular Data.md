@@ -12,6 +12,6 @@ $$q^{\prime}\left(t\right)\approx\frac{120-59}{1}=61$$
 $$\displaystyle\int_0^4 q(t) \, \textrm{d}t \approx\frac12\cdot\left\lbrack q\left(0\right)+2\left(q\left(2\right)\right)+q\left(4\right)\right\rbrack\cdot2=0+240+108=348$$
 
 ## Q4
-$$\displaylines{\frac{1}{b-a}\int_{a}^{b}q\left(t\right)\differentialD t\\ \\ \frac{348}{4}=87}$$
+$$\displaylines{\frac{1}{b-a}\int_{a}^{b}q\left(t\right)\mathrm{d} t\\ \\ \frac{348}{4}=87}$$
 
-$$\displaylines{F(t)=250+\int_0^{t}(8x-24)\,\textrm{d}x,\\ \\ N(t)=60+\int_0^{t}(48-3x^2)\,\textrm{d}x\\ \\ \\ N\left(4\right)=60+\int_0^4\left(48-3x^2\right)\differentialD x=60+48\left(4\right)-\left(4\right)^3}$$
+$$\displaylines{F(t)=250+\int_0^{t}(8x-24)\,\textrm{d}x,\\ \\ N(t)=60+\int_0^{t}(48-3x^2)\,\textrm{d}x\\ \\ \\ N\left(4\right)=60+\int_0^4\left(48-3x^2\right)\mathrm{d} x=60+48\left(4\right)-\left(4\right)^3}$$

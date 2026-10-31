@@ -6,7 +6,7 @@ Topics: Differentiation Parametric Equations
 
 Use the chain role to differentiate them.
 
-$$\displaylines{\frac{\differentialD y}{\differentialD x}=\frac{\differentialD y}{\differentialD t}\cdot\frac{\differentialD t}{\differentialD x}\\ \\ x=t^3-3t,y=3t^2-9\\ \\ x^{\prime}\left(t\right)=3t^2-3,y^{\prime}\left(t\right)=6t\\ \\ \frac{\differentialD y}{\differentialD x}=\frac{6t}{3t^2-3}=\frac{2t}{t^2-1}}$$
+$$\displaylines{\frac{\mathrm{d} y}{\mathrm{d} x}=\frac{\mathrm{d} y}{\mathrm{d} t}\cdot\frac{\mathrm{d} t}{\mathrm{d} x}\\ \\ x=t^3-3t,y=3t^2-9\\ \\ x^{\prime}\left(t\right)=3t^2-3,y^{\prime}\left(t\right)=6t\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=\frac{6t}{3t^2-3}=\frac{2t}{t^2-1}}$$
 
 
 ## Q1

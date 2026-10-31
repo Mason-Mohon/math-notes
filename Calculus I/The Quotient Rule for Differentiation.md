@@ -21,11 +21,11 @@ $$\displaylines{f(x)=\dfrac{\ln{x}}{x}\\ \\ f^{\prime}\left(x\right)=\frac{\frac
 $$\displaylines{f(x)=\dfrac{x}{\cos x}\\ \\ f^{\prime}\left(x\right)=\dfrac{\cos x+x\sin x}{\cos^2x}}$$
 
 ## Q5
-$$\displaylines{y=\dfrac{2e^{x}}{x+1},x=1,m=?\\ \\ \frac{\differentialD y}{\differentialD x}=\frac{2e^{x}\left(x+1\right)-2e^{x}}{\left(x+1\right)^2}\\ \\ m=\frac{4e^{}-2e}{4}=\frac{e}{2}}$$
+$$\displaylines{y=\dfrac{2e^{x}}{x+1},x=1,m=?\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=\frac{2e^{x}\left(x+1\right)-2e^{x}}{\left(x+1\right)^2}\\ \\ m=\frac{4e^{}-2e}{4}=\frac{e}{2}}$$
 ![](../assets/Pasted%20image%2020260720150737.png)
 
 ## Q6
-$$\displaylines{y=\dfrac{x}{3\ln x-2}\\ \\ \frac{\differentialD y}{\differentialD x}=\dfrac{3\ln x-5}{(3\ln x-2)^2}}$$
+$$\displaylines{y=\dfrac{x}{3\ln x-2}\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=\dfrac{3\ln x-5}{(3\ln x-2)^2}}$$
 
 ## Q7
-$$\displaylines{y=\dfrac{x}{\sin x}\\ \\ \frac{\differentialD y}{\differentialD x}=\frac{\sin x-x\cos x}{\sin^2x}}$$
+$$\displaylines{y=\dfrac{x}{\sin x}\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=\frac{\sin x-x\cos x}{\sin^2x}}$$

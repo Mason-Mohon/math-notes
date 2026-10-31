@@ -33,7 +33,7 @@ $$\displaylines{s(t)=6t^2-2t^3,\quad t\geq0.\\ \\ v\left(t\right)=12t-6t^2\\ \\ 
 # Review
 
 ## Q1
-$$\displaylines{s\left(t\right)=\left(3t-4\right)\exponentialE^{t}\\ \\ v\left(t\right)=3\exponentialE^{t}+\left(3t-4\right)\exponentialE^{t}=0\\ \\ 3e^{t}=-\left(3t-4\right)e^{t},3=4-3t,t=\frac13}$$
+$$\displaylines{s\left(t\right)=\left(3t-4\right)\mathrm{e}^{t}\\ \\ v\left(t\right)=3\mathrm{e}^{t}+\left(3t-4\right)\mathrm{e}^{t}=0\\ \\ 3e^{t}=-\left(3t-4\right)e^{t},3=4-3t,t=\frac13}$$
 
 ## Q2
 $$\displaylines{s(t)=t^3\ln{t}\\ \\ v\left(t\right)=3t^2\ln t+t^2=0\\ \\ t=\frac{1}{e^3}}$$

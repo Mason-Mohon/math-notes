@@ -6,7 +6,7 @@ Math Academy Calculus I Differentiation
 
 ## Q4
 ![](../assets/Pasted%20image%2020260721150050.png)
-$$\frac{\differentialD}{\differentialD x}\left(\frac{f\left(x\right)}{g\left(x\right)}\right)_{x=0}=\frac{\pi^2-0}{\pi^2}$$
+$$\frac{\mathrm{d}}{\mathrm{d} x}\left(\frac{f\left(x\right)}{g\left(x\right)}\right)_{x=0}=\frac{\pi^2-0}{\pi^2}$$
 
 
 ![](../assets/Pasted%20image%2020260721150314.png)
@@ -22,6 +22,6 @@ $$\displaylines{p(-3)=4,\quad p^{\prime}(-3)=-2,\quad q(-3)=-3,\quad q^{\prime}(
 
 ## Q8
 ![](../assets/Pasted%20image%2020260721151404.png)
-$$\displaylines{\left(1-h\left(t\right)\right)\cdot\left(\frac{1}{z\left(t\right)}\right)=u\cdot v\\ \\ \frac{\differentialD u}{\differentialD x}=-h^{\prime}\left(t\right)\\ \\ \frac{\differentialD v}{\differentialD x}=-\frac{1}{z^{\prime}\left(t\right)^2}\\ \\ =\frac{-h^{\prime}\left(t\right)}{z\left(t\right)}+\frac{1-h\left(t\right)}{z^{\prime}\left(t\right)}\\ \\ f\left(2\right)=\frac38-\frac{1-5}{16}=\frac38+\frac28}$$
+$$\displaylines{\left(1-h\left(t\right)\right)\cdot\left(\frac{1}{z\left(t\right)}\right)=u\cdot v\\ \\ \frac{\mathrm{d} u}{\mathrm{d} x}=-h^{\prime}\left(t\right)\\ \\ \frac{\mathrm{d} v}{\mathrm{d} x}=-\frac{1}{z^{\prime}\left(t\right)^2}\\ \\ =\frac{-h^{\prime}\left(t\right)}{z\left(t\right)}+\frac{1-h\left(t\right)}{z^{\prime}\left(t\right)}\\ \\ f\left(2\right)=\frac38-\frac{1-5}{16}=\frac38+\frac28}$$
 
 Should have used the quotient rule there lol

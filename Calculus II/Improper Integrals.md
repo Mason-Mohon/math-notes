@@ -5,48 +5,48 @@ Subject: Calculus II
 Topics: Integrals
 
 An **improper integral** is an integral where at least one limit of integration is unbounded.
-$$\int_2^{\infty}\frac{1}{x^2}\differentialD x$$
+$$\int_2^{\infty}\frac{1}{x^2}\mathrm{d} x$$
 
 ![](../assets/Pasted%20image%2020260914093320.png)
 
 ## Q1
-$$\displaylines{{\displaystyle\int_2^{\infty}\dfrac{12}{y^4}\,\textrm{d}y=}\lim_{a\to\infty}\int_2^{a}\frac{12}{y^4}\differentialD y\\ \\ =12\lim_{a\to\infty}\left\lbrack-\frac13y^{-3}\right\rbrack_2^{a}\\ \\ =-4\lim_{a\to\infty}\left(\frac{1}{a^3}-\frac{1}{2^3}\right)=0+\frac12}$$
+$$\displaylines{{\displaystyle\int_2^{\infty}\dfrac{12}{y^4}\,\textrm{d}y=}\lim_{a\to\infty}\int_2^{a}\frac{12}{y^4}\mathrm{d} y\\ \\ =12\lim_{a\to\infty}\left\lbrack-\frac13y^{-3}\right\rbrack_2^{a}\\ \\ =-4\lim_{a\to\infty}\left(\frac{1}{a^3}-\frac{1}{2^3}\right)=0+\frac12}$$
 
 ## Q2
-$$\displaylines{{\displaystyle\int_2^{\infty}\dfrac{1}{4\sqrt{t^3}}\,\textrm{d}t=}\frac14\lim_{a\to\infty}\int_2^{a}\left(t^{-\frac32}\right)\differentialD t\\ \\ =\frac14\lim_{a\to\infty}\left\lbrack-2\cdot\frac{1}{\sqrt{t}}\right\rbrack_2^{a}\\ \\ =-\frac12\lim_{a\to\infty}\left(\frac{1}{\sqrt{a}}-\frac{1}{\sqrt2}\right)=\frac{1}{2\sqrt2}=\frac{\sqrt2}{4}}$$
+$$\displaylines{{\displaystyle\int_2^{\infty}\dfrac{1}{4\sqrt{t^3}}\,\textrm{d}t=}\frac14\lim_{a\to\infty}\int_2^{a}\left(t^{-\frac32}\right)\mathrm{d} t\\ \\ =\frac14\lim_{a\to\infty}\left\lbrack-2\cdot\frac{1}{\sqrt{t}}\right\rbrack_2^{a}\\ \\ =-\frac12\lim_{a\to\infty}\left(\frac{1}{\sqrt{a}}-\frac{1}{\sqrt2}\right)=\frac{1}{2\sqrt2}=\frac{\sqrt2}{4}}$$
 
 ## Q3
 $$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{2}{\sqrt{(x+3)^8}}\,\textrm{d}x,u=x+3},\\ \\ 2\lim_{a\to\infty}\int_3^{a}\left(u^{-4}\right)du=-\frac23\lim_{a\to\infty}\left\lbrack\frac{1}{u^3}\right\rbrack_3^{a}=-\frac23\cdot-\frac{1}{27}=\frac{2}{81}}$$
 
 ## Q4
-$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{5}{(3y+2)^4}\,\textrm{d}y,}u=3y+2,du=3\differentialD y\\ \\ \frac53\lim_{a\to\infty}\int_2^{a}u^{-4}du=-\frac59\lim_{a\to\infty}\left\lbrack\frac{1}{u^3}\right\rbrack_2^{a}=\frac{5}{72}}$$
+$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{5}{(3y+2)^4}\,\textrm{d}y,}u=3y+2,du=3\mathrm{d} y\\ \\ \frac53\lim_{a\to\infty}\int_2^{a}u^{-4}du=-\frac59\lim_{a\to\infty}\left\lbrack\frac{1}{u^3}\right\rbrack_2^{a}=\frac{5}{72}}$$
 
 ## Q5
 $$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{2}{(5\theta+1)^3}\,\textrm{d}\theta,u}=5\theta+1,du=5d\theta\\ \\ \frac25\lim_{a\to\infty}\int_1^{a}u^{-3}du=-\frac15\lim_{a\to\infty}\left\lbrack\frac{1}{u^2}\right\rbrack_1^{a}=\frac15}$$
 
 ## Q6
-$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{6}{\sqrt{(4t+3)^3}}\,\textrm{d}t,}u=4t+3,\differentialD t=\frac14du\\ \\ \frac32\lim_{a\to\infty}\int_3^{a}u^{-\frac32}du=-3\lim_{a\to\infty}\left\lbrack\frac{1}{\sqrt{u}}\right\rbrack_3^{a}=\frac{3}{\sqrt3}=\sqrt3}$$
+$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{6}{\sqrt{(4t+3)^3}}\,\textrm{d}t,}u=4t+3,\mathrm{d} t=\frac14du\\ \\ \frac32\lim_{a\to\infty}\int_3^{a}u^{-\frac32}du=-3\lim_{a\to\infty}\left\lbrack\frac{1}{\sqrt{u}}\right\rbrack_3^{a}=\frac{3}{\sqrt3}=\sqrt3}$$
 
 ## Q7
-$$\displaylines{{\displaystyle\int_{-\infty}^{-1}\dfrac{x}{\left(x^2+1\right)^3}\,\textrm{d}x,u=x^2+1,du=2xdx},\differentialD x=\frac{1}{2x}\\ \\ \frac12\lim_{a\to\infty}\int_{a}^2u^{-3}du=-\frac14\lim_{a\to\infty}\left\lbrack\frac{1}{u^2}\right\rbrack_{a}^2=-\frac{1}{16}}$$
+$$\displaylines{{\displaystyle\int_{-\infty}^{-1}\dfrac{x}{\left(x^2+1\right)^3}\,\textrm{d}x,u=x^2+1,du=2xdx},\mathrm{d} x=\frac{1}{2x}\\ \\ \frac12\lim_{a\to\infty}\int_{a}^2u^{-3}du=-\frac14\lim_{a\to\infty}\left\lbrack\frac{1}{u^2}\right\rbrack_{a}^2=-\frac{1}{16}}$$
 
 ## Q8
-$$\displaylines{{\displaystyle\int_{-\infty}^{-1}\dfrac{1}{(7x+3)^3}\,\textrm{d}x,u=7x+3,du=7\differentialD x}\\ \\ \frac17\lim_{a\to-\infty}\int_{a}^{-4}u^{-3}du=-\frac{1}{14}\lim_{a\to-\infty}\left\lbrack\frac{1}{u^2}\right\rbrack_{a}^{-4}=-\frac{1}{224}}$$
+$$\displaylines{{\displaystyle\int_{-\infty}^{-1}\dfrac{1}{(7x+3)^3}\,\textrm{d}x,u=7x+3,du=7\mathrm{d} x}\\ \\ \frac17\lim_{a\to-\infty}\int_{a}^{-4}u^{-3}du=-\frac{1}{14}\lim_{a\to-\infty}\left\lbrack\frac{1}{u^2}\right\rbrack_{a}^{-4}=-\frac{1}{224}}$$
 ![](../assets/Pasted%20image%2020260914100336.png)
 ## Q9
 $${\displaystyle\int_{-\infty}^13z^2\,\textrm{d}z}\text{ is divergent}$$
 # Review
 
 ## Q2
-$$\displaylines{{\displaystyle\int_2^{\infty}\dfrac{1}{x\ln{x}}\,\textrm{d}x=\lim_{a\to\infty}\int_2^{a}\frac{1}{x\ln x}\differentialD x},u=\ln x,\frac{du}{\differentialD x}=\frac{1}{x}\\ \\ \int_{\ln2}^{\ln a}\frac{1}{u}du=\ln\left(\ln a\right)-\ln\left(\ln2\right)=\infty}$$
+$$\displaylines{{\displaystyle\int_2^{\infty}\dfrac{1}{x\ln{x}}\,\textrm{d}x=\lim_{a\to\infty}\int_2^{a}\frac{1}{x\ln x}\mathrm{d} x},u=\ln x,\frac{du}{\mathrm{d} x}=\frac{1}{x}\\ \\ \int_{\ln2}^{\ln a}\frac{1}{u}du=\ln\left(\ln a\right)-\ln\left(\ln2\right)=\infty}$$
 
 ## Q3
-$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{3}{\sqrt{(2x+4)^3}}\,\textrm{d}x=3\lim_{a\to\infty}\int_0^{a}\frac{1}{\sqrt{\left(2x+4\right)^3}}\differentialD x,}u=2x+4,\frac{du}{\differentialD x}=2\\ \\ \frac32\int_4^{a}\left(u^{-\frac32}\right)du=-3\left\lbrack\frac{1}{\sqrt{u}}\right\rbrack_4^{a}=-3\left(0-\frac12\right)=\frac32}$$
+$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{3}{\sqrt{(2x+4)^3}}\,\textrm{d}x=3\lim_{a\to\infty}\int_0^{a}\frac{1}{\sqrt{\left(2x+4\right)^3}}\mathrm{d} x,}u=2x+4,\frac{du}{\mathrm{d} x}=2\\ \\ \frac32\int_4^{a}\left(u^{-\frac32}\right)du=-3\left\lbrack\frac{1}{\sqrt{u}}\right\rbrack_4^{a}=-3\left(0-\frac12\right)=\frac32}$$
 
 # Review
 
 ## Q1
-$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{1}{3x+1}\,\textrm{d}x=\lim_{a\to\infty}}\int_0^{a}\frac{1}{3x+1}\differentialD x=\\ \\ \frac13\lim_{a\to\infty}\int_1^{3a+1}\frac{1}{u}du=\left\lbrack\frac{\ln u}{3}\right\rbrack_1^{a}=\frac{\infty}{3}-\frac{\ln1}{3}=\infty}$$
+$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{1}{3x+1}\,\textrm{d}x=\lim_{a\to\infty}}\int_0^{a}\frac{1}{3x+1}\mathrm{d} x=\\ \\ \frac13\lim_{a\to\infty}\int_1^{3a+1}\frac{1}{u}du=\left\lbrack\frac{\ln u}{3}\right\rbrack_1^{a}=\frac{\infty}{3}-\frac{\ln1}{3}=\infty}$$
 
 ## Q2
 $${\displaystyle\int_{-\infty}^{-1}\dfrac{\textrm{d}t}{\sqrt{2-3t}}=-\frac13\lim_{a\to-\infty}\int_{a}^5\frac{1}{\sqrt{u}}}du=\left\lbrack-\frac{\sqrt{u}}{6}\right\rbrack_{a}^5=\infty$$
@@ -66,7 +66,7 @@ $${\displaystyle\int_{-\infty}^{-1}\dfrac{1}{x^3}\,\textrm{d}x=}\lim_{a\to-\inft
 # Review
 
 ## Q1
-$$\displaylines{{\displaystyle\int_{-\infty}^{-1}\dfrac{x^2}{\sqrt{8-x^3}}\,\textrm{d}x=\lim_{a\to-\infty}\int_{a}^{-1}\frac{x^2}{\sqrt{8-x^3}}\differentialD x}\\ \\ u=8-x^3\Rightarrow\frac{\differentialD u}{\differentialD x}=-3x^2\Rightarrow-\frac13du=x^2dx\\ \\ -\frac13\lim_{b\to\infty}\int_{b}^9\frac{1}{\sqrt{u}}\differentialD u=-\frac13\lim_{b\to\infty}\left\lbrack2\sqrt{u}\right\rbrack_{b}^9=\infty}$$
+$$\displaylines{{\displaystyle\int_{-\infty}^{-1}\dfrac{x^2}{\sqrt{8-x^3}}\,\textrm{d}x=\lim_{a\to-\infty}\int_{a}^{-1}\frac{x^2}{\sqrt{8-x^3}}\mathrm{d} x}\\ \\ u=8-x^3\Rightarrow\frac{\mathrm{d} u}{\mathrm{d} x}=-3x^2\Rightarrow-\frac13du=x^2dx\\ \\ -\frac13\lim_{b\to\infty}\int_{b}^9\frac{1}{\sqrt{u}}\mathrm{d} u=-\frac13\lim_{b\to\infty}\left\lbrack2\sqrt{u}\right\rbrack_{b}^9=\infty}$$
 
 ## Q3
 $${\displaystyle\int_2^{\infty}\dfrac{1}{\sqrt{(2+x)^3}}\,\textrm{d}x=\lim_{a\to\infty}\int_4^{a}\frac{1}{u^{\frac32}}du=}\lim_{a\to\infty}\left\lbrack-\frac{2}{u^{\frac12}}\right\rbrack_4^{a}=0-\left(-1\right)=1$$

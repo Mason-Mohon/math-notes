@@ -4,7 +4,7 @@ Math Academy
 Subject: Calculus I
 Topics: Hyperbolic Functions Trigonometry Differentiation
 
-$$\displaylines{\frac{\differentialD}{\differentialD x}\left(\text{arcsch}x\right)=-\frac{1}{\left|x\right|\sqrt{1+x^2}}\\ \\ \frac{\differentialD}{\differentialD x}\left(\text{arsech}x\right)=-\frac{1}{x\sqrt{1-x^2}}\\ \\ \frac{\differentialD}{\differentialD x}\left(\text{arcoth}x\right)=\frac{1}{1-x^2}}$$
+$$\displaylines{\frac{\mathrm{d}}{\mathrm{d} x}\left(\text{arcsch}x\right)=-\frac{1}{\left|x\right|\sqrt{1+x^2}}\\ \\ \frac{\mathrm{d}}{\mathrm{d} x}\left(\text{arsech}x\right)=-\frac{1}{x\sqrt{1-x^2}}\\ \\ \frac{\mathrm{d}}{\mathrm{d} x}\left(\text{arcoth}x\right)=\frac{1}{1-x^2}}$$
 
 
 ## Q1

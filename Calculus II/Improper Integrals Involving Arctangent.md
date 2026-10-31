@@ -4,15 +4,15 @@ Math Academy
 Subject: Calculus II
 Topics: [Improper Integrals](Improper%20Integrals.md) Integrals Inverse Trigonometric Functions
 
-$$\displaylines{\int\frac{1}{1+x^2}\differentialD x=\arctan\left(x\right)+C\\ \\ \lim_{x\to\infty}\left\lbrack\arctan\left(x\right)\right\rbrack=\frac{\pi}{2}\\ \\ \lim_{x\to-\infty}\left\lbrack\arctan\left(x\right)\right\rbrack=-\frac{\pi}{2}}$$
+$$\displaylines{\int\frac{1}{1+x^2}\mathrm{d} x=\arctan\left(x\right)+C\\ \\ \lim_{x\to\infty}\left\lbrack\arctan\left(x\right)\right\rbrack=\frac{\pi}{2}\\ \\ \lim_{x\to-\infty}\left\lbrack\arctan\left(x\right)\right\rbrack=-\frac{\pi}{2}}$$
 
 ## Q1
-$$\displaylines{{\displaystyle\int_1^{\infty}\dfrac{24}{1+z^2}\,\textrm{d}z=}24\lim_{a\to\infty}\int_1^{a}\frac{1}{1+z^2}\differentialD z\\ \\ =\lim_{a\to\infty}24\left(\arctan\left(a\right)-\arctan\left(1\right)\right)=24\left(\frac{\pi}{2}-\frac{\pi}{4}\right)=6\pi}$$
+$$\displaylines{{\displaystyle\int_1^{\infty}\dfrac{24}{1+z^2}\,\textrm{d}z=}24\lim_{a\to\infty}\int_1^{a}\frac{1}{1+z^2}\mathrm{d} z\\ \\ =\lim_{a\to\infty}24\left(\arctan\left(a\right)-\arctan\left(1\right)\right)=24\left(\frac{\pi}{2}-\frac{\pi}{4}\right)=6\pi}$$
 
 ## Q2
 $${\displaystyle\int_{-\infty}^0\dfrac{16}{1+x^2}\,\textrm{d}x=}16\lim_{a\to-\infty}\left(\arctan0-\arctan a\right)=16\cdot\frac{\pi}{2}=8\pi$$
 
-$$\displaylines{\int\frac{1}{1+\left(kx\right)^2}\differentialD x=\frac{1}{k}\arctan\left(kx\right)+C\\ \\ \int\frac{1}{k^2+x^2}\differentialD x=\frac{1}{k}\arctan\left(\frac{x}{k}\right)+C}$$
+$$\displaylines{\int\frac{1}{1+\left(kx\right)^2}\mathrm{d} x=\frac{1}{k}\arctan\left(kx\right)+C\\ \\ \int\frac{1}{k^2+x^2}\mathrm{d} x=\frac{1}{k}\arctan\left(\frac{x}{k}\right)+C}$$
 
 ## Q3
 $${\displaystyle\int_{1/2}^{\infty}\dfrac{18}{4x^2+1}\,\textrm{d}x=}18\lim_{a\to\infty}\left(\frac12\arctan\left(2a\right)-\frac12\arctan\left(1\right)\right)=18\cdot\left(\frac{\pi}{4}-\frac{\pi}{8}\right)=\frac{9\pi}{4}$$
@@ -30,7 +30,7 @@ $${\displaystyle\int_{-\infty}^0\dfrac{6}{z^2+9}\,\textrm{d}z=}6\lim_{a\to-\inft
 $${\displaystyle\int_0^{\infty}\dfrac{6}{z^2+16}\,\textrm{d}z=}6\lim_{a\to\infty}\left(\frac14\arctan\left(\frac{a}{4}\right)-\frac14\arctan\left(0\right)\right)=6\cdot\frac14\cdot\frac{\pi}{2}=\frac{3\pi}{4}$$
 
 ## Q9
-$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{e^{x}}{1+e^{2x}}\,\textrm{d}x}\\ \\ u=e^{x},\frac{du}{\differentialD x}=e^{x}\Rightarrow du=e^{x}dx\\ \\ \lim_{a\to\infty}\left(\arctan\left(a\right)-\arctan\left(1\right)\right)=\frac{\pi}{4}}$$
+$$\displaylines{{\displaystyle\int_0^{\infty}\dfrac{e^{x}}{1+e^{2x}}\,\textrm{d}x}\\ \\ u=e^{x},\frac{du}{\mathrm{d} x}=e^{x}\Rightarrow du=e^{x}dx\\ \\ \lim_{a\to\infty}\left(\arctan\left(a\right)-\arctan\left(1\right)\right)=\frac{\pi}{4}}$$
 
 ## Q10
 $$\displaylines{{\displaystyle\int_{-\infty}^0\dfrac{5x^4}{x^{10}+25}\,\textrm{d}x=\lim_{a\to-\infty}}\int_{a}^0\frac{1}{u^2+25}du\\ \\ =\lim_{a\to-\infty}\left(\frac15\arctan\left(0\right)-\frac15\arctan\left(\frac{a}{5}\right)\right)=-\frac15\cdot-\frac{\pi}{2}=\frac{\pi}{10}}$$
@@ -38,12 +38,12 @@ $$\displaylines{{\displaystyle\int_{-\infty}^0\dfrac{5x^4}{x^{10}+25}\,\textrm{d
 
 
 # Review
-$$\displaylines{\int\frac{1}{1+x^2}\differentialD x=\arctan\left(x\right)+C\\ \\ \lim_{x\to\infty}\left\lbrack\arctan\left(x\right)\right\rbrack=\frac{\pi}{2}\\ \\ \lim_{x\to-\infty}\left\lbrack\arctan\left(x\right)\right\rbrack=-\frac{\pi}{2}\\ \\ \int\frac{1}{1+\left(kx\right)^2}\differentialD x=\frac{1}{k}\arctan\left(kx\right)+C\\ \\ \int\frac{1}{k^2+x^2}\differentialD x=\frac{1}{k}\arctan\left(\frac{x}{k}\right)+C}$$
+$$\displaylines{\int\frac{1}{1+x^2}\mathrm{d} x=\arctan\left(x\right)+C\\ \\ \lim_{x\to\infty}\left\lbrack\arctan\left(x\right)\right\rbrack=\frac{\pi}{2}\\ \\ \lim_{x\to-\infty}\left\lbrack\arctan\left(x\right)\right\rbrack=-\frac{\pi}{2}\\ \\ \int\frac{1}{1+\left(kx\right)^2}\mathrm{d} x=\frac{1}{k}\arctan\left(kx\right)+C\\ \\ \int\frac{1}{k^2+x^2}\mathrm{d} x=\frac{1}{k}\arctan\left(\frac{x}{k}\right)+C}$$
 ## Q1
 $${{\displaystyle\int_0^{\infty}\dfrac{2}{z^2+9}\,\textrm{d}z=2\lim_{a\to\infty}\int_0^{a}\frac{1}{z^2+9}dz=\lim_{a\to\infty}\left\lbrack\frac23\arctan\left(\frac{z}{3}\right)\right\rbrack_0^{a}}}=\frac{\pi}{3}-0$$
 
 ## Q2
-$$\displaylines{{{\displaystyle\int_0^{\infty}\dfrac{e^{x}}{1+3e^{2x}}\,\textrm{d}x=\lim_{a\to\infty}\int_1^{a}\frac{1}{1+\left(\sqrt3u\right)^2}du}}\\ \\ u=e^{x},\frac{du}{\differentialD x}=e^{x}\\ \\ =\left\lbrack\frac{1}{\sqrt3}\arctan\left(\sqrt3u\right)\right\rbrack_1^{a}=\frac{3\pi}{6\sqrt3}-\frac{2\pi}{6\sqrt3}=\frac{\sqrt3\pi}{18}}$$
+$$\displaylines{{{\displaystyle\int_0^{\infty}\dfrac{e^{x}}{1+3e^{2x}}\,\textrm{d}x=\lim_{a\to\infty}\int_1^{a}\frac{1}{1+\left(\sqrt3u\right)^2}du}}\\ \\ u=e^{x},\frac{du}{\mathrm{d} x}=e^{x}\\ \\ =\left\lbrack\frac{1}{\sqrt3}\arctan\left(\sqrt3u\right)\right\rbrack_1^{a}=\frac{3\pi}{6\sqrt3}-\frac{2\pi}{6\sqrt3}=\frac{\sqrt3\pi}{18}}$$
 
 ## Q3
-$$\displaylines{{\displaystyle\int_{-\infty}^{1/2}\dfrac{12}{1+4x^2}\,\textrm{d}x=}\lim_{a\to-\infty}12\int_{a}^{\frac12}\frac{1}{1+\left(2x\right)^2}\differentialD x\\ \\ =\left(6\arctan\left(1\right)-6\arctan\left(2a\right)\right)=\frac{3\pi}{2}+\frac{6\pi}{2}=\frac{9\pi}{2}}$$
+$$\displaylines{{\displaystyle\int_{-\infty}^{1/2}\dfrac{12}{1+4x^2}\,\textrm{d}x=}\lim_{a\to-\infty}12\int_{a}^{\frac12}\frac{1}{1+\left(2x\right)^2}\mathrm{d} x\\ \\ =\left(6\arctan\left(1\right)-6\arctan\left(2a\right)\right)=\frac{3\pi}{2}+\frac{6\pi}{2}=\frac{9\pi}{2}}$$

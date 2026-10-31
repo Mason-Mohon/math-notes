@@ -19,7 +19,7 @@ $$\displaylines{f(x)=(4-3x)^2,\left(2,4\right)\\ \\ f^{\prime}\left(x\right)=-24
 $$\displaylines{y=\dfrac{4}{\sqrt{x^2+3}},x=-1\\ \\ y^{\prime}=-\frac{4x}{\sqrt{\left(x^2+3\right)^3}}\\ \\ =\frac{4}{\sqrt{4^3}}=\frac48=\frac12}$$
 
 ## Q8
-$$\displaylines{y=\sqrt{3x^2+2x}=u^{\frac12}\\ \\ \frac{dy}{du}=\frac12u^{-\frac12}\\ \\ \frac{du}{\differentialD x}=6x+2\\ \\ y^{\prime}=\frac{3x+1}{\sqrt{3x^2+2x}}\\ \\ y^{\prime}\left(-1\right)=-2}$$
+$$\displaylines{y=\sqrt{3x^2+2x}=u^{\frac12}\\ \\ \frac{dy}{du}=\frac12u^{-\frac12}\\ \\ \frac{du}{\mathrm{d} x}=6x+2\\ \\ y^{\prime}=\frac{3x+1}{\sqrt{3x^2+2x}}\\ \\ y^{\prime}\left(-1\right)=-2}$$
 
 ## Q9
 $$\displaylines{y=\sqrt{5x-1}\\ \\ y^{\prime}=\frac{5}{2\sqrt{5x-1}}}$$
@@ -36,7 +36,7 @@ $$\displaylines{f(x)=\dfrac{1}{\sqrt{x+2x^3}},g\left(x\right)=x+2x^3\\ \\ f\left
 # Review
 
 ## Q1
-$$\displaylines{y=\sqrt{3x^2+24},x=-2,m=?\\ \\ \frac{\differentialD y}{\differentialD x}=\frac{3x}{\sqrt{3x^2+24}}\\ \\ m=-\frac{6}{\sqrt{12+24}}=-1}$$
+$$\displaylines{y=\sqrt{3x^2+24},x=-2,m=?\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=\frac{3x}{\sqrt{3x^2+24}}\\ \\ m=-\frac{6}{\sqrt{12+24}}=-1}$$
 
 ## Q2
 $$\displaylines{f(x)=\dfrac{2}{\sqrt{x^3-2x}}\\ \\ f^{\prime}\left(x\right)=-\frac{3x^2-2}{\sqrt{\left(x^3-2x\right)^3}^{}}}$$

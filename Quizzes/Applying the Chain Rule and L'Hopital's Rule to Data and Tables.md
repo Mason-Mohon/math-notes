@@ -21,7 +21,7 @@ $$f^{\prime}\left(c\right)=\frac{f\left(b\right)-f\left(a\right)}{b-a}=$$
 $$\displaylines{f\left(2.1\right)\\ \\ f^{\prime}\left(2.1\right)=\frac{f\left(2.1\right)-f\left(2\right)}{0.1}=\frac{21-18}{0.1}=30}$$
 
 ## Q7
-$$\displaylines{x=\dfrac{3}{5y-2}=3\left(5y-2\right)^{-1}\\ \\ \frac{\differentialD x}{\differentialD y}=-\frac{15}{\left(5y-2\right)^2}\\ \\ \frac{\differentialD y}{\differentialD x}=-\frac{1}{15}\left(5y-2\right)^2}$$
+$$\displaylines{x=\dfrac{3}{5y-2}=3\left(5y-2\right)^{-1}\\ \\ \frac{\mathrm{d} x}{\mathrm{d} y}=-\frac{15}{\left(5y-2\right)^2}\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=-\frac{1}{15}\left(5y-2\right)^2}$$
 
 ## Q3
 $$$$

@@ -6,7 +6,7 @@ Math Academy Calculus I Integrals Riemann Sum Intervals
 
 ![](../assets/Pasted%20image%2020260728120534.png)
 
-$$\int_{a}^{b}f\left(x\right)\differentialD x=\lim_{n\to\infty}\sum_{k=0}^{n-1}f\left(x_{k}\right)\Delta x,\Delta x=\frac{b-a}{n},x_{k}=a+k\Delta x$$
+$$\int_{a}^{b}f\left(x\right)\mathrm{d} x=\lim_{n\to\infty}\sum_{k=0}^{n-1}f\left(x_{k}\right)\Delta x,\Delta x=\frac{b-a}{n},x_{k}=a+k\Delta x$$
 
 x=a is lower limit, x=b is upper limit
 

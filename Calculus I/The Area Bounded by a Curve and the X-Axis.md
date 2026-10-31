@@ -3,10 +3,10 @@ Math Academy Calculus I Integrals
 ![](../assets/Pasted%20image%2020260806154601.png)
 
 ## Q1
-$$\displaylines{y=\sec^2x,a=-\frac{\pi}{4},b=\frac{\pi}{4}\\ \\ \int_{-\frac{\pi}{4}}^{\frac{\pi}{4}}\left(\sec^2x\right)\differentialD x=\tan\frac{\pi}{4}-\tan\left(-\frac{\pi}{4}\right)=1+1=2}$$
+$$\displaylines{y=\sec^2x,a=-\frac{\pi}{4},b=\frac{\pi}{4}\\ \\ \int_{-\frac{\pi}{4}}^{\frac{\pi}{4}}\left(\sec^2x\right)\mathrm{d} x=\tan\frac{\pi}{4}-\tan\left(-\frac{\pi}{4}\right)=1+1=2}$$
 
 ## Q2
-$$\displaylines{y=4-x^2,a=-2,b=2\\ \\ \int_{-2}^2\left(4-x^2\right)\differentialD x=4x-\frac{x^3}{3}=8-\frac83-\left(-8+\frac83\right)=\frac{48}{3}-\frac{16}{3}=\frac{32}{3}}$$
+$$\displaylines{y=4-x^2,a=-2,b=2\\ \\ \int_{-2}^2\left(4-x^2\right)\mathrm{d} x=4x-\frac{x^3}{3}=8-\frac83-\left(-8+\frac83\right)=\frac{48}{3}-\frac{16}{3}=\frac{32}{3}}$$
 
 ![](../assets/Pasted%20image%2020260806155908.png)
 

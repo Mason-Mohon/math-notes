@@ -19,7 +19,7 @@ $$\displaylines{S\left(a\right)=\left(-1-3a\right)^2+\left(1-a\right)^2\\ \\ =1+
 
 $$\int_{}^{}uv^{\prime}dx=uv-\int_{}^{}vu^{\prime}dx$$
 ## Q5
-$$\displaylines{{\displaystyle\int x\sec\left(x^2\right)\tan\left(x^2\right)\,\textrm{d}x}=\int_{}^{}x\cdot\frac{\sin x^2}{\cos^2x^2}\differentialD x\\ }$$
+$$\displaylines{{\displaystyle\int x\sec\left(x^2\right)\tan\left(x^2\right)\,\textrm{d}x}=\int_{}^{}x\cdot\frac{\sin x^2}{\cos^2x^2}\mathrm{d} x\\ }$$
 
 
 ## Q6

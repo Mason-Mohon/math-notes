@@ -10,7 +10,7 @@ $$\displaylines{f(x)=4\sqrt{x}+5x^2+x\\ \\ f^{\prime}\left(x\right)=\frac{2}{\sq
 $$\displaylines{f(x)=\dfrac{x^4+2x^3+1}{x^2}\\ \\ f(x)=x^2+2x+\frac{1}{x^2}\\ \\ f^{\prime}\left(x\right)=2x+2-\frac{2}{x^3}\\ \\ f^{\doubleprime}\left(x\right)=2+\frac{6}{x^4}}$$
 
 ## Q3
-$$\displaylines{y=\dfrac{1}{\sqrt[3]{x}}+10x\\ \\ \frac{\differentialD y}{\differentialD x}=-\frac{1}{3x^{\frac43}}+10\\ \\ \frac{\differentialD^2y}{\differentialD x^2}=\frac{4}{9x^{\frac73}}}$$
+$$\displaylines{y=\dfrac{1}{\sqrt[3]{x}}+10x\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=-\frac{1}{3x^{\frac43}}+10\\ \\ \frac{\mathrm{d}^2y}{\mathrm{d} x^2}=\frac{4}{9x^{\frac73}}}$$
 
 ## Q5
 $$\displaylines{f(x)=5\sin x-3x^2\\ \\ f^{\prime}\left(x\right)=5\cos x-6x\\ \\ f^{\doubleprime}\left(x\right)=-5\sin x-6\\ \\ f^{\prime\prime\prime}\left(x\right)=-5\cos x}$$
@@ -44,7 +44,7 @@ $$\displaylines{f(x)=x^8-2x^6-6x,f^{\doubleprime}\left(1\right)=?\\ \\ f^{\prime
 $$\displaylines{f(x)=x^5-4x^2-3,f^{\doubleprime}\left(1\right)=?\\ \\ f^{\prime}\left(x\right)=5x^4-8x\\ \\ f^{\doubleprime}\left(x\right)=20x^3-8\\ \\ f^{\doubleprime}\left(1\right)=12}$$
 
 ## Q3
-$$\displaylines{y=\ln x+\dfrac{1}{6x^2}\\ \\ \frac{\differentialD y}{\differentialD x}=\frac{1}{x}-\frac{1}{3x^3}\\ \\ \frac{\differentialD^2y}{\differentialD x^2}=-\frac{1}{x^2}+\frac{1}{x^4}}$$
+$$\displaylines{y=\ln x+\dfrac{1}{6x^2}\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=\frac{1}{x}-\frac{1}{3x^3}\\ \\ \frac{\mathrm{d}^2y}{\mathrm{d} x^2}=-\frac{1}{x^2}+\frac{1}{x^4}}$$
 
 ## Q4
 $$\displaylines{y=9\sqrt[3]{x}+2\cos x=9x^{\frac13}+2\cos x\\ \\ y^{\prime}=3x^{-\frac23}-2\sin x\\ \\ y^{\doubleprime}=-2x^{-\frac53}-2\cos x}$$

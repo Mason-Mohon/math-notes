@@ -1,6 +1,6 @@
 Math Academy
 ## Q1
-$$\displaylines{A=\pi r^2\\ \\ \frac{dA}{\differentialD t}=8\pi,r=12\\ \\ 8\pi=24\pi\cdot\frac{dr}{\differentialD t}=\frac13}$$
+$$\displaylines{A=\pi r^2\\ \\ \frac{dA}{\mathrm{d} t}=8\pi,r=12\\ \\ 8\pi=24\pi\cdot\frac{dr}{\mathrm{d} t}=\frac13}$$
 
 ## Q2
 $$$$

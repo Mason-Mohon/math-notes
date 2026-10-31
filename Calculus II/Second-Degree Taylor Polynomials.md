@@ -39,3 +39,12 @@ $$\displaylines{f(x)=e^{3x},x=-1\\ \\ f^{\doubleprime}\left(x\right)=9e^{3x}}$$
 
 ## Q3
 $$\displaylines{f(x)=\dfrac{1}{\sqrt{1+x}},x=0\\ \\ f^{\prime}\left(x\right)=-\frac{1}{2\sqrt{\left(1+x\right)^3}}=-\frac12\\ \\ f^{\doubleprime}\left(x\right)=\frac34}$$
+
+## Q1
+$$\displaylines{P_2\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)+\frac12f^{\doubleprime}\left(a\right)\left(x-a\right)^2\\ \\ f(x)=\dfrac{1}{3+x}=\frac{1}{u^{-1}}\\ \\ f^{\prime}\left(x\right)=-\frac{1}{\left(3+x\right)^2}\\ \\ f^{\doubleprime}\left(x\right)=\frac{2}{\left(3+x\right)^3}}$$
+
+## Q2
+$$f(x)=\dfrac{1}{x^2},f^{\prime}\left(x\right)=-\frac{2}{x^3},f^{\doubleprime}\left(x\right)=\frac{6}{x^4}$$
+
+## Q3
+$$\displaylines{f(x)=e^{5x}\\ \\ f^{\prime}\left(x\right)=5e^{5x}\\ \\ f^{\doubleprime}\left(x\right)=25e^{5x}}$$

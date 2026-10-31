@@ -1,6 +1,6 @@
 Math Academy Calculus I Logarithms Differentiation
 
-$$\frac{d}{\differentialD x}\left(\ln x\right)=\frac{1}{x}$$
+$$\frac{d}{\mathrm{d} x}\left(\ln x\right)=\frac{1}{x}$$
 
 
 ## Q1
@@ -20,7 +20,7 @@ $$y=3e^{x} - 5\ln x$$
 $$\displaylines{f(x)=3^{x}+\log x\\ \\ f^{\prime}\left(x\right)=3^{x}\ln\left(3\right)+\frac{1}{x\ln\left(10\right)}}$$
 
 ## Q9
-$$\displaylines{y=-2x^3+4\log_3x\\ \\ \frac{\differentialD y}{\differentialD x}=-6x^2+\frac{4}{x\ln3}}$$
+$$\displaylines{y=-2x^3+4\log_3x\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=-6x^2+\frac{4}{x\ln3}}$$
 
 ## Q10
 $$\displaylines{y=2x^2+25-2\log_4x\\ \\ y^{\prime}=4x-\frac{2}{x\ln4}}$$
@@ -32,4 +32,4 @@ $$\displaylines{y=4e^{x}-3\log_7x\\ \\ y^{\prime}=4e^{x}-\frac{3}{x\ln7}}$$
 $$\displaylines{y=7\log_7x+7^{x}\\ \\ y^{\prime}=\frac{7}{x\ln7}+7^{x}\ln\left(7\right)}$$
 
 ## Q13
-$$\displaylines{y=2x^3+4\ln x-7\\ \\ \frac{\differentialD y}{\differentialD x}=6x^2+\frac{4}{x}\\ \\ m=10}$$
+$$\displaylines{y=2x^3+4\ln x-7\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=6x^2+\frac{4}{x}\\ \\ m=10}$$

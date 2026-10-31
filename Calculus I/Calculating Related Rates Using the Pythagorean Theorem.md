@@ -6,9 +6,9 @@ Topics: Related Rates Pythagorean Theorem Differentiation
 ![](../assets/Pasted%20image%2020260829132148.png)
 ![](../assets/Pasted%20image%2020260829132156.png)
 ## Q1
-$$\displaylines{z=10,y^{\prime}=-1.5,y=8,x^{\prime}=?,z^{\prime}=0\\ \\ x^2+y^2=z^2\\ \\ x^2=100-64=36,x=6\\ \\ 12\cdot\frac{\differentialD x}{\differentialD t}-24=0\\ \\ x^{\prime}=2}$$
+$$\displaylines{z=10,y^{\prime}=-1.5,y=8,x^{\prime}=?,z^{\prime}=0\\ \\ x^2+y^2=z^2\\ \\ x^2=100-64=36,x=6\\ \\ 12\cdot\frac{\mathrm{d} x}{\mathrm{d} t}-24=0\\ \\ x^{\prime}=2}$$
 
-$$2x\cdot\frac{\differentialD x}{\differentialD t}+2y\cdot\frac{\differentialD y}{\differentialD t}=2z\cdot\frac{dz}{\differentialD t}$$
+$$2x\cdot\frac{\mathrm{d} x}{\mathrm{d} t}+2y\cdot\frac{\mathrm{d} y}{\mathrm{d} t}=2z\cdot\frac{dz}{\mathrm{d} t}$$
 ## Q2
 $$\displaylines{z=20,z^{\prime}=0,y=16,y^{\prime}=-1.5,x^{\prime}=?\\ \\ x^2=400-256=144,x=12\\ \\ 12x^{\prime}-24=0\\ \\ x^{\prime}=2}$$
 

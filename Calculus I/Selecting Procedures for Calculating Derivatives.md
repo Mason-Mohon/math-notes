@@ -3,7 +3,7 @@ Math Academy Calculus I [Derivatives](Derivatives.md) Differentiation
 ![](../assets/Pasted%20image%2020260723170409.png)
 
 ## Q1
-$$\displaylines{h(x)=5^{\ln(\cos x)},h^{\prime}\left(0\right)=?\\ \\ \frac{d}{\differentialD x}\left(a^{u\left(x\right)}\right)=a^{u\left(x\right)}\ln\left(a\right)u^{\prime}\left(x\right)\\ \\ h^{\prime}\left(x\right)=5^{\ln(\cos x)}\ln5\left(-\tan x\right)\\ \\ h^{\prime}\left(0\right)=0}$$
+$$\displaylines{h(x)=5^{\ln(\cos x)},h^{\prime}\left(0\right)=?\\ \\ \frac{d}{\mathrm{d} x}\left(a^{u\left(x\right)}\right)=a^{u\left(x\right)}\ln\left(a\right)u^{\prime}\left(x\right)\\ \\ h^{\prime}\left(x\right)=5^{\ln(\cos x)}\ln5\left(-\tan x\right)\\ \\ h^{\prime}\left(0\right)=0}$$
 
 ## Q2
 $$\displaylines{y=\sqrt{\tan(3x-2)}\\ \\ y=\sqrt{u},u=\tan\left(v\right),v=3x-2\\ \\ y^{\prime}=\frac{1}{2\sqrt{u}},u^{\prime}=\sec^2v,v^{\prime}=3\\ \\ y^{\prime}=\dfrac{3\sec^2(3x-2)}{2\sqrt{\tan(3x-2)}}}$$

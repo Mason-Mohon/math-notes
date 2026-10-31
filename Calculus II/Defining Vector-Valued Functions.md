@@ -2,7 +2,7 @@
 2026-10-29
 Math Academy
 Subject: Calculus II
-Topics: Vectors
+Topics: Vectors Vector-Valued Functions
 
 $$\displaylines{x\left(t\right)=t+1,y\left(t\right)=t^2+2,t\in\left(-\infty,\infty\right)\\ \\ r\left(t\right)=\langle x\left(t\right),y\left(t\right)\rangle=\langle t+1,t^2+2\rangle}$$
 

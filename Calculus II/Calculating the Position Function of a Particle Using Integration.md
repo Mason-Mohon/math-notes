@@ -4,7 +4,7 @@ Math Academy
 Subject: Calculus II
 Topics: Integrals
 
-$$v\left(t\right)=\frac{\differentialD x}{\differentialD t}\Rightarrow x\left(t\right)=\int v\left(t\right)\differentialD t$$
+$$v\left(t\right)=\frac{\mathrm{d} x}{\mathrm{d} t}\Rightarrow x\left(t\right)=\int v\left(t\right)\mathrm{d} t$$
 
 ## Q1
 $$\displaylines{v(t)=t^2-4t+4,x\left(2\right)=0\\ \\ x\left(t\right)=\frac13t^3-2t^2+4t+C\\ \\ 0=\frac83-8+8+C\\ \\ x(t)=\dfrac{t^3}{3}-2t^2+4t-\dfrac83}$$

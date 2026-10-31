@@ -12,11 +12,11 @@ $$\displaylines{F(x)={\displaystyle\int_{\pi/4}^{x}2\sin t\,\textrm{d}t,F\left(\
 
 ## Q3
 ![](../assets/Pasted%20image%2020260807170354.png)
-$$\displaylines{g\left(t\right)=\int_{-4}^{t}f\left(x\right)\differentialD x,g\left(1\right)=?\\ \\ A_1=\left\lbrack f\left(x\right)\right\rbrack_0^1=2\\ \\ A_2=\left\lbrack f\left(x\right)\right\rbrack_{-4}^0=4+2\\ \\ g\left(1\right)=8}$$
+$$\displaylines{g\left(t\right)=\int_{-4}^{t}f\left(x\right)\mathrm{d} x,g\left(1\right)=?\\ \\ A_1=\left\lbrack f\left(x\right)\right\rbrack_0^1=2\\ \\ A_2=\left\lbrack f\left(x\right)\right\rbrack_{-4}^0=4+2\\ \\ g\left(1\right)=8}$$
 
 ## Q4
 ![](../assets/Pasted%20image%2020260807170728.png)
-$$\displaylines{g\left(t\right)=\int_1^{t}f\left(x\right)\differentialD x,g\left(6\right)=?\\ \\ A_1=\left\lbrack f\left(x\right)\right\rbrack_2^1=\frac32\\ \\ A_2=\left\lbrack f\left(x\right)\right\rbrack_6^2=4\\ \\ g\left(6\right)=A_1+A_2=\frac32+\frac82=\frac{11}{2}}$$
+$$\displaylines{g\left(t\right)=\int_1^{t}f\left(x\right)\mathrm{d} x,g\left(6\right)=?\\ \\ A_1=\left\lbrack f\left(x\right)\right\rbrack_2^1=\frac32\\ \\ A_2=\left\lbrack f\left(x\right)\right\rbrack_6^2=4\\ \\ g\left(6\right)=A_1+A_2=\frac32+\frac82=\frac{11}{2}}$$
 
 ![](../assets/Pasted%20image%2020260807170932.png)
 

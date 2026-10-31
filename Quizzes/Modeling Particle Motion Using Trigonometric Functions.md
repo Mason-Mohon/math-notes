@@ -17,7 +17,7 @@ $$\lim_{t\to\pi^{-}}v(t)\,=\,4\csc^2\left(\pi\right)=\infty$$
 $$a\left(t\right)=-8\csc^2\left(t\right)\cot\left(t\right)$$
 
 ## Q4
-$$\int_{}^{}v\left(t\right)\differentialD t=-4\cot\left(t\right)+C$$
+$$\int_{}^{}v\left(t\right)\mathrm{d} t=-4\cot\left(t\right)+C$$
 
 ## Q5
 $$\displaylines{v_2(t)=t^2\sin(3t)\\ \\ v_2\left(\dfrac{5\pi}{6}\right)\,=\,\frac{25\pi^2}{36}\sin\left(\frac{5\pi}{2}\right)=\frac{25\pi^2}{36}}$$

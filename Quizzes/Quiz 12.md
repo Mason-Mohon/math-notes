@@ -6,7 +6,7 @@ $$f(x)=\dfrac{16x^2-8x}{6-12x}$$
 $$\frac{-3-8}{1}=-11$$
 
 ## Q3
-$$\displaylines{x=y\sqrt{y}-\dfrac{y^2}{2}+2y,\left(8,4\right)\\ \\ \frac{\differentialD x}{\differentialD y}=\frac32\sqrt{y}-y+2\\ \\ =3-4+2\\ \\ =1}$$
+$$\displaylines{x=y\sqrt{y}-\dfrac{y^2}{2}+2y,\left(8,4\right)\\ \\ \frac{\mathrm{d} x}{\mathrm{d} y}=\frac32\sqrt{y}-y+2\\ \\ =3-4+2\\ \\ =1}$$
 
 ## Q4
 $$$$

@@ -18,7 +18,7 @@ $$x^{\prime}\left(1\right)=\frac{-8}{2^3}=-1$$
 $$\displaylines{x^{\prime}\left(t\right)=0\\ \\ \frac{4-12t^2}{(t^2+1)^3}=0=4-12t^2\\ \\ t^2=\frac13,t=\sqrt{\frac13}=\frac{\sqrt3}{3}}$$
 
 ## Q5
-$$\frac{\differentialD y}{\differentialD t}=\frac{1-3t^2}{t\left(t^2+1\right)}$$
+$$\frac{\mathrm{d} y}{\mathrm{d} t}=\frac{1-3t^2}{t\left(t^2+1\right)}$$
 
 ## Q6
 $$y^{\prime}\left(1\right)=-\frac22=-1$$

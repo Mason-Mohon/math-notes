@@ -15,7 +15,7 @@ $$\displaylines{f(x)=5^{-x^2}\\ \\ f^{\prime}\left(x\right)=-2x\cdot5^{-x^2}\ln5
 # Review
 
 ## Q1
-$$\displaylines{y=2^{9-x^3}\\ \\ \frac{\differentialD y}{\differentialD x}=2^{9-x^3}\cdot\ln\left(2\right)\cdot-3x^2\\ \\ x=2\\ \\ m=2\ln\left(2\right)\cdot-12}$$
+$$\displaylines{y=2^{9-x^3}\\ \\ \frac{\mathrm{d} y}{\mathrm{d} x}=2^{9-x^3}\cdot\ln\left(2\right)\cdot-3x^2\\ \\ x=2\\ \\ m=2\ln\left(2\right)\cdot-12}$$
 
 ## Q2
 $$\displaylines{f\left(x\right)=4^{x^3}\\ \\ f^{\prime}\left(x\right)=4^{x^3}\ln\left(4\right)\cdot3x^2}$$
