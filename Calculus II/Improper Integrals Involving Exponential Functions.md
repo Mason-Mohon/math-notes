@@ -48,3 +48,16 @@ $${\displaystyle\int_{-\infty}^07^{3x}\,\textrm{d}x=}\frac{1}{3\ln7}$$
 
 ## Q3
 $${\displaystyle\int_{-\infty}^03^{2x+2}\,\textrm{d}x=}\frac{1}{2\ln3}$$
+
+# Review
+
+$$\displaylines{\int e^{px+q}dx=\frac{1}{p}e^{px+q}+C\\ \\ \int b^{px+q}dx=\frac{1}{p\ln b}b^{px+q}+C}$$
+
+## Q1
+$$\displaylines{{\displaystyle\int_1^{\infty}\dfrac{1}{x\cdot5^{\ln x}}\,\textrm{d}x=\lim_{a\to\infty}\int_0^{a}5^{-u}}\mathrm{d} u\\ \\ u=\ln x\Rightarrow\mathrm{d} u=\frac{1}{x}\mathrm{d} x\\ \\ \lim_{a\to\infty}\left\lbrack-\frac{1}{5^{u}\ln5}\right\rbrack_0^{a}=0-\left(-\frac{1}{\ln5}\right)}$$
+
+## Q2
+$${\displaystyle\int_1^{\infty}2^{-x+1}\,\textrm{d}x=}\lim_{a\to\infty}\left\lbrack-\frac{1}{\ln2}2^{-x+1}\right\rbrack_1^{a}=0-\left(-\frac{1}{\ln2}2^0\right)$$
+
+## Q3
+$${\displaystyle\int_1^{\infty}\dfrac{3^{-\ln x}}{x}\,\textrm{d}x=}\frac{1}{\ln3}$$
