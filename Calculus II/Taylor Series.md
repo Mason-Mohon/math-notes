@@ -38,3 +38,16 @@ $$\displaylines{f\left(x\right)=xe^{x}\Rightarrow f\left(-1\right)=-\frac{1}{e}\
 
 ## Q3
 $$\displaylines{\sec(\pi+0.2)=?\\ \\ f\left(x\right)=\sec x\Rightarrow f\left(\pi\right)=-1\\ \\ f^{\prime}\left(x\right)=\sec x\tan x\Rightarrow f^{\prime}\left(\pi\right)=0\\ \\ f^{\doubleprime}\left(x\right)=\sec x\tan^2x+\sec^3x\Rightarrow f^{\doubleprime}\left(\pi\right)=-1\\ \\ f\left(x\right)=-1-\frac12\left(x-\pi\right)^2\\ \\ \sec(\pi+0.2)\approx-1-\frac12\left(0.2\right)^2=-1.02}$$
+
+# Review
+
+$$\displaylines{f\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)+\frac{f^{\doubleprime}\left(a\right)}{2!}\left(x-a\right)^2+\frac{f^{\prime\prime\prime}\left(a\right)}{3!}\left(x-a\right)^3+\cdots\\ \\ =\sum_{k=0}^{\infty}\frac{f^{\left(k\right)}\left(a\right)}{k!}\left(x-a\right)^{k}}$$
+
+## Q1
+$$\displaylines{x^{-1/3},x=8\\ \\ f\left(x\right)=x^{-1/3}\Rightarrow f\left(8\right)=\frac12\\ \\ f^{\prime}\left(x\right)=-\frac13x^{-\frac43}\Rightarrow f^{\prime}\left(8\right)=-\frac13\cdot\frac{1}{16}\\ \\ x^{-1/3}=\dfrac12-\dfrac{1}{48}(x-8)+\dfrac{1}{576}(x-8)^2+\cdots}$$
+
+## Q2
+$$\displaylines{f\left(x\right)=\sin{x}\Rightarrow\sin\left(\pi\right)=0\\ \\ f^{\prime}\left(x\right)=\cos x\Rightarrow f^{\prime}\left(\pi\right)=-1\\ \\ f^{\prime\prime}\left(\pi\right)=0\\ \\ f^{\prime\prime\prime}\left(\pi\right)=1\\ \\ \sin{x}=-\left(x-\pi\right)+\dfrac16\left(x-\pi\right)^3-\dfrac{1}{120}\cdot\left(x-\pi\right)^5+\cdots}$$
+
+## Q3
+$$\displaylines{x^{-\frac12}=\frac13-\frac{1}{54}\left(x-9\right)\\ \\ 8^{-\frac12}=\frac{19}{54}}$$

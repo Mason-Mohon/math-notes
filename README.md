@@ -326,6 +326,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Euler's Method - Calculating Multiple Steps](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20Multiple%20Steps.md)
 - [Euler's Method - Calculating One Step](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20One%20Step.md)
 - [Exponential Growth and Decay Models With First-Order ODEs](Calculus%20II/Exponential%20Growth%20and%20Decay%20Models%20With%20First-Order%20ODEs.md)
+- [Finding the Area of a Polar Region](Calculus%20II/Finding%20the%20Area%20of%20a%20Polar%20Region.md)
 - [Finding the Sum of an Infinite Geometric Series](Calculus%20II/Finding%20the%20Sum%20of%20an%20Infinite%20Geometric%20Series.md)
 - [Further Determining Limits of Sequences Using Relative Magnitudes](Calculus%20II/Further%20Determining%20Limits%20of%20Sequences%20Using%20Relative%20Magnitudes.md)
 - [Further Properties of Infinite Series](Calculus%20II/Further%20Properties%20of%20Infinite%20Series.md)
