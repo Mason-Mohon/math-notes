@@ -50,3 +50,5 @@ $$\artanh{\left(\dfrac{t}{t+1}\right)}=\frac12\ln\left(\frac{1+\dfrac{t}{t+1}}{1
 
 ## Q3
 $$\artanh\left(-\dfrac{y}{2}\right)=\frac12\ln\left(\frac{1-\frac{y}{2}}{1+\frac{y}{2}}\right)=\frac12\ln\left(\frac{2-y}{2+y}\right)$$
+
+$$\operatorname{\mathrm{artanh}}\left(x\right)=\frac12\ln\left(\frac{1+x}{1-x}\right)$$

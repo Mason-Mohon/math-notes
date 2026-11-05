@@ -60,3 +60,15 @@ $${\displaystyle\int\dfrac{1}{|x+3|\sqrt{x^2+6x+8}}\,\textrm{d}x=}\textrm{arcsec
 
 ## Q3
 $$\displaylines{{\displaystyle{\int_{-3-\sqrt2}^{-3+\sqrt2}\dfrac{20}{\sqrt{-1-x(x+6)}}\,\textrm{d}x}=20{\displaystyle{\int_{-3-\sqrt2}^{-3+\sqrt2}\dfrac{1}{\sqrt{-1-\left(x^2+6x+9-9\right)}}\,\textrm{d}x}}}=\\ \\ \frac{10}{\sqrt2}{\displaystyle{\int_{-3-\sqrt2}^{-3+\sqrt2}\dfrac{1}{\sqrt{1-\left(\frac{x+3}{2\sqrt2}\right)^2}}\,\textrm{d}x}}\\ \\ u=\frac{x+3}{2\sqrt2}\Rightarrow\frac{du}{\mathrm{d} x}=\frac{1}{2\sqrt2}\\ \\ 20\int_{-\frac12}^{\frac12}\frac{1}{\sqrt{1-u^2}}du=20\arcsin\left(\frac12\right)-20\arcsin\left(-\frac12\right)=\frac{20\pi}{3}}$$
+
+
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle{\int_{\sqrt2-2}^0\dfrac{36}{|x+2|\sqrt{x^2+4x+3}}\,\textrm{d}x}}\\ \\ =36\int_{\sqrt2-2}^0\frac{1}{\left|x+2\right|\sqrt{\left(x+2\right)^2-1}}\mathrm{d} x,u=x+2\Rightarrow\frac{\mathrm{d} u}{\mathrm{d} x}=1\\ \\ =36\int_{\sqrt2}^2\frac{1}{\left|u\right|\sqrt{u^2-1}}\mathrm{d} u=36\operatorname{\mathrm{arcsec}}\left(2\right)-36\operatorname{\mathrm{arcsec}}\left(\sqrt2\right)=3\pi}$$
+
+## Q2
+$${\displaystyle{\int_{5+\sqrt2}^7\dfrac{8}{|x-5|\sqrt{x^2-10x+24}}\,\textrm{d}x}=}8\int_{\sqrt2}^2\frac{1}{\left|u\right|\sqrt{u^2}-1}=8\cdot\frac{\pi}{12}=\frac{2\pi}{3}$$
+
+## Q3
+$$\displaylines{\displaystyle{\int_{-2}^{-3/2} \dfrac{1}{\sqrt{-x^2-4x-3}}\, \textrm{d}x}={\displaystyle{\int_{-2}^{-3/2}\dfrac{1}{\sqrt{1-\left(x+2\right)^2}}\,\textrm{d}x}=\int_0^{\frac12}}\frac{1}{\sqrt{1-u^2}}\mathrm{d} u\\ \\ =\arcsin\left(\frac12\right)-\arcsin\left(0\right)=\frac{\pi}{6}-0}$$

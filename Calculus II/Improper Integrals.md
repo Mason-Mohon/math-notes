@@ -70,3 +70,14 @@ $$\displaylines{{\displaystyle\int_{-\infty}^{-1}\dfrac{x^2}{\sqrt{8-x^3}}\,\tex
 
 ## Q3
 $${\displaystyle\int_2^{\infty}\dfrac{1}{\sqrt{(2+x)^3}}\,\textrm{d}x=\lim_{a\to\infty}\int_4^{a}\frac{1}{u^{\frac32}}du=}\lim_{a\to\infty}\left\lbrack-\frac{2}{u^{\frac12}}\right\rbrack_4^{a}=0-\left(-1\right)=1$$
+
+# Review
+
+## Q1
+$${\displaystyle\int_6^{\infty}\dfrac{1}{z}\mathrm{d} z}=\lim_{a\to\infty}\int_6^{a}z^{-1}\mathrm{d} z=\ln\left(\infty\right)-\ln\left(6\right)$$
+
+## Q2
+$$$$
+
+## Q3
+$${\displaystyle\int_{-1}^{\infty}\dfrac{6}{(z+2)^4}\,\textrm{d}z=6\lim_{a\to\infty}\int_1^{a}\frac{1}{u^4}\mathrm{d} z=\lim_{a\to\infty}\left\lbrack-\frac{2}{u^3}\right\rbrack=2}$$

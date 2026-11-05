@@ -27,10 +27,10 @@ $$\displaylines{a_{n}=\dfrac{1}{\sqrt{n}}\\ \\ {\displaystyle L=\lim_{n\to\infty
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{a_{n}=\dfrac{n!}{7^{n}}\,\\ \\ L={\displaystyle\lim_{n\to\infty}\left|\dfrac{\left(n+1\right)n!}{7^{n}\cdot7}\cdot\dfrac{7^{n}}{n!}\right|=\frac{n+1}{7}=\infty}}$$
 
 ## Q2
-$$$$
+$$\displaylines{a_{n}=\dfrac{2(-1)^{n}}{3n+1}\\ \\ {\displaystyle L=\lim_{n\to\infty}\left|\dfrac{2(-1)^{n}\left(-1\right)}{3n+4}\cdot\frac{3n+1}{2\left(-1\right)^{n}}\right|=\frac{3n+1}{3n+4}=1}}$$
 
 ## Q3
-$$$$
+$$\displaylines{a_{n}=\dfrac{3}{n+6}\\ \\ {\displaystyle L=\lim_{n\rightarrow\infty}\left|\frac{3}{n+7}\cdot\frac{n+6}{3}\right|=1}}$$
