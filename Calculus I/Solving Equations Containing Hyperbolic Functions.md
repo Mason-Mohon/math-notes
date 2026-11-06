@@ -42,3 +42,15 @@ $$\displaylines{5\cosh{x}-\sinh{x}=5\\ \\ 5\left(\frac12\left(e^{x}+e^{-x}\right
 
 ## Q3
 $$\displaylines{4\tanh{x}=-3\\ \\ 4\left(\frac{e^{x}-e^{-x}}{e^{x}+e^{-x}}\right)=-3\\ \\ 4u^2-4=-3u^2-3\\ \\ 7u^2=1\\ \\ 2x=\ln\left(\frac17\right)\\ \\ x=-\frac12\ln7}$$
+
+# Review
+$$\displaylines{\cosh x=\frac12\left(e^{x}+e^{-x}\right)\\ \\ \sinh x=\frac12\left(e^{x}-e^{-x}\right)\\ \\ \tanh x=\frac{e^{x}-e^{-x}}{e^{x}+e^{-x}}}$$
+
+## Q1
+$$\displaylines{\cosh{x}-\sinh{x}=1\\ \\ 2e^{-x}=2\\ \\ 1=e^{-x},x=0}$$
+
+## Q2
+$$\displaylines{41\tanh{x}=9\\ \\ 41e^{2x}-41=9e^{2x}+9\\ \\ 32e^{2x}=50\\ \\ 2x=\ln\left(\frac{25}{16}\right)\to x=\frac12\ln\left(\frac{25}{16}\right)=\ln\left(\frac54\right)}$$
+
+## Q3
+$$\displaylines{7\tanh{x}=5\\ \\ e^{2x}=6\\ \\ 2x=\ln6}$$
