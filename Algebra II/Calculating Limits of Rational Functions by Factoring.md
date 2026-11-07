@@ -1,4 +1,4 @@
-Math Academy Algebra II
+Math Academy Algebra II Rational Functions
 
 ![](../assets/Pasted%20image%2020260710130559.png)
 

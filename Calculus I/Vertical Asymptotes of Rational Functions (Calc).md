@@ -1,5 +1,5 @@
 Math Academy Calculus I
-[Vertical Asymptotes of Rational Functions](../Precalculus/Vertical%20Asymptotes%20of%20Rational%20Functions.md)
+[Vertical Asymptotes of Rational Functions](../Precalculus/Vertical%20Asymptotes%20of%20Rational%20Functions.md) Rational Functions
 
 ![](../assets/Pasted%20image%2020260721152210.png)
 

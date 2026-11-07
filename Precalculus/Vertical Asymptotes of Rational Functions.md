@@ -1,4 +1,4 @@
-Math Academy Precalculus Limits
+Math Academy Precalculus Limits Rational Functions
 
 ![](../assets/Screenshot%202026-07-01%20at%209.45.00%20PM.png)
 

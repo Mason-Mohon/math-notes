@@ -1,4 +1,4 @@
-Math Academy Algebra II Roots
+Math Academy Algebra II Roots Rational Functions
 
 Need to factor numerator and denominator and cancel common factors, then set numerator equal to zero and solve.
 $$\displaylines{f\left(x\right)=\frac{x-3}{x^2-25}\\ \\ f\left(x\right)=\frac{x-3}{\left(x+5\right)\left(x-5\right)}}$$

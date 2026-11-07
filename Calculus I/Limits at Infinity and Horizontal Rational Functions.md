@@ -1,4 +1,4 @@
-Math Academy Calculus I Limits
+Math Academy Calculus I Limits Rational Functions
 
 ![](../assets/Pasted%20image%2020260722153828.png)
 

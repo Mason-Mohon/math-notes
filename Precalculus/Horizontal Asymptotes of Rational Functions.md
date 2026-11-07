@@ -1,4 +1,4 @@
-Math Academy Precalculus
+Math Academy Precalculus Rational Functions
 
 ![](../assets/Pasted%20image%2020260720161743.png)
 

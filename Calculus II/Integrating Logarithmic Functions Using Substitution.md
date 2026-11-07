@@ -27,10 +27,10 @@ $$\displaylines{{\displaystyle{\int_{e/3}^{e^2/3}\dfrac{5\ln(3x)}{4x}\,\textrm{d
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{{\displaystyle\int\dfrac{1}{x\log_3{x}}\,\textrm{d}x}\\ \\ u=\log_3x\Rightarrow\frac{\mathrm{d} u}{\mathrm{d} x}=\frac{1}{x\ln3}\\ \\ \ln3\int\frac{1}{u}=\ln3\cdot\ln|\log_3{x}|+C}$$
 
 ## Q2
-$$$$
+$$\displaylines{{\displaystyle\int\dfrac{\log_3 {(x^2)}}{x}\,\textrm{d}x}\\ \\ u=\log_3\left(x^2\right)\Rightarrow\frac{\mathrm{d} u}{\mathrm{d} x}=\frac{2x}{x^2\ln3}\Rightarrow\frac{1}{x}\mathrm{d} x=\frac{\ln\left(3\right)}{2}\mathrm{d} u\\ \\ \frac{\ln3}{2}\int u\mathrm{d} u=\dfrac{\ln3\log_3^2{(x^2)}}{4}+C}$$
 
 ## Q3
-$$$$
+$$\displaylines{{\displaystyle\int_1^2\dfrac{\log_2x}{x}\,\textrm{d}x}\\ \\ \left\lbrack\frac{\ln2}{2}\log_2^2x\right\rbrack_1^2=\frac{\ln2}{2}-0}$$
