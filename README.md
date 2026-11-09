@@ -330,6 +330,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Euler's Method - Calculating One Step](Calculus%20II/Euler%27s%20Method%20-%20Calculating%20One%20Step.md)
 - [Exponential Growth and Decay Models With First-Order ODEs](Calculus%20II/Exponential%20Growth%20and%20Decay%20Models%20With%20First-Order%20ODEs.md)
 - [Expressing Rational Functions as Sums of Partial Functions](Calculus%20II/Expressing%20Rational%20Functions%20as%20Sums%20of%20Partial%20Functions.md)
+- [Expressing Rational Functions with Repeated Factor as Sums of Partial Fractions](Calculus%20II/Expressing%20Rational%20Functions%20with%20Repeated%20Factor%20as%20Sums%20of%20Partial%20Fractions.md)
 - [Finding Areas Between Curves that Intersect at More Than Two Points](Calculus%20II/Finding%20Areas%20Between%20Curves%20that%20Intersect%20at%20More%20Than%20Two%20Points.md)
 - [Finding the Area of a Polar Region](Calculus%20II/Finding%20the%20Area%20of%20a%20Polar%20Region.md)
 - [Finding the Sum of an Infinite Geometric Series](Calculus%20II/Finding%20the%20Sum%20of%20an%20Infinite%20Geometric%20Series.md)
