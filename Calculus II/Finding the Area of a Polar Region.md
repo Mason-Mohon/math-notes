@@ -26,14 +26,12 @@ $$\displaylines{r=4(3\theta^2+2\sin(2\theta)),\dfrac{\pi}{6}\leq\theta\leq\dfrac
 
 
 # Review
-
+$$ A=\frac12\int_{\theta_1}^{\theta_2}r^2\mathrm{d}\theta $$
 ## Q1
-$$$$
+$$\displaylines{r=\sin\theta+\cos\theta,0\leq\theta\leq\dfrac{\pi}{4}\\ \\ A=\frac12\int_0^{\frac{\pi}{4}}\left(\sin\theta+\cos\theta\right)^2\mathrm{d}\theta=\frac12\int_0^{\frac{\pi}{4}}\left(2\sin\theta\cos\theta+\mathrm{1}\right)\mathrm{d}\theta\\ \\ =\frac12\left\lbrack\theta-\frac12\cos\left(2\theta\right)\right\rbrack_0^{\frac{\pi}{4}}=\frac12\left(\frac{\pi}{4}\right)-\frac12\left(0-\frac12\right)=\frac{\pi}{8}+\frac14=\frac{\pi+2}{8}}$$
 
 ## Q2
-$$$$
+$$\displaylines{r=1+\dfrac{\sin(\theta)}{3},\dfrac{\pi}{2}\leq\theta\leq{\pi}\\ \\ A=\frac12\int_{\frac{\pi}{2}}^{\pi}\left(1+\dfrac{\sin(\theta)}{3}\right)^2\mathrm{d}\theta}$$
 
 ## Q3
-$$$$
-
-$$$$
+$$\displaylines{r=4-3\cos\theta,\dfrac{\pi}{2}\leq\theta\leq\pi\\ \\ A=\frac12\int_{\frac{\pi}{2}}^{\pi}\left(4-3\cos\theta\right)^2\mathrm{d}\theta=\frac12\int_{\frac{\pi}{2}}^{\pi}\left(16-24\cos\theta+9\cos^2\theta\right)\mathrm{d}\theta\\ \\ =\frac12\left\lbrack\frac{41}{2}\theta-24\sin\theta+\frac94\sin\left(2\theta\right)\right\rbrack_{\frac{\pi}{2}}^{\pi}\\ \\ =\left(\frac{41\pi}{4}-12\sin\pi+\frac98\sin\left(2\pi\right)\right)-\left(\frac{41\pi}{8}-12\sin\frac{\pi}{2}+\frac98\sin\left(\pi\right)\right)\\ \\ =\frac{41\pi}{4}-0+0-\frac{41\pi}{8}+12+0=\frac{41\pi}{8}+12}$$

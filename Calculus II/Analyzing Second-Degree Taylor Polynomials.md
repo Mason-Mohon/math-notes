@@ -17,5 +17,6 @@ $$P_2(x)=4-9(x+8)+2(x+8)^2$$
 ## Q2
 $$\displaylines{P_2(x)=8(x-5)-2(x-5)^2\\ \\ 8=f^{\prime}}$$
 
-## Q3
-$$$$
+# Review
+## Q1
+$$P_2\left(x\right)=1-\frac12f^{\prime\prime}\left(a\right)\left(x-a\right)^2$$
