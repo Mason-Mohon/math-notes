@@ -18,16 +18,22 @@ $$\lim\limits_{x\to1}\dfrac{x^2f(x)+\ln x-2}{xg(x)+\sin(x-1)-1}=\frac{2xf\left(x
 ![](../assets/Pasted%20image%2020260828112235.png)
 $$\displaylines{\lim\limits_{x\to1}\dfrac{f(x)+x}{g(x)-x}\\ \\ }$$
 
-## Q4
-$$$$
-
 # Review
 
-## Q1
-$$$$
 
 ## Q2
 $$\displaylines{\lim\limits_{x\to{\pi}/{2}}\dfrac{f(x)\sin{2x}}{x\cos{x}-g(x)}\\ \\ =\frac{f^{\prime}\left(x\right)\sin2x+2\cos2xf\left(x\right)}{\cos x-x\sin x-g^{\prime}\left(x\right)}=\frac{-2\cdot0+2\cdot-1\cdot\pi}{0-\frac{\pi}{2}\cdot1-\frac{\pi}{2}}=\frac{2\pi}{\pi}}$$
 
 ## Q3
 $$\lim\limits_{x\to0}\dfrac{\,f(x)-\sin x\,}{(g(x))^2-4}=\frac{f^{\prime}\left(x\right)-\cos x}{2g\left(x\right)\cdot g^{\prime}\left(x\right)}=\frac{f^{\doubleprime}\left(x\right)+\sin x}{2\left(\left(g^{\prime}\left(x\right)\right)^2+g\left(x\right)\cdot g^{\doubleprime}\left(x\right)\right)}=\frac{6}{2\left(0^2+6\right)}=\frac12$$
+
+# Review
+
+## Q1
+$$\lim\limits_{x\to-6}\dfrac{x^2-36}{f(x)+g(x)}=\frac{2x}{f^{\prime}\left(x\right)+g^{\prime}\left(x\right)}=-\frac{12}{4}=-3$$
+
+## Q2
+$$\lim\limits_{x\to-8}\dfrac{xf(x)}{1+g(x)}=\frac{xf^{\prime}\left(x\right)+f\left(x\right)}{g^{\prime}\left(x\right)}=-4$$
+
+## Q3
+$$\lim\limits_{x\to0.125}\dfrac{3f(x)-g(x)}{(f(x))^2-8x}=\frac{3f^{\prime}\left(x\right)-g^{\prime}\left(x\right)}{2f^{\prime}\left(x\right)f\left(x\right)-8}=\frac{3f^{\prime\prime}\left(x\right)-g^{\prime\prime}\left(x\right)}{2\left(f^{\prime}\left(x\right)\right)^2+2f\left(x\right)f^{\prime\prime}\left(x\right)}=\frac{12-5}{32+8}=\frac{7}{40}$$
