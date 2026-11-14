@@ -4,7 +4,7 @@ Math Academy
 Subject: Calculus II
 Topics: Sequences [Monotonic Sequences](Monotonic%20Sequences.md)
 
-Pasted image 20261008090833.png
+![](../assets/Pasted%20image%2020261008090833.png)
 
 $$\displaylines{L=\frac{a_{n+1}}{a_{n}}\\ \\ L\ge1,a_{n}\text{ is increasing}\\ \\ 0<L\le1,a_{n}\text{ is decreasing}}$$
 

@@ -2,7 +2,7 @@
 2026-11-09
 Math Academy
 Subject: Calculus II
-Topics: Geometric Series
+Topics: Geometric Series Series Convergence and Divergence
 
 ![](../assets/Pasted%20image%2020261109112453.png)
 ## Q7

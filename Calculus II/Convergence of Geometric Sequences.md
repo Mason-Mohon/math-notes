@@ -2,7 +2,7 @@
 2026-09-16
 Math Academy
 Subject: Calculus II
-Topics: Sequences
+Topics: Sequences Convergence and Divergence
 
 ![](../assets/Pasted%20image%2020260916111131.png)
 

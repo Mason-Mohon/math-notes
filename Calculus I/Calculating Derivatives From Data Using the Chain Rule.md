@@ -28,7 +28,7 @@ $$\displaylines{\dfrac{\textrm{d}}{\textrm{d}x}\,\cot(fx)),f\left(1\right)=\frac
 $$\displaylines{z^{\prime}\left(x\right)=e^{g\left(x\right)}\cdot g^{\prime}\left(x\right)\\ \\ z^{\prime}\left(5\right)=4e}$$
 
 ## Q8
-Pasted image 20260819123633.png
+![](../assets/Pasted%20image%2020260819123633.png)
 $$\displaylines{z(x)=e^{g(x)}\\ \\ z^{\prime}\left(4\right)=2e^3}$$
 
 

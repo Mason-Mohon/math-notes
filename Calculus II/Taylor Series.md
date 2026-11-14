@@ -2,7 +2,7 @@
 2026-10-22
 Math Academy
 Subject: Calculus II
-Topics: Infinite Series [Maclaurin Series](Maclaurin%20Series.md) Taylor Polynomials
+Topics: Infinite Series [Maclaurin Series](Maclaurin%20Series.md) Taylor Polynomials Series
 
 $$\displaylines{f\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)+\frac{f^{\doubleprime}\left(a\right)}{2!}\left(x-a\right)^2+\frac{f^{\prime\prime\prime}\left(a\right)}{3!}\left(x-a\right)^3+\cdots\\ \\ =\sum_{k=0}^{\infty}\frac{f^{\left(k\right)}\left(a\right)}{k!}\left(x-a\right)^{k}}$$
 
@@ -51,3 +51,16 @@ $$\displaylines{f\left(x\right)=\sin{x}\Rightarrow\sin\left(\pi\right)=0\\ \\ f^
 
 ## Q3
 $$\displaylines{x^{-\frac12}=\frac13-\frac{1}{54}\left(x-9\right)\\ \\ 8^{-\frac12}=\frac{19}{54}}$$
+
+# Review
+
+$$\displaylines{f\left(x\right)=f\left(a\right)+f^{\prime}\left(a\right)\left(x-a\right)+\frac{f^{\doubleprime}\left(a\right)}{2!}\left(x-a\right)^2+\frac{f^{\prime\prime\prime}\left(a\right)}{3!}\left(x-a\right)^3+\cdots\\ \\ =\sum_{k=0}^{\infty}\frac{f^{\left(k\right)}\left(a\right)}{k!}\left(x-a\right)^{k}}$$
+
+## Q1
+$$\displaylines{f(x)=\sqrt{x},x=9\\ \\ \sqrt{x}=3+\frac16\left(x-9\right)-\frac{1}{216}\left(x-9\right)^2\\ \\ \sqrt{10}=3+\frac16-\frac{1}{216}=3.16204}$$
+
+## Q2
+$$\cos{x} = -\left(x-\dfrac{\pi}{2}\right) + \dfrac{1}{6} \left(x-\dfrac{\pi}{2}\right)^3 - \dfrac{1}{120} \left(x-\dfrac{\pi}{2}\right)^5 + \cdots$$
+
+## Q3
+$$\displaylines{x^{1/4},x=16\\ \\ f^{\prime}\left(x\right)=\frac14x^{-\frac34}\Rightarrow f^{\prime}\left(16\right)=\frac{1}{32}\\ \\ x^{\frac14}=2+\frac{1}{32}\left(x-16\right)\\ \\ 12^{\frac14}=2-\frac18=\frac{15}{8}}$$

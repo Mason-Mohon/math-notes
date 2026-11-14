@@ -383,6 +383,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [The Arc Length of a Planar Curve](Calculus%20II/The%20Arc%20Length%20of%20a%20Planar%20Curve.md)
 - [The Area Between Curves Expressed as Functions of Y](Calculus%20II/The%20Area%20Between%20Curves%20Expressed%20as%20Functions%20of%20Y.md)
 - [The Average Value of a Function](Calculus%20II/The%20Average%20Value%20of%20a%20Function.md)
+- [The Comparison Test](Calculus%20II/The%20Comparison%20Test.md)
 - [The Integral Test](Calculus%20II/The%20Integral%20Test.md)
 - [The Nth Term Test for Divergence](Calculus%20II/The%20Nth%20Term%20Test%20for%20Divergence.md)
 - [The Ratio Test](Calculus%20II/The%20Ratio%20Test.md)
