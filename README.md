@@ -372,6 +372,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Representing Functions as Power Series](Calculus%20II/Representing%20Functions%20as%20Power%20Series.md)
 - [Second Derivatives of Parametric Equations](Calculus%20II/Second%20Derivatives%20of%20Parametric%20Equations.md)
 - [Second-Degree Taylor Polynomials](Calculus%20II/Second-Degree%20Taylor%20Polynomials.md)
+- [Selecting Procedures for Analyzing Infinite Series](Calculus%20II/Selecting%20Procedures%20for%20Analyzing%20Infinite%20Series.md)
 - [Slope Fields for Autonomous Differential Equations](Calculus%20II/Slope%20Fields%20for%20Autonomous%20Differential%20Equations.md)
 - [Slope Fields for Directly Integrable Differential Equations](Calculus%20II/Slope%20Fields%20for%20Directly%20Integrable%20Differential%20Equations.md)
 - [Solving First-Order IVPs Using Separation of Variables](Calculus%20II/Solving%20First-Order%20IVPs%20Using%20Separation%20of%20Variables.md)
@@ -396,6 +397,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 
 ## Linear Algebra
 
+- [Statements and Predicates](Linear%20Algebra/Statements%20and%20Predicates.md)
 
 ## Multivariable Calculus
 
@@ -484,3 +486,4 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Rules for Differentiating and Critical Points](Quizzes/Rules%20for%20Differentiating%20and%20Critical%20Points.md)
 - [Stock and Commodity Prices With Piecewise Continuous Functions](Quizzes/Stock%20and%20Commodity%20Prices%20With%20Piecewise%20Continuous%20Functions.md)
 - [Stock and Commodity Prices With Piecewise-Continuous Functions](Quizzes/Stock%20and%20Commodity%20Prices%20With%20Piecewise-Continuous%20Functions.md)
+- [The Chain Rule and Related Rates Involving the Motion of a Particle](Quizzes/The%20Chain%20Rule%20and%20Related%20Rates%20Involving%20the%20Motion%20of%20a%20Particle.md)

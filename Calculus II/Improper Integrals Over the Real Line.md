@@ -39,3 +39,16 @@ $${\displaystyle\int_{-\infty}^{\infty}\dfrac{1}{4+x^2}\,\textrm{d}x=\frac12\lim
 
 ## Q3
 $$\displaylines{{\displaystyle\int_{-\infty}^{\infty}\dfrac{3}{9+2x^2}\,\textrm{d}x}\\ \\ \frac23\lim_{a\to\infty}\int_0^{a}\frac{1}{1+\left(\frac{\sqrt2}{3}x\right)^2}\mathrm{d} x=\lim_{a\to\infty}\frac23\left\lbrack\frac{3}{\sqrt2}\arctan\left(\frac{\sqrt2}{3}x\right)\right\rbrack_0^{a}=\frac{\pi}{\sqrt2}}$$
+
+
+$$\displaylines{\int_{-\infty}^{\infty}f\left(x\right)\mathrm{d}x=\int_{-\infty}^0f\left(x\right)\mathrm{d}x+\int_0^{\infty}f\left(x\right)\mathrm{d}x\\ \\ \int_1^{\infty}\frac{1}{x^{p}}\mathrm{d}x,p>1\text{ Converges},p\le1\text{ Diverges}\\ \\ \int\frac{1}{k^2+x^2}\mathrm{d}x=\frac{1}{k}\arctan\left(\frac{x}{k}\right)+C}$$
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle\int_{-\infty}^{\infty}\dfrac{2x}{\left(1+x^2\right)^2}\,\textrm{d}x}\\ \\ \lim_{a\to\infty}\int_0^{a}\frac{2x}{\left(1+x^2\right)^2}\mathrm{d} x,u=1+x^2\Rightarrow\frac{\mathrm{d} u}{\mathrm{d} x}=2x\\ \\ \lim_{a\to\infty}\int_1^{a}\frac{1}{u^2}\mathrm{d} u=\left\lbrack-\frac{1}{u}\right\rbrack_1^{a}\\ \\ \lim_{a\to-\infty}\int_{a}^1\frac{1}{u^2}\mathrm{d} u=\left\lbrack-\frac{1}{u}\right\rbrack_{a}^1\\ \\ 0+1-1+0=0}$$
+
+## Q2
+$$\displaylines{\int_{-\infty}^{\infty}\dfrac{1}{9+x^2}\mathrm{d}x\\ \\ =2\left\lbrack\frac13\arctan\left(\frac{x}{3}\right)\right\rbrack_0^{\infty}=\frac{\pi}{3}}$$
+
+## Q3
+$$\displaylines{{\displaystyle\int_{-\infty}^{\infty}\dfrac{x^2}{1+x^6}\,\textrm{d}x=2\lim_{a\to\infty}\int_0^{a}\frac{x^2}{1+x^6}\mathrm{d} x}\\ \\ u=x^3\Rightarrow\frac{\mathrm{d} u}{\mathrm{d} x}=3x^2\Rightarrow\frac13\mathrm{d} u=x^2\mathrm{d} x\\ \\ =\frac23\lim_{a\to\infty}\int_0^{a}\frac{1}{1+u^2}\mathrm{d} x=\frac23\cdot\frac{\pi}{2}=\frac{\pi}{3}}$$

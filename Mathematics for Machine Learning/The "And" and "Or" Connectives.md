@@ -2,7 +2,7 @@
 2026-09-11
 Math Academy
 Subject: Mathematics for Machine Learning
-Topics: Statements and Predicates
+Topics: [Statements and Predicates](../Linear%20Algebra/Statements%20and%20Predicates.md)
 
 ![](../assets/Pasted%20image%2020260911113043.png)
 ![](../assets/Pasted%20image%2020260911113454.png)

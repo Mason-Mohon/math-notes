@@ -10,15 +10,3 @@ $$\displaylines{{\displaystyle\sum_{n=1}^{\infty}\dfrac{9^{kn}}{3^{8n}}}\\ \\ \l
 
 ## Q8
 $$\displaylines{{\displaystyle\sum_{n=1}^{\infty}\left(\dfrac{4}{256^{k}}\right)^{n}}\\ \\ 4<\left(4^{4k}\right)}$$
-
-
-# Review
-
-## Q1
-$$$$
-
-## Q2
-$$$$
-
-## Q3
-$$$$

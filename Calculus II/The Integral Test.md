@@ -19,11 +19,12 @@ $$\displaylines{f(x)=\dfrac{1}{\sqrt{x+2}}\\ \\ \lim_{a\to\infty}\left\lbrack\fr
 
 # Review
 
+$$ \displaylines{\int_{-\infty}^{\infty}f\left(x\right)\mathrm{d} x=\int_{-\infty}^0f\left(x\right)\mathrm{d} x+\int_0^{\infty}f\left(x\right)\mathrm{d} x\\ \\ \int_1^{\infty}\frac{1}{x^{p}}\mathrm{d} x,p>1\text{ Converges},p\le1\text{ Diverges}} $$
 ## Q1
-$$$$
+$$\displaylines{f(x)=\dfrac{x}{\sqrt{x^2+9}}\\ \\ p=\frac12,\text{ diverges}}$$
 
 ## Q2
-$$$$
+$$\displaylines{f(x)=\dfrac{3x}{4x^2+4}\\ \\ p=1,\text{ diverges}}$$
 
 ## Q3
-$$$$
+$$\displaylines{{\displaystyle\int_4^{\infty}f(x)\,\textrm{d}x}\text{ diverges}\\ \\ {\displaystyle\sum_{n=4}^{\infty}f(n)}\text{ diverges}}$$
