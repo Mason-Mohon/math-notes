@@ -34,11 +34,13 @@ $$\dfrac{\cos(x^2)-1}{x^2}=\frac{\left(\frac12x^4+\frac{1}{24}x^8-\frac{1}{720}x
 
 # Review
 
+$$\displaylines{e^{x}=1+x+\frac{1}{2!}x^2+\frac{1}{3!}x^3+\cdots,x\in\left(-\infty,\infty\right)\\ \\ \sin\left(x\right)=x-\frac{1}{3!}x^3+\frac{1}{5!}x^5-\cdots,x\in\left(-\infty,\infty\right)\\ \\ \cos\left(x\right)=1-\frac{1}{2!}x^2+\frac{1}{4!}x^4-\cdots,x\in\left(-\infty,\infty\right)\\ \\ \ln\left(1+x\right)=x-\frac12x^2+\frac13x^3-\cdots,x\in\left(-1,1\right\rbrack\\ \\ \frac{1}{1-x}=1+x+x^2+x^3+\cdots,x\in\left(-1,1\right)\\ \\ \frac{1}{1+x}=1-x+x^2-x^3+\cdots,x\in\left(-1,1\right)}$$
+
 ## Q1
-$$$$
+$$\displaylines{\dfrac{e^x-e^{-x}}{2}=1+x+\frac{1}{2!}x^2+\frac{1}{3!}x^3-\left(1-x+\frac12x^2-\frac16x^3+\frac{1}{4!}x^4-\frac{1}{5!}x^5\right)\\ \\ \dfrac{e^{x}-e^{-x}}{2}=x+\dfrac{x^3}{6}+\dfrac{x^5}{120}+\cdots}$$
 
 ## Q2
-$$$$
+$$\sqrt{x}\sin{\sqrt{x}}=\left(\sqrt{x}-\frac{1}{3!}x^{\frac32}+\frac{1}{5!}x^{\frac52}-\ldots\right)\left(\sqrt{x}\right)$$
 
 ## Q3
-$$$$
+$$\displaylines{\ln\left(2+3x\right)=\ln2+\ln\left(\frac{3x}{2}\right)\\ \\ \ln\left(2+3x\right)=\ln{2}+\dfrac{3x}{2}-\dfrac{9x^2}{8}+\cdots}$$

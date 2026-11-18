@@ -16,3 +16,14 @@ $$\displaylines{y=f(x)=x^3-4x^2+x+3,g\left(x\right)=-3\\ \\ 0=x^3-4x^2+x+6\Right
 
 ## Q3
 $$\displaylines{y=f(x)=x^3+x^2-4x,y=4\\ \\ 0=x^3+x^2-4x-4=x^2\left(x+1\right)-4\left(x+1\right)\Rightarrow x=-2,-1,2\\ \\ A_1=\int_{-2}^{-1}\left(x^3+x^2-4x-4\right)\mathrm{d} x=\left\lbrack\frac{x^4}{4}+\frac{x^3}{3}-2x^2-4x\right\rbrack_{-2}^{-1}=\frac{23}{12}-\frac{16}{12}=\frac{7}{12}\\ \\ A_2=\left\lbrack-\frac{x^4}{4}-\frac{x^3}{3}+2x^2+4x\right\rbrack_{-1}^2=\frac{112}{12}+\frac{23}{12}=\frac{125}{12}\\ \\ A=\frac{71}{6}}$$
+
+# Review
+
+## Q1
+$$\displaylines{x=y,x=y^{1/5}\\ \\ y=y^{\frac15},y=-1,1\\ \\ A_1=\int_{-1}^0\left(x-x^5\right)\mathrm{d} x\\ \\ A_2=\int_0^1\left(x^5-x\right)\mathrm{d} x\\ \\ A=A_1+A_2=\frac23}$$
+
+## Q2
+$$\displaylines{x=f(y)=2y^3-4y^2,x=g(y)=2y-4,\\ \\ 0=2y^3-4y^2-2y+4=2\left(y^3-2y^2-y+2\right)=2\left(y^2-1\right)\left(y-2\right)\\ \\ y=-1,1,2\\ \\ A_1=\int_{-1}^1\left(f\left(y\right)-g\left(y\right)\right)\mathrm{d} y=\int_{-1}^1\left(2y^3-4y^2-2y+4\right)\mathrm{d} y\\ \\ =\left\lbrack\frac12y^4-\frac43y^3-y^2+4y\right\rbrack_{-1}^1=\left(\frac12-\frac43-1+4\right)-\left(\frac12+\frac43-1-4\right)\\ \\ =-\frac83+\frac{24}{3}=\frac{16}{3}\\ \\ A_2=\int_1^2\left(g\left(y\right)-f\left(y\right)\right)\mathrm{d} y=\int_1^2\left(-2y^3+4y^2+2y-4\right)\mathrm{d} y\\ \\ =\left\lbrack-\frac12y^4+\frac43y^3+y^2-4y\right\rbrack_1^2=\left(-8+\frac{32}{3}+4-8\right)-\left(-\frac{13}{6}\right)=\frac56\\ \\ A=A_1+A_2=\frac{37}{6}}$$
+
+## Q3
+$$\displaylines{x=y^3+3y^2,x=y+3\\ \\ 0=y^3+3y^2-y-3=\left(y+3\right)\left(y^2-1\right)\Rightarrow y=-3,-1,1\\ \\ }$$

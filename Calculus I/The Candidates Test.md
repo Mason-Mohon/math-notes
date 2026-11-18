@@ -27,3 +27,14 @@ $$\displaylines{f(x)=-\ln(x+3),-2\le x\le0,\\ \\ f^{\prime}\left(x\right)=-\frac
 
 ## Q3
 $$\displaylines{f(x)=3x^4-6x^3+1,-1\le x\le1\\ \\ f^{\prime}\left(x\right)=12x^3-18x^2=0=6x^2\left(2x-3\right),x=0,\frac32}$$
+
+# Review
+
+## Q1
+$$\displaylines{f(x)=\sin x\\ \\ f^{\prime}\left(x\right)=\cos x=0,x=\frac{\pi}{2},\frac{3\pi}{2}\\ \\ f^{\prime\prime}\left(x\right)=-\sin x\\ \\ f^{\prime\prime}\left(\frac{3\pi}{2}\right)=1>0,\text{ min}\\ \\ }$$
+
+## Q2
+$$\displaylines{f(x)=\sqrt{x},4\le x\le9.\\ \\ f^{\prime}\left(x\right)=\frac{1}{2\sqrt{x}}\\ \\ f^{\prime\prime}\left(x\right)=-\frac{1}{4\sqrt{x^3}}}$$
+
+## Q3
+$$$$

@@ -34,10 +34,16 @@ $$\displaylines{a_{n}=\dfrac{n^3}{\,2^{n-10}(n^4+6)},b_{n}=\dfrac{1}{2^{n}},b_{n
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{a_{n}=\dfrac{1}{n^{3/2}+4},b_{n}=\dfrac{1}{n^{3/2}}\\ \\ L={\displaystyle\lim_{n\to\infty}\dfrac{a_{n}}{b_{n}}}=\dfrac{n^{3/2}}{n^{3/2}+4}=1,\text{ Converges}}$$
 
 ## Q2
-$$$$
+$$\displaylines{a_{n}=\dfrac{4}{n^2(n^4+3)},b_{n}=\dfrac{1}{n^6}\\ \\ {\displaystyle L=\lim_{n\to\infty}\dfrac{a_{n}}{b_{n}}}=4,\text{ converges}}$$
 
 ## Q3
-$$$$
+$$\displaylines{a_{n}=\dfrac{3}{e^{n}+2},b_{n}=\dfrac{1}{e^{n}},\left|r\right|=\frac{1}{e}<1,\text{ converges}\\ \\ {\displaystyle L=\lim_{n\to\infty}\dfrac{a_{n}}{b_{n}}}=3}$$
+
+## Q4
+$$\displaylines{a_{n}=\dfrac{6}{2^{n}+5},b_{n}=\dfrac{1}{2^{n}},\left|r\right|=\frac12<1\text{ converges}\\ \\ {\displaystyle L=\lim_{n\to\infty}\dfrac{a_{n}}{b_{n}}}=6}$$
+
+## Q5
+$$\displaylines{a_{n}=\dfrac{2\sqrt{n^3}}{\sqrt[3]{3n^4+1}},b_{n}=\dfrac{1}{\sqrt{n}},p=\frac12,\text{ diverges}\\ \\ {\displaystyle L=\lim_{n\to\infty}\dfrac{a_{n}}{b_{n}}}=\dfrac{2n^2}{\sqrt[3]{3n^4+1}}=\frac{2}{\sqrt[3]{\frac{3}{n^2}+\frac{1}{n^6}}}=\infty}$$
