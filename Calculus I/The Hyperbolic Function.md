@@ -1,5 +1,8 @@
 Math Academy Calculus I Hyperbolic Functions
 
+
+$$\displaylines{\cosh x=\frac12\left(e^{x}+e^{-x}\right)\\ \\ \sinh x=\frac12\left(e^{x}-e^{-x}\right)\\ \\ \tanh x=\frac{e^{x}-e^{-x}}{e^{x}+e^{-x}}}$$
+
 ![](../assets/Pasted%20image%2020260722155158.png)
 
 ## Q1

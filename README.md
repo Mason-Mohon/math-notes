@@ -341,6 +341,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Finding the Sum of an Infinite Geometric Series](Calculus%20II/Finding%20the%20Sum%20of%20an%20Infinite%20Geometric%20Series.md)
 - [Further Convergence of Geometric Series](Calculus%20II/Further%20Convergence%20of%20Geometric%20Series.md)
 - [Further Determining Limits of Sequences Using Relative Magnitudes](Calculus%20II/Further%20Determining%20Limits%20of%20Sequences%20Using%20Relative%20Magnitudes.md)
+- [Further Integration of Algebraic Functions Using Substitution](Calculus%20II/Further%20Integration%20of%20Algebraic%20Functions%20Using%20Substitution.md)
 - [Further Properties of Infinite Series](Calculus%20II/Further%20Properties%20of%20Infinite%20Series.md)
 - [Harmonic Series and p-Series](Calculus%20II/Harmonic%20Series%20and%20p-Series.md)
 - [Higher-Degree Taylor Polynomials](Calculus%20II/Higher-Degree%20Taylor%20Polynomials.md)

@@ -34,3 +34,14 @@ $${\displaystyle\int\dfrac{1}{\sec^2{2x}\cos{2x}}\,\textrm{d}x=\int\left(\cos2x\
 
 ## Q3
 $${\displaystyle\int_{\pi/6}^{\pi/4}\dfrac{\cot{x}}{\csc{x}}\,\textrm{d}x=}\int\left(\frac{\cos x}{\sin x}\cdot\sin x\right)\mathrm{d} x=\sin\frac{\pi}{4}-\sin\frac{\pi}{6}=\frac{\sqrt2-1}{2}$$
+
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle\int_{\pi/12}^{\pi/4}\dfrac{\cot{3x}}{\csc{3x}}\,\textrm{d}x=\int_{\pi/12}^{\pi/4}\frac{\cos3x}{\sin3x}\cdot\sin3x\,\textrm{d}x}\\ \\ =\left\lbrack\frac13\sin\left(3x\right)\right\rbrack_{\frac{\pi}{12}}^{\frac{\pi}{4}}=\frac13\sin\left(\frac{3\pi}{4}\right)-\frac13\sin\left(\frac{\pi}{4}\right)=0}$$
+
+## Q2
+$$\displaylines{{\displaystyle\int_{\pi/12}^{\pi/4}\dfrac{\cot(2x)}{\sin^4(2x)}\,\textrm{d}x=}{\displaystyle\int_{\pi/12}^{\pi/4}\frac{\cos2x}{\sin2x}\cdot\left(\csc^2\left(2x\right)\right)^2\textrm{d}x}\\ \\ u=\csc^2\left(2x\right),\frac{\mathrm{d} u}{\mathrm{d} x}=-4\csc^2\left(2x\right)\cot\left(2x\right)\Rightarrow-\frac14\mathrm{d} u=\csc^2\left(2x\right)\cot\left(2x\right)\\ \\ =-\frac14\int_4^1u\mathrm{d} u=\frac{15}{8}}$$
+
+## Q3
+$$\displaylines{{\displaystyle\int_{\pi/9}^{\pi/6}\dfrac{3\cos(3x)}{\sin^2(3x)}\,\textrm{d}x=}3{\displaystyle\int_{\pi/9}^{\pi/6}\left(\cot3x\csc3x\right)\mathrm{d} x}=-\csc\left(\frac{\pi}{2}\right)+\csc\left(\frac{\pi}{3}\right)\\ \\ =\frac{2}{\sqrt3}-1=\frac{2\sqrt3-3}{3}}$$
