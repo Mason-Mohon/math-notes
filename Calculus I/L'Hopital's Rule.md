@@ -129,3 +129,14 @@ $${{\displaystyle\lim_{x\to\infty}\dfrac{\sqrt{x}+4x+3}{2x+3}=}}\lim_{x\to\infty
 
 ## Q10
 $${\displaystyle\lim_{x\to\infty}\dfrac{\sqrt{x}}{\ln^2x}=\frac{\left(\dfrac{1}{2\sqrt{x}}\right)}{\left(\dfrac{2\ln x}{x}\right)}}=\lim_{x\to\infty}\frac{\sqrt{x}}{4\ln x}=\lim_{x\to\infty}\frac{\sqrt{x}}{8}=\infty$$
+
+# Review
+
+## Q1
+$${\displaystyle\lim_{x\to{1}^{-}}\dfrac{\ln{(1-x)}}{\tan\!\left(\dfrac{\pi x}{2}\right)}=}\frac{-\left(1-x\right)^{-1}}{\frac{\pi}{2}\sec^2\left(\frac{\pi x}{2}\right)}=-\frac{2}{\pi}\frac{\cos^2\left(\frac{\pi x}{2}\right)}{1-x}=-2\cos\left(\frac{\pi x}{2}\right)\sin\left(\frac{\pi x}{2}\right)$$
+
+## Q2
+$${\displaystyle\lim_{x\to0^{+}}\dfrac{\left(\dfrac{3}{x^3}+1\right)}{\left(\dfrac{2}{x^2}\right)}=}\frac{3+x^3}{2x}=\infty$$
+
+## Q3
+$$\displaylines{{{\displaystyle\lim_{x\to3}\frac{(x^2-5)^2-48x+128}{x^2-6x+9}=}}\frac{16-144+128}{9-18+9}=\frac00\\ \\ \lim_{x\to3}\frac{4x^3-20x-48}{2x-6}=\lim_{x\to3}\frac{12x^2-20}{2}=44}$$

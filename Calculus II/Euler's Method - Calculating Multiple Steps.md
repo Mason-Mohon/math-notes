@@ -12,6 +12,7 @@ $$y^{\prime}=y\,e^{x},\qquad y(0)=1,\Delta x=3$$
 | --- | --- | ---- | ----- |
 | 0   | 1   | 1    | 3     |
 | 3   | 4   | 4e^3 | 12e^3 |
+|     |     |      |       |
 
 ## Q2
 $$\displaylines{y^{\prime}=\frac{xy^2}{2},\qquad y(2)=1,\Delta x=\frac12\\ \\ y^{\prime}=\frac12\cdot\frac52\cdot\frac94=\frac{45}{16}}$$
