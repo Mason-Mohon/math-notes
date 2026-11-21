@@ -5,7 +5,7 @@ Subject: Calculus II
 Topics: Series Convergence and Divergence
 
 
-$$\displaylines{\sum_{n=1}^{\infty}\frac{x^{n}}{n^2}=x+\frac{x^2}{2^2}+\frac{x^3}{3^2}+\frac{x^4}{4^2}+\cdots\\ \\ \text{Ratio test}\\ \\ L=\lim_{n\to\infty}\left|\frac{a_{n+1}}{a_{n}}\right|=1,\text{inconclusive}\\ \\ x=1\text{ converges by p series test}\\ \\ x=-1\text{ converges by alternating series test}\\ \\ x\in\left\lbrack-1,1\right\rbrack\text{ interval of convergenct}\\ \\ \text{Radius of convergence }\\ \\ R=\frac{1-\left(-1\right)}{2}=1}$$
+$$\displaylines{\sum_{n=1}^{\infty}\frac{x^{n}}{n^2}=x+\frac{x^2}{2^2}+\frac{x^3}{3^2}+\frac{x^4}{4^2}+\cdots\\ \\ \text{Ratio test}\\ \\ L=\lim_{n\to\infty}\left|\frac{a_{n+1}}{a_{n}}\right|=1,\text{inconclusive}\\ \\ x=1\text{ converges by p series test}\\ \\ x=-1\text{ converges by alternating series test}\\ \\ x\in\left\lbrack-1,1\right\rbrack\text{ interval of convergenct}\\ \\ \text{Radius of convergence }\\ \\ R=\frac{1-\left(-1\right)}{2}=1\\ \hline\\ \\ \\ \hline}$$
 
 
 ## Q1
@@ -24,16 +24,16 @@ $$\displaylines{\sum_{n=1}^{\infty}\dfrac{x^{n}}{4^{n}(5n-2)}=\dfrac{x}{4\cdot3}
 $$\displaylines{\sum_{n=0}^{\infty}\frac{3^{n}x^{n}}{n^2+1}=1+\dfrac{3x}{2}+\frac{3^2x^2}{5}+\frac{3^3x^3}{10}+\cdots\,.\\ \\ L=\lim_{n\to\infty}\left|\frac{a_{n+1}}{a_{n}}\right|=\left(\frac{3x\cdot3^{n}x^{n}}{\left(n+1\right)^2+1}\right)\cdot\left(\frac{n^2+1}{3^{n}x^{n}}\right)=3\left|x\right|\lim_{n\to\infty}\frac{n^2+1}{\left(n+1\right)^2+1}\\ \\ R=\frac13\\ \\ x=\frac13\Rightarrow\sum_{n=0}^{\infty}\frac{3^{n}\cdot\frac13^{n}}{n^2+1}=\sum_{n=0}^{\infty}\frac{1}{n^2+1}\le\frac{1}{n^2}\text{ compare wiht p series},\text{ }p=2>1,\text{ converges}\\ \\ x=-\frac13\Rightarrow\sum_{n=0}^{\infty}\frac{\left(-1\right)^{n}}{n^2+1}\le\frac{1}{n^2}\text{, same as above}\\ \\ x\in\left[-\dfrac13,\dfrac13\right]}$$
 
 ## Q6
-$$\displaylines{\sum_{n=0}^{\infty}\frac{x^{n}}{(2n+1)!}=1+\frac{x}{3!}+\frac{x^2}{5!}+\frac{x^3}{7!}+\cdots\,.\\ \\ L=\lim_{n\to\infty}\left|\frac{a_{n+1}}{a_{n}}\right|=\left(\frac{x\cdot x^{n}}{(2n+3)!}\right)\cdot\frac{\left(2n+1\right)!}{x^{n}}=\left|x\right|\lim_{n\to\infty}\frac{\left(2n+1\right)!}{\left(2n+3\right)\left(2n+2\right)\left(2n+1\right)!}\\ \\ R=\infty}$$
+$$\displaylines{\sum_{n=0}^{\infty}\frac{x^{n}}{(2n+1)!}=1+\frac{x}{3!}+\frac{x^2}{5!}+\frac{x^3}{7!}+\cdots\,.\\ \\ L=\lim_{n\to\infty}\left|\frac{a_{n+1}}{a_{n}}\right|=\left(\frac{x\cdot x^{n}}{(2n+3)!}\right)\cdot\frac{\left(2n+1\right)!}{x^{n}}\\ \\ =\left|x\right|\lim_{n\to\infty}\frac{\left(2n+1\right)!}{\left(2n+3\right)\left(2n+2\right)\left(2n+1\right)!}\\ \\ R=\infty}$$
 
 
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{{\displaystyle\sum_{n=0}^{\infty}\frac{n^2 x^{n}}{n!}}\\ \\ L=\lim_{n\to\infty}\left(\frac{\left(n+1\right)^2x\cdot x^{n}}{\left(n+1\right)\cdot n!}\cdot\frac{n!}{n^2x^{n}}\right)=\left|x\right|\lim_{n\to\infty}\left(\frac{n+1}{n^2}\right)=0\\ \\ x\in\left(-\infty,\infty\right)}$$
 
 ## Q2
-$$$$
+$$\displaylines{\sum_{n=0}^{\infty}\frac{x^{n}}{(n+1)!}=1+\frac{x}{2!}+\frac{x^2}{3!}+\frac{x^3}{4!}+\cdots\,\\ \\ L=\lim_{n\to\infty}\left|\frac{x\cdot x^{n}}{\left(n+2\right)\left(n+1\right)!}\cdot\frac{\left(n+1\right)!}{x^{n}}\right|=\left|x\right|\lim_{n\to\infty}\left(\frac{1}{n+2}\right)\to0\\ \\ R=\infty}$$
 
 ## Q3
-$$$$
+$$\displaylines{{\displaystyle\sum_{n=1}^{\infty}\frac{x^{n}}{n^3}=x+\dfrac{x^2}{2^3}+\dfrac{x^3}{3^3}+\dfrac{x^4}{4^3}+\cdots\,}\\ \\ L=\lim_{n\to\infty}\left|\frac{x\cdot x^{n}}{\left(n+1\right)^3}\cdot\frac{n^3}{x^{n}}\right|=\left|x\right|\lim_{n\to\infty}\frac{n^3}{\left(n+1\right)^3}\Rightarrow\left|x\right|<1\\ \\ R=1\\ \\ \frac{1}{n^3},p=3>1,\text{ both converge}\\ \\ x\in\left\lbrack-1,1\right\rbrack\\ \\ \\ \\ \hline}$$

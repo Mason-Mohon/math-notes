@@ -46,3 +46,14 @@ $$\displaylines{f(t)=t^2e^{3t},{\displaystyle h(x)=\int_{x}^3f(t)\,\textrm{d}t},
 
 ## Q3
 $$\displaylines{g(x)={\displaystyle\int_1^{x^4+2x}\ln(t)\,\textrm{d}t.}\\ \\ g^{\prime}\left(x\right)=\left(4x^3+2\right)\ln\left(x^4+2x\right)}$$
+
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle f(x)=\int_{x}^{x^4}\dfrac{1}{\arctan{t}+2}\,\textrm{d}t}\\ \\ f^{\prime}\left(x\right)=\frac{4x^3}{\arctan\left(x^4\right)+2}-\frac{1}{\arctan x+2}\\ \\ f^{\prime}\left(0\right)=-\frac12}$$
+
+## Q2
+$$\displaylines{f(t)=\dfrac{1}{t^2+1},{\displaystyle h(x)=\int_{x}^2f(t)\,\textrm{d}t},h^{\prime}\left(1\right)=?\\ \\ h^{\prime}\left(x\right)=-\frac{1}{x^2+1}\\ \\ h^{\prime}\left(1\right)=-\frac12}$$
+
+## Q3
+$$\displaylines{f(t)=2t^3+t^2-1,{\displaystyle h(x)=\int_{x}^1f(t)\,\textrm{d}t},h^{\prime}\left(0\right)=?\\ \\ h^{\prime}\left(x\right)=-2x^3-x^2+1\\ \\ h^{\prime}\left(0\right)=1}$$
