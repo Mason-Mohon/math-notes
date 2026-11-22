@@ -424,6 +424,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Applying the Chain Rule and L'Hopital's Rule to Data and Tables](Quizzes/Applying%20the%20Chain%20Rule%20and%20L%27Hopital%27s%20Rule%20to%20Data%20and%20Tables.md)
 - [Applying the Rules of Differentiation and Integration 1](Quizzes/Applying%20the%20Rules%20of%20Differentiation%20and%20Integration%201.md)
 - [Applying the Rules of Differentiation and Integration](Quizzes/Applying%20the%20Rules%20of%20Differentiation%20and%20Integration.md)
+- [Areas Under Curves and the Fundamental Theorem of Calculus](Quizzes/Areas%20Under%20Curves%20and%20the%20Fundamental%20Theorem%20of%20Calculus.md)
 - [Continuity, Discontinuities, and Differentiability](Quizzes/Continuity%2C%20Discontinuities%2C%20and%20Differentiability.md)
 - [Definite Integrals of Functions from Graphs](Quizzes/Definite%20Integrals%20of%20Functions%20from%20Graphs.md)
 - [Differential Equations, Separation of Variables, and Limits of Exponential Functions](Quizzes/Differential%20Equations%2C%20Separation%20of%20Variables%2C%20and%20Limits%20of%20Exponential%20Functions.md)
