@@ -399,6 +399,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [The Tabular Method of Integration by Parts](Calculus%20II/The%20Tabular%20Method%20of%20Integration%20by%20Parts.md)
 - [Third-Degree Taylor Polynomials](Calculus%20II/Third-Degree%20Taylor%20Polynomials.md)
 - [Using Integration by Parts to Calculate Integrals With Logarithms](Calculus%20II/Using%20Integration%20by%20Parts%20to%20Calculate%20Integrals%20With%20Logarithms.md)
+- [Volumes of Revolution Using the Disc Method - Rotation About the Coordinate Axes](Calculus%20II/Volumes%20of%20Revolution%20Using%20the%20Disc%20Method%20-%20Rotation%20About%20the%20Coordinate%20Axes.md)
 - [Writing an Infinite Geometric Series in Sigma Notation](Calculus%20II/Writing%20an%20Infinite%20Geometric%20Series%20in%20Sigma%20Notation.md)
 
 ## Linear Algebra
