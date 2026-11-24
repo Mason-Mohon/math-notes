@@ -2,7 +2,7 @@
 2026-11-22
 Math Academy
 Subject: Calculus II
-Topics: Integrals
+Topics: Integrals Volumes of Revolution
 
 
 $$\displaylines{V=\pi\int_{a}^{b}y^2\mathrm{d}x=\pi\int_{a}^{b}\left\lbrack f\left(x\right)\right\rbrack^2\mathrm{d}x\\ \\ V=\pi\int_{c}^{d}\left\lbrack g\left(y\right)\right\rbrack^2\mathrm{d} y}$$

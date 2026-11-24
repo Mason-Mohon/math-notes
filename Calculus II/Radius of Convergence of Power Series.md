@@ -20,10 +20,10 @@ $$\displaylines{{\displaystyle\sum_{n=0}^{\infty}a_{n}(x+1)^{n}},x=\dfrac32==c\\
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{\sum_{n=0}^{\infty}\frac{(x-3)^{n}}{(2n)!}=1+\frac{(x-3)}{2!}+\frac{(x-3)^2}{4!}+\frac{(x-3)^3}{6!}+\cdots\,.\\ \\ L=\lim_{n\to\infty}\left|\frac{(x-3)(x-3)^{n}}{\left(2n+1)\left(2n+2\right)(2n\right)!}\cdot\frac{\left(2n\right)!}{\left(x-3\right)^{n}}\right|\\ \\ =\left|x-3\right|\lim_{n\to\infty}\frac{1}{\left(2n+1\right)\left(2n+2\right)}=\left|x-3\right|\cdot0\Rightarrow R=\infty}$$
 
 ## Q2
-$$$$
+$$\displaylines{\sum_{n=1}^{\infty}\dfrac{5^{n}(x-4)^{n}}{n!}=5(x-4)+\dfrac{5^2(x-4)^2}{2!}+\dfrac{5^3(x-4)^3}{3!}+\cdots\,.\\ \\ L=\left|x-4\right|\lim_{n\to\infty}\left(\frac{5}{n}\right)=0\\ \\ R=\infty}$$
 
 ## Q3
 $$$$

@@ -47,3 +47,14 @@ $$\displaylines{a_{n}=\dfrac{6}{2^{n}+5},b_{n}=\dfrac{1}{2^{n}},\left|r\right|=\
 
 ## Q5
 $$\displaylines{a_{n}=\dfrac{2\sqrt{n^3}}{\sqrt[3]{3n^4+1}},b_{n}=\dfrac{1}{\sqrt{n}},p=\frac12,\text{ diverges}\\ \\ {\displaystyle L=\lim_{n\to\infty}\dfrac{a_{n}}{b_{n}}}=\dfrac{2n^2}{\sqrt[3]{3n^4+1}}=\frac{2}{\sqrt[3]{\frac{3}{n^2}+\frac{1}{n^6}}}=\infty}$$
+
+# Review
+
+## Q1
+$$\displaylines{a_{n}=\dfrac{{2\sqrt{n}}}{{3n\sqrt{{n^3}+1}}},b_{n}=\dfrac{1}{n^2}\\ \\ {\displaystyle L=\lim_{n\to\infty}\dfrac{a_{n}}{b_{n}}}=\dfrac{{2\sqrt{n}}}{{3n\sqrt{{n^3}+1}}}\cdot n^2=\frac23}$$
+
+## Q2
+$$\displaylines{a_{n}=\dfrac{2}{n^5+6},b_{n}=\dfrac{1}{n^5}\\ \\ L=2}$$
+
+## Q3
+$$a_n = \dfrac{9(2^n) + 1}{3(5^n) + 7}$$

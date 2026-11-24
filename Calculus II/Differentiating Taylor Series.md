@@ -38,10 +38,10 @@ $$\displaylines{{\displaystyle f(x)=\sum_{n=1}^{\infty}\dfrac{(-2)^{n-1}}{n^2}x^
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{{\displaystyle f(x)=\sum_{n=1}^{\infty}2^{n}x^{n}}\\ \\ f^{\prime}(x)=\sum_{n=1}^{\infty}n2^{n}x^{n-1}\\ \\ L=\lim_{n\to\infty}\left|\frac{2\left(n+1\right)2^{n}\left(x^{n-1}\right)x}{n\left(2^{n}\right)\left(x^{n-1}\right)}\right|=\left|2x\right|\lim_{n\to\infty}\frac{n+1}{n}=2x<1\Rightarrow x<\frac12\\ \\ R=\frac12}$$
 
 ## Q2
-$$$$
+$$\displaylines{{\displaystyle f(x)=\sum_{n=1}^{\infty}(-1)^{n+1}\dfrac{n(x-3)^{n}}{n+3}}\\ \\ f^{\prime}(x)=\sum_{n=1}^{\infty}(-1)^{n+1}a_{n}\\ \\ a_{n}=\dfrac{n^2(x-3)^{n-1}}{n+3}}$$
 
 ## Q3
-$$$$
+$$\displaylines{{\displaystyle f(x)=\sum_{n=1}^{\infty}\dfrac{(3x)^{n}}{2^{n+1}}}\\ \\ f^{\prime}(x)=\sum_{n=1}^{\infty}\dfrac{3n(3x)^{n-1}}{2^{n+1}}\\ \\ L=\lim_{n\to\infty}\left|\dfrac{3\left(n+1\right)(3x)^{n-1}\cdot\left(3x\right)}{2\left(2^{n+1}\right)}\cdot\frac{2^{n+1}}{3\left(n\right)(3x)^{n-1}}\right|\\ \\ =\left|3x\right|\lim_{n\to\infty}\left(\frac{n+1}{2n}\right)=\frac32x<1\Rightarrow x<\frac23\\ \\ R=\frac23}$$
