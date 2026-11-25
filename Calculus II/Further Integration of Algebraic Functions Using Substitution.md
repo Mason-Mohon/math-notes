@@ -30,3 +30,14 @@ $$\displaylines{{\displaystyle{\int_{-2}^0x\left(x+2\right)^3\,\textrm{d}x,u=x+2
 
 ## Q3
 $$\displaylines{{\displaystyle\int x\sqrt[5]{x-1}\,\textrm{d}x,u=x-1,x=u+1}\\ \\ \int u^{\frac15}\left(u+1\right)\mathrm{d} u\\ \\ {\displaystyle\int\left(u^{6/5}+u^{1/5}\right)\textrm{d}u}}$$
+
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle\int(x^2+1)\sqrt{x-2}\,\textrm{d}x}\\ \\ u=x-2\Rightarrow x=u+2\\ \\ \int\left(u^2+4u+5\right)\left(u^{\frac12}\right)\mathrm{d} u=\int\left(u^{\frac52}+4u^{\frac32}+5u^{\frac12}\right)\mathrm{d} u\\ \\ =\frac27\left(x-2\right)^{\frac72}+\frac85\left(x-2\right)^{\frac52}+\frac{10}{3}\left(x-2\right)^{\frac32}+C}$$
+
+## Q2
+$$\displaylines{{\displaystyle{\int_0^2x\sqrt{\left(2-x\right)^3}\,\textrm{d}x}}\\ \\ u=2-x\Rightarrow x=2-u\\ \\ \int_0^2\left(2-u\right)\left(u^{\frac32}\right)\mathrm{d} u=\left\lbrack\frac45u^{\frac52}-\frac27u^{\frac72}\right\rbrack_0^2\\ \\ \left(\frac45\sqrt{2^5}-\frac27\sqrt{2^7}\right)=\dfrac{\sqrt{2^{11}}}{35}}$$
+
+## Q3
+$$\displaylines{{\displaystyle\int\dfrac{x^3\,\textrm{d}x}{\sqrt{1+x^2}},u=1+x^2\Rightarrow x=\sqrt{u-1}},\frac{\mathrm{d} u}{\mathrm{d} x}=2x\Rightarrow x\cdot\mathrm{d} x=\frac12\mathrm{d} u\\ \\ \frac12\int\left(u-1\right)\left(u^{-\frac12}\right)\mathrm{d} u={\displaystyle\dfrac12\int\left(u^{1/2}-u^{-1/2}\right){\textrm{d}u}}}$$

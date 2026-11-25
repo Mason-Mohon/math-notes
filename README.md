@@ -460,6 +460,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Quiz 15](Quizzes/Quiz%2015.md)
 - [Quiz 16 - Calculus II](Quizzes/Quiz%2016%20-%20Calculus%20II.md)
 - [Quiz 16](Quizzes/Quiz%2016.md)
+- [Quiz 17 - Calculus II](Quizzes/Quiz%2017%20-%20Calculus%20II.md)
 - [Quiz 17](Quizzes/Quiz%2017.md)
 - [Quiz 18](Quizzes/Quiz%2018.md)
 - [Quiz 19](Quizzes/Quiz%2019.md)
@@ -499,3 +500,4 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Stock and Commodity Prices With Piecewise Continuous Functions](Quizzes/Stock%20and%20Commodity%20Prices%20With%20Piecewise%20Continuous%20Functions.md)
 - [Stock and Commodity Prices With Piecewise-Continuous Functions](Quizzes/Stock%20and%20Commodity%20Prices%20With%20Piecewise-Continuous%20Functions.md)
 - [The Chain Rule and Related Rates Involving the Motion of a Particle](Quizzes/The%20Chain%20Rule%20and%20Related%20Rates%20Involving%20the%20Motion%20of%20a%20Particle.md)
+- [Thee Taylor Series of a Function, Interval and Radius of Convergence, and Alternating Series](Quizzes/Thee%20Taylor%20Series%20of%20a%20Function%2C%20Interval%20and%20Radius%20of%20Convergence%2C%20and%20Alternating%20Series.md)

@@ -44,3 +44,14 @@ $$\sqrt{x}\sin{\sqrt{x}}=\left(\sqrt{x}-\frac{1}{3!}x^{\frac32}+\frac{1}{5!}x^{\
 
 ## Q3
 $$\displaylines{\ln\left(2+3x\right)=\ln2+\ln\left(\frac{3x}{2}\right)\\ \\ \ln\left(2+3x\right)=\ln{2}+\dfrac{3x}{2}-\dfrac{9x^2}{8}+\cdots}$$
+
+# Review
+
+## Q1
+$$\displaylines{x\ln(1+x)\\ \\ x\ln(1+x)=x^2-\dfrac12x^3+\dfrac13x^4+\cdots}$$
+
+## Q2
+$$\displaylines{\cos(2x)+\cos\left(\sqrt{x}\right)\\ \\ \cos\left(2x\right)=1-2x^2+\frac{16}{24}x^4-\cdots\\ \\ \cos\left(\sqrt{x}\right)=1-\frac12x+\frac{1}{24}x^2-\cdots\\ \\ \cos(2x)+\cos\left(\sqrt{x}\right)=2-\dfrac{x}{2}-\dfrac{47x^2}{24}+\cdots}$$
+
+## Q3
+$$\displaylines{e^{-x}+\sin(4x).\\ \\ \sin\left(4x\right)=4x-\frac{32}{3}x^3+\frac{1}{5!}x^5-\cdots\\ \\ e^{-x}=1-x+\frac12x^2-\frac16x^3+\\ \\ e^{-x}+\sin(4x)=1+3x+\frac{x^2}{2}-\frac{65x^3}{6}}$$

@@ -57,3 +57,11 @@ $$\displaylines{{\displaystyle\int_{-4}^4f(x)\:\textrm{d}x}\\ \\ \int_{-4}^0f(x)
 
 ## Q3
 $$\displaylines{{\displaystyle\int_{-4}^4f(x)\:\textrm{d}x}\\ \\ \int_{-4}^{-2}f\left(x\right)\mathrm{d} x=0\\ \\ \int_{-2}^1f\left(x\right)\mathrm{d} x=\frac92+\frac62\\ \\ \int_1^4f\left(x\right)\mathrm{d} x=-6\\ \\ \frac{15}{2}-\frac{12}{2}=\frac32}$$
+
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle\int_{-2}^6f(x)\:\textrm{d}x.}\\ \\ =-\frac14\left(4\pi\right)+6+\frac14\left(4\pi\right)-\frac12=\frac{11}{2}}$$
+
+## Q2
+$$\displaylines{{\displaystyle\int_{-4}^3f(x)\:\textrm{d}x.}\\ \\ 8+2\pi+6}$$
