@@ -29,10 +29,10 @@ $$\displaylines{{\displaystyle\int_0^2\dfrac{4x-5}{3x+1}\,\textrm{d}x=}\frac13\i
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{{\displaystyle\int\dfrac{x^3-3x^2-x+2}{x+2}\,\textrm{d}x}\\ \\ \begin{array}{c|rrrr}-2 & x^3 & x^2 & x^1 & x^0\\ {} & 1{} & -3{} & -1{} & 2{}\\  & \downarrow & -2{} & {}10 & {}-18\\ \hline & 1 & {}-5 & {}9 & {}-16\end{array}\\ \\ =\int x^2-5x+9-\frac{16}{x+2}\mathrm{d} x\\ \\ =\dfrac13x^3-\dfrac52x^2+9x-16\ln|x+2|+C}$$
 
 ## Q2
-$$$$
+$$\displaylines{{\displaystyle\int_0^2\dfrac{5x-1}{2x+1}\,\textrm{d}x}\\ \\ \begin{array}{c|rr} & x^1 & x^0\\ -\frac12 & 5 & -1\\  & \downarrow & -\frac52\\ \hline & 5 & -\frac72\end{array}\\ \\ =\int_0^2\left(\frac52-\frac{7}{2\left(2x+1\right)}\right)\mathrm{d} x\\ \\ =\left\lbrack\frac52x-\frac74\ln\left(2x+1\right)\right\rbrack_0^2=\left(5-\frac74\ln5\right)-\left(0\right)}$$
 
 ## Q3
-$$$$
+$$\displaylines{{\displaystyle\int\dfrac{3x^2-2x+1}{x-1}\,\textrm{d}x}\\ \\ \begin{array}{c|rrr}1 & x^2 & x^1 & x^0\\ {} & 3{} & -2{} & 1{}\\  & \downarrow & {}3 & {}1\\ \hline & {}3 & {}1 & {}2\end{array}\\ \\ =\int3x+1+\frac{2}{x-1}\mathrm{d} x=\dfrac32x^2+x+2\ln|x-1|+C}$$
