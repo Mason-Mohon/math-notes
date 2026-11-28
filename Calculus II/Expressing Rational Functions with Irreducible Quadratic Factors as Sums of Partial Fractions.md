@@ -2,7 +2,7 @@
 2026-11-11
 Math Academy
 Subject: Calculus II
-Topics: Rational Functions
+Topics: Rational Functions Partial Fractions
 
 
 $$\displaylines{\frac{3x^2-x+1}{\left(x^2+2\right)\left(x-1\right)}=\frac{Ax+B}{x^2+2}+\frac{C}{x-1}\\ \\ 3x^2-x+1=\left(Ax+B\right)\left(x-1\right)+C\left(x^2+2\right)\\ \\ =\left(A+C\right)x^2+\left(B-A\right)x+\left(2C-B\right)\\ \\ A+C=3,B-A=-1,2C=B=1}$$

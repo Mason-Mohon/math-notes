@@ -2,7 +2,7 @@
 2026-11-07
 Math Academy
 Subject: Calculus II
-Topics: Rational Equations
+Topics: Rational Equations Partial Fractions
 
 
 $$\frac{4x-1}{\left(x+2\right)^2\left(x-1\right)}=\frac{A}{\left(x+2\right)}+\frac{B}{\left(x+2\right)^2}+\frac{C}{\left(x-1\right)}$$

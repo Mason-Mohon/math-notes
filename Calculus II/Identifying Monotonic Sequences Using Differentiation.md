@@ -19,10 +19,10 @@ $$\displaylines{f(x)=\dfrac{x}{x^2+4}\\ \\ f^{\prime}\left(x\right)=\frac{4-x^2}
 # Review
 
 ## Q1
-$$$$
+$$\displaylines{f(x)=\dfrac{1}{(x+3)^2}\\ \\ f^{\prime}\left(x\right)=-\frac{2}{\left(x+3\right)^3}}$$
 
 ## Q2
-$$$$
+$$\displaylines{f(x)=x^4+x^3-20\\ \\ f^{\prime}\left(x\right)=4x^3+3x^2}$$
 
 ## Q3
 $$$$

@@ -118,3 +118,16 @@ $$\displaylines{f(x)=\ln(x^2+1)-2x+1,x\in\left\lbrack0,1\right\rbrack,x_0=0.5\\ 
 
 ## Q3
 $$\displaylines{f(x)=x^4-8x-3,x_0=2,x\in\left\lbrack1,3\right\rbrack\\ \\ f^{\prime}\left(x\right)=4x^3-8\\ \\ x_{n}=x-\frac{x^4-8x-3}{4x^3-8}\\ \\ x=2.11}$$
+
+# Review
+
+$$ x_{n+1}=x_{n}-\frac{f\left(x_{n}\right)}{f^{\prime}\left(x_{n}\right)} $$
+
+## Q1
+$$\displaylines{f(x)=\ln x-1,x\in\left\lbrack1,3\right\rbrack,x_0=1.5\\ \\ f^{\prime}\left(x\right)=\frac{1}{x-1}\\ \\ x_{n}=x-\frac{\ln\left(x-1\right)}{\frac{1}{x-1}}\\ \\ x_1=2.392,x_2=2.698}$$
+
+## Q2
+$$\displaylines{f(x)=\sin(\left(x-4\right)^2)-(x-6),x_0=5.5,x\in\left\lbrack5,6\right\rbrack\\ \\ f^{\prime}\left(x\right)=2\cos\left(\left(x-4\right)^2\right)\left(x-4\right)-1\\ \\ x_{n}=x-\frac{\sin(\left(x-4\right)^2)-(x-6)}{2\cos\left(\left(x-4\right)^2\right)\left(x-4\right)-1}\\ \\ x_1=5.943}$$
+
+## Q3
+$$\displaylines{f(x)=\ln(3x+1)-x^2+1,x_0=1.8,x\in\left\lbrack1,2\right\rbrack\\ \\ f^{\prime}\left(x\right)=\frac{3}{3x+1}-2x\\ \\ x_{n}=x-\frac{\ln(3x+1)-x^2+1}{\frac{3}{3x+1}-2x}\\ \\ x_1=1.677}$$

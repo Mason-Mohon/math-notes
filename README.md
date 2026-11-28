@@ -357,6 +357,7 @@ Public notes from Algebra II, Precalculus, Calculus I, Mathematical Foundations 
 - [Integrating Functions Using Polynomial Division](Calculus%20II/Integrating%20Functions%20Using%20Polynomial%20Division.md)
 - [Integrating Logarithmic Functions Using Substitution](Calculus%20II/Integrating%20Logarithmic%20Functions%20Using%20Substitution.md)
 - [Integrating Products of Trigonometric Functions](Calculus%20II/Integrating%20Products%20of%20Trigonometric%20Functions.md)
+- [Integrating Rational Functions Using Partial Fractions](Calculus%20II/Integrating%20Rational%20Functions%20Using%20Partial%20Fractions.md)
 - [Integrating Trigonometric Functions Using Substitution](Calculus%20II/Integrating%20Trigonometric%20Functions%20Using%20Substitution.md)
 - [Integrating Vector-Valued Functions](Calculus%20II/Integrating%20Vector-Valued%20Functions.md)
 - [Integration by Parts in Cyclic Cases](Calculus%20II/Integration%20by%20Parts%20in%20Cyclic%20Cases.md)

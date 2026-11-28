@@ -52,3 +52,14 @@ $$\displaylines{\int_{-\infty}^{\infty}\dfrac{1}{9+x^2}\mathrm{d}x\\ \\ =2\left\
 
 ## Q3
 $$\displaylines{{\displaystyle\int_{-\infty}^{\infty}\dfrac{x^2}{1+x^6}\,\textrm{d}x=2\lim_{a\to\infty}\int_0^{a}\frac{x^2}{1+x^6}\mathrm{d} x}\\ \\ u=x^3\Rightarrow\frac{\mathrm{d} u}{\mathrm{d} x}=3x^2\Rightarrow\frac13\mathrm{d} u=x^2\mathrm{d} x\\ \\ =\frac23\lim_{a\to\infty}\int_0^{a}\frac{1}{1+u^2}\mathrm{d} x=\frac23\cdot\frac{\pi}{2}=\frac{\pi}{3}}$$
+
+# Review
+
+## Q1
+$$\displaylines{{\displaystyle\int_{-\infty}^{\infty}\dfrac{6x^5}{\left(3+x^6\right)^2}\,\textrm{d}x}\\ \\ \lim_{a\to\infty}\int_3^{a}\frac{1}{u^2}\mathrm{d} u=\left\lbrack-\frac{1}{u}\right\rbrack_3^{a}=-\frac{1}{a}+\frac13\\ \\ \lim_{a\to-\infty}\int_{a}^3\frac{1}{u^2}\mathrm{d} u=\left\lbrack-\frac{1}{u}\right\rbrack_{a}^3=-\frac13+\frac{1}{a}\\ \\ {\displaystyle\int_{-\infty}^{\infty}\dfrac{6x^5}{\left(3+x^6\right)^2}\,\textrm{d}x}=\frac13-\frac13=0}$$
+
+## Q2
+$$\displaylines{y=3x^2e^{-|x|^3}\\ \\ \int_{-\infty}^{\infty}\left(3x^2e^{-|x|^3}\right)\mathrm{d} x\\ \\ \lim_{a\to\infty}\int_0^{a}e^{-u}\mathrm{d} u=\left\lbrack-\frac{1}{e^{\left|u\right|}}\right\rbrack_0^{a}=-\frac{1}{e^{a}}+1\\ \\ \lim_{a\to-\infty}\int_{a}^0e^{u}\mathrm{d} u=1-0\\ \\ A=2}$$
+
+## Q3
+$$\displaylines{y=\dfrac{3}{16+x^2}\\ \\ \int_{-\infty}^{\infty}\dfrac{3}{16+x^2}\mathrm{d} x,\int\frac{1}{k^2+x^2}\mathrm{d}x=\frac{1}{k}\arctan\left(\frac{x}{k}\right)+C\\ \\ \left\lbrack\frac34\arctan\left(\frac{x}{4}\right)\right\rbrack_0^{a}=\frac34\arctan a=\frac{3\pi}{8}}$$
